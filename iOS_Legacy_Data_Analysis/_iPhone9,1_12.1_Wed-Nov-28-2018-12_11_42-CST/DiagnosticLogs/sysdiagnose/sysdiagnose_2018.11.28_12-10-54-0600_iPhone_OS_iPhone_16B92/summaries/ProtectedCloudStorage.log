@@ -1,0 +1,5 @@
+
+APPLYING PREDICATE (null)
+SDUnitLogGlob with glob '/var/mobile/Library/Logs/CrashReporter/DiagnosticLogs/ProtectedCloudStorage*.log': found no matches
+
+ENFORCING SIZE LIMIT OF 5 MB

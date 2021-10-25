@@ -1,0 +1,5 @@
+{"timestamp":"2018-11-22 19:39:36.81 -0600","bug_type":"211","os_version":"iPhone OS 11.4.1 (15G77)","incident_id":"1B66A825-4E10-4251-9B0A-4699362CE911"}
+{"_marker":"<metadata>","_preferredUserInterfaceLanguage":"en","_userInterfaceLanguage":"en","_userSetRegionFormat":"<unknown>","startTimestamp":"2018-11-22T00:26:36Z","version":"1.0"}
+{"message":{"BogusFieldNotActuallyEverUsed":null,"Count":12},"name":"TwoHourHeartbeatCount","uuid":"7ad14604-ce6e-45f3-bd39-5bc186d92049"}
+{"message":{"BogusFieldNotActuallyEverUsed":null,"Count":1},"name":"OneDayHeartBeatCount","uuid":"a4813163-fd49-44ea-b3e1-e47a015e629c"}
+{"_marker":"<end-of-file>"}

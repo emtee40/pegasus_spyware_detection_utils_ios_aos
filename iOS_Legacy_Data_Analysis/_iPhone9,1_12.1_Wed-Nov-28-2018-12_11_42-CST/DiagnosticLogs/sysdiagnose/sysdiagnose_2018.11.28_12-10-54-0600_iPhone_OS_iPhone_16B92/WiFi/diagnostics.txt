@@ -1,0 +1,71 @@
+# --- Diagnostics
+
+————————————————————————————————————————————————————————————————————————————————————————————————————————
+Timestamp    Name                          Duration    Result    Description                            
+————————————————————————————————————————————————————————————————————————————————————————————————————————
+12:11:06.719 Ping WAN (CFNetwork)          0.036       Yes       Could ping DNS server (17.254.0.22 / 33.32ms / BE / 68 bytes / i=1.000000s / W=1.000000s / t=1.600000s / c=1)
+12:11:06.620 Ping LAN (CFNetwork)          0.136       Yes       Could ping router (10.0.0.1 / 131.73ms / BK / 65 bytes / i=1.000000s / W=1.000000s t=1.600000s / c=1)
+12:11:06.719 Ping WAN (CFNetwork)          0.040       Yes       Could ping DNS server (216.177.160.237 / 30.17ms / BE / 69 bytes / i=1.000000s / W=1.000000s / t=1.600000s / c=1)
+12:11:06.667 Ping LAN (CFNetwork)          0.092       Yes       Could ping router (10.0.0.1 / 81.51ms / VO / 67 bytes / i=1.000000s / W=1.000000s t=1.600000s / c=1)
+12:11:06.761 Reach Apple                   0.001       Yes       Could reach 'www.apple.com'
+12:11:06.667 Ping LAN (CFNetwork)          0.096       Yes       Could ping router (10.0.0.1 / 82.11ms / VI / 66 bytes / i=1.000000s / W=1.000000s t=1.600000s / c=1)
+12:11:06.620 Ping LAN (CFNetwork)          0.146       Yes       Could ping router (10.0.0.1 / 129.38ms / BE / 64 bytes / i=1.000000s / W=1.000000s t=1.600000s / c=1)
+12:11:06.758 Resolve DNS                   0.021       Yes       Could resolve 'captive.apple.com'
+12:11:06.761 Retrieve Apple Over WiFi      0.727       Yes       Could retrieve 'https://captive.apple.com' over Wi-Fi
+12:11:07.505 Wi-Fi Link                    0.000       Yes       Wi-Fi is associated to 'PhoneReset'
+12:11:07.509 IPv4 Assigned                 0.002       Yes       Wi-Fi has IPv4 assigned (router=10.0.0.1 ip=10.0.3.231)
+12:11:07.512 IPv6 Assigned                 0.001       No        Wi-Fi does not have IPv6 assigned
+12:11:07.514 Primary IPv4 is Wi-Fi         0.004       Yes       en0 (Wi-Fi / 70C03ADB-F6FD-4209-9ABF-A0CD9C629E83)
+12:11:07.519 Primary IPv6 is Wi-Fi         0.001       No        None
+12:11:07.520 Custom IPv4                   0.000       No        Wi-Fi is using 'None' for IPv4
+12:11:07.521 Custom IPv6                   0.001       No        Wi-Fi is using 'None' for IPv6
+12:11:07.525 Custom DNS                    0.000       No        Did not detect custom DNS settings
+12:11:07.526 Custom Web Proxy              0.000       No        Did not detect custom web proxy settings
+12:11:07.527 High BT Paired Count          0.000       No        Paired Bluetooth device count (0)
+12:11:07.528 High BT Connected Count       0.000       No        Connected Bluetooth device count (0)
+12:11:07.529 BT Coex Active                0.000       No        Bluetooth coexistence is not active
+12:11:07.529 AWDL Enabled                  0.000       No        AWDL is not active
+12:11:07.529 AWDL Real Time Mode           0.000       No        AWDL real time mode is not active
+12:11:07.530 Leaky AP                      0.003       No        Current network is not 'leaky'
+12:11:07.534 Poor Wi-Fi Signal             0.000       No        Current network has good signal (RSSI=-57dBm, SNR=44dB)
+12:11:07.535 Long Beacon Interval          0.007       No        Beacon interval is 20ms
+12:11:07.543 Long DTIM Interval            0.001       No        DTIM interval is 0ms
+12:11:07.545 No Wi-Fi Security (Open)      0.004       Yes       Current network uses open security
+12:11:07.549 Legacy Wi-Fi Security (WPA)   0.003       No        Current network does not use WPA security (None)
+12:11:07.553 Legacy Wi-Fi Security (WEP)   0.003       No        Current network does not use WEP security (None)
+12:11:07.557 Legacy Wi-Fi Rates (802.11b)  0.001       No        Current network is not using 802.11b
+12:11:07.560 iOS Personal Hotspot          0.002       No        Current network is not an iOS PH
+12:11:07.563 Passpoint                     0.004       No        Current network is not Passpoint
+12:11:07.567 AirPort Base Station          0.002       No        Current network is not an AirPort Base Station
+12:11:07.570 Ambiguous Network Name        0.000       No        PhoneReset is not ambiguous
+
+
+
+# --- Ping Results
+
+————————————————————————————————————————————————————————————————————
+[12:11:06.719 - 12:11:06.753]
+(null)
+(null)
+————————————————————————————————————————————————————————————————————
+[12:11:06.621 - 12:11:06.753]
+(null)
+(null)
+————————————————————————————————————————————————————————————————————
+[12:11:06.720 - 12:11:06.751]
+(null)
+(null)
+————————————————————————————————————————————————————————————————————
+[12:11:06.669 - 12:11:06.751]
+(null)
+(null)
+————————————————————————————————————————————————————————————————————
+[12:11:06.669 - 12:11:06.751]
+(null)
+(null)
+————————————————————————————————————————————————————————————————————
+[12:11:06.621 - 12:11:06.765]
+(null)
+(null)
+
+

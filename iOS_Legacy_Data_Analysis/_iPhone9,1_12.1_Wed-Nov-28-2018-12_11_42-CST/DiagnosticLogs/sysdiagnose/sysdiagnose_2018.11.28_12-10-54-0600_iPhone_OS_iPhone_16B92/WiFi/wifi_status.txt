@@ -1,0 +1,33 @@
+# --- Wi-Fi Status
+
+    MAC Address          : cc:08:8d:2f:a6:a3
+    Interface Name       : en0
+    Power                : On [On]
+    Op Mode              : STA
+    SSID                 : PhoneReset
+    BSSID                : 00:14:d1:af:39:70
+    RSSI                 : -59 dBm
+    Noise                : -101 dBm
+    Tx Rate              : 11.0 Mbps
+    Security             : None
+    PHY Mode             : 11n
+    MCS Index            : 0
+    Guard Interval       : 800
+    NSS                  : 0
+    Channel              : 1 (20 MHz, Active)
+    Country Code         : US
+    NetworkServiceID     : 70C03ADB-F6FD-4209-9ABF-A0CD9C629E83
+    IPv4 Config Method   : DHCP
+    IPv4 Address         : 10.0.3.231
+    IPv4 Router          : 10.0.0.1
+    IPv6 Config Method   : Automatic
+    IPv6 Address         : None
+    IPv6 Router          : None
+    DNS                  : 216.177.160.237
+                         : 216.177.160.238
+                         : 216.177.160.239
+    BTC Mode             : Unavailable
+    Desense              : Unavailable
+    Chain Ack            : Unavailable
+
+

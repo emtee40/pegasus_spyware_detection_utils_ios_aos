@@ -1,0 +1,1 @@
+[1;31mERROR:[0m Tracing is off - cannot save trace data to tailspin file

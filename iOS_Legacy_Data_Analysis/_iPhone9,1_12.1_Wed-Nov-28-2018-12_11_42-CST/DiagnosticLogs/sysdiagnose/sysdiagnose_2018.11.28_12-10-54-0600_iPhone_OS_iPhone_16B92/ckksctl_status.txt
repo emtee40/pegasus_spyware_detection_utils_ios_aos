@@ -1,0 +1,251 @@
+================================================================================
+
+Global state:
+
+Current self:         <null>
+Trusted peers:        (
+)
+Reachability:         network
+CK DeviceID:          <null>
+CK DeviceID Error:    <null>
+
+================================================================================
+
+View: ApplePay
+
+CloudKit account:     logged out
+Account tracker:      <CKKSCKAccountStateTracker: no account (<CKAccountInfo: accountStatus=No account, accountPartition=Prod, supportsDeviceToDeviceEncryption=NO, hasValidCredentials=NO, hasEncryptionIdentity=NO> <SOSStatus: InternalError ((null))>) Error Domain=CKKSErrorDomain Code=10 "iCloud account is logged out" UserInfo={NSLocalizedDescription=iCloud account is logged out}>
+CK Zone Created:            no
+CK Zone Created error:      <null>
+CK Zone Subscribed:         no
+CK Zone Subscription error: <null>
+CK Zone initialize retry:   <CKKSNearFutureScheduler(ApplePay-zone-initializer): no pending attempts
+
+Key state:            loggedout
+Lock state:           <CKKSLockStateTracker: unlocked last:now>
+Current TLK:          missing; pointer is <null>
+Current ClassA:       missing; pointer is <null>
+Current ClassC:       missing; pointer is <null>
+TLK shares:           (
+)
+Outgoing Queue counts: {
+}
+Incoming Queue counts: {
+}
+Key counts: {
+}
+latest manifest generation: null
+Item counts (by key):  {
+}
+Peer states:           (
+)
+zone change fetcher:                 <CKKSZoneChangeFetcher(zone-change-fetcher): no pending fetches
+zoneSetupOperation:                  never
+keyStateOperation:                   never
+lastIncomingQueueOperation:          never
+lastNewTLKOperation:                 never
+lastOutgoingQueueOperation:          never
+lastProcessReceivedKeysOperation:    never
+lastReencryptOutgoingItemsOperation: never
+lastScanLocalItemsOperation:         never
+
+================================================================================
+
+View: AutoUnlock
+
+CloudKit account:     logged out
+Account tracker:      <CKKSCKAccountStateTracker: no account (<CKAccountInfo: accountStatus=No account, accountPartition=Prod, supportsDeviceToDeviceEncryption=NO, hasValidCredentials=NO, hasEncryptionIdentity=NO> <SOSStatus: InternalError ((null))>) Error Domain=CKKSErrorDomain Code=10 "iCloud account is logged out" UserInfo={NSLocalizedDescription=iCloud account is logged out}>
+CK Zone Created:            no
+CK Zone Created error:      <null>
+CK Zone Subscribed:         no
+CK Zone Subscription error: <null>
+CK Zone initialize retry:   <CKKSNearFutureScheduler(AutoUnlock-zone-initializer): no pending attempts
+
+Key state:            loggedout
+Lock state:           <CKKSLockStateTracker: unlocked last:now>
+Current TLK:          missing; pointer is <null>
+Current ClassA:       missing; pointer is <null>
+Current ClassC:       missing; pointer is <null>
+TLK shares:           (
+)
+Outgoing Queue counts: {
+}
+Incoming Queue counts: {
+}
+Key counts: {
+}
+latest manifest generation: null
+Item counts (by key):  {
+}
+Peer states:           (
+)
+zone change fetcher:                 <CKKSZoneChangeFetcher(zone-change-fetcher): no pending fetches
+zoneSetupOperation:                  never
+keyStateOperation:                   never
+lastIncomingQueueOperation:          never
+lastNewTLKOperation:                 never
+lastOutgoingQueueOperation:          never
+lastProcessReceivedKeysOperation:    never
+lastReencryptOutgoingItemsOperation: never
+lastScanLocalItemsOperation:         never
+
+================================================================================
+
+View: Engram
+
+CloudKit account:     logged out
+Account tracker:      <CKKSCKAccountStateTracker: no account (<CKAccountInfo: accountStatus=No account, accountPartition=Prod, supportsDeviceToDeviceEncryption=NO, hasValidCredentials=NO, hasEncryptionIdentity=NO> <SOSStatus: InternalError ((null))>) Error Domain=CKKSErrorDomain Code=10 "iCloud account is logged out" UserInfo={NSLocalizedDescription=iCloud account is logged out}>
+CK Zone Created:            no
+CK Zone Created error:      <null>
+CK Zone Subscribed:         no
+CK Zone Subscription error: <null>
+CK Zone initialize retry:   <CKKSNearFutureScheduler(Engram-zone-initializer): no pending attempts
+
+Key state:            loggedout
+Lock state:           <CKKSLockStateTracker: unlocked last:now>
+Current TLK:          missing; pointer is <null>
+Current ClassA:       missing; pointer is <null>
+Current ClassC:       missing; pointer is <null>
+TLK shares:           (
+)
+Outgoing Queue counts: {
+}
+Incoming Queue counts: {
+}
+Key counts: {
+}
+latest manifest generation: null
+Item counts (by key):  {
+}
+Peer states:           (
+)
+zone change fetcher:                 <CKKSZoneChangeFetcher(zone-change-fetcher): no pending fetches
+zoneSetupOperation:                  never
+keyStateOperation:                   never
+lastIncomingQueueOperation:          never
+lastNewTLKOperation:                 never
+lastOutgoingQueueOperation:          never
+lastProcessReceivedKeysOperation:    never
+lastReencryptOutgoingItemsOperation: never
+lastScanLocalItemsOperation:         never
+
+================================================================================
+
+View: Health
+
+CloudKit account:     logged out
+Account tracker:      <CKKSCKAccountStateTracker: no account (<CKAccountInfo: accountStatus=No account, accountPartition=Prod, supportsDeviceToDeviceEncryption=NO, hasValidCredentials=NO, hasEncryptionIdentity=NO> <SOSStatus: InternalError ((null))>) Error Domain=CKKSErrorDomain Code=10 "iCloud account is logged out" UserInfo={NSLocalizedDescription=iCloud account is logged out}>
+CK Zone Created:            no
+CK Zone Created error:      <null>
+CK Zone Subscribed:         no
+CK Zone Subscription error: <null>
+CK Zone initialize retry:   <CKKSNearFutureScheduler(Health-zone-initializer): no pending attempts
+
+Key state:            loggedout
+Lock state:           <CKKSLockStateTracker: unlocked last:now>
+Current TLK:          missing; pointer is <null>
+Current ClassA:       missing; pointer is <null>
+Current ClassC:       missing; pointer is <null>
+TLK shares:           (
+)
+Outgoing Queue counts: {
+}
+Incoming Queue counts: {
+}
+Key counts: {
+}
+latest manifest generation: null
+Item counts (by key):  {
+}
+Peer states:           (
+)
+zone change fetcher:                 <CKKSZoneChangeFetcher(zone-change-fetcher): no pending fetches
+zoneSetupOperation:                  never
+keyStateOperation:                   never
+lastIncomingQueueOperation:          never
+lastNewTLKOperation:                 never
+lastOutgoingQueueOperation:          never
+lastProcessReceivedKeysOperation:    never
+lastReencryptOutgoingItemsOperation: never
+lastScanLocalItemsOperation:         never
+
+================================================================================
+
+View: Home
+
+CloudKit account:     logged out
+Account tracker:      <CKKSCKAccountStateTracker: no account (<CKAccountInfo: accountStatus=No account, accountPartition=Prod, supportsDeviceToDeviceEncryption=NO, hasValidCredentials=NO, hasEncryptionIdentity=NO> <SOSStatus: InternalError ((null))>) Error Domain=CKKSErrorDomain Code=10 "iCloud account is logged out" UserInfo={NSLocalizedDescription=iCloud account is logged out}>
+CK Zone Created:            no
+CK Zone Created error:      <null>
+CK Zone Subscribed:         no
+CK Zone Subscription error: <null>
+CK Zone initialize retry:   <CKKSNearFutureScheduler(Home-zone-initializer): no pending attempts
+
+Key state:            loggedout
+Lock state:           <CKKSLockStateTracker: unlocked last:now>
+Current TLK:          missing; pointer is <null>
+Current ClassA:       missing; pointer is <null>
+Current ClassC:       missing; pointer is <null>
+TLK shares:           (
+)
+Outgoing Queue counts: {
+}
+Incoming Queue counts: {
+}
+Key counts: {
+}
+latest manifest generation: null
+Item counts (by key):  {
+}
+Peer states:           (
+)
+zone change fetcher:                 <CKKSZoneChangeFetcher(zone-change-fetcher): no pending fetches
+zoneSetupOperation:                  never
+keyStateOperation:                   never
+lastIncomingQueueOperation:          never
+lastNewTLKOperation:                 never
+lastOutgoingQueueOperation:          never
+lastProcessReceivedKeysOperation:    never
+lastReencryptOutgoingItemsOperation: never
+lastScanLocalItemsOperation:         never
+
+================================================================================
+
+View: Manatee
+
+CloudKit account:     logged out
+Account tracker:      <CKKSCKAccountStateTracker: no account (<CKAccountInfo: accountStatus=No account, accountPartition=Prod, supportsDeviceToDeviceEncryption=NO, hasValidCredentials=NO, hasEncryptionIdentity=NO> <SOSStatus: InternalError ((null))>) Error Domain=CKKSErrorDomain Code=10 "iCloud account is logged out" UserInfo={NSLocalizedDescription=iCloud account is logged out}>
+CK Zone Created:            no
+CK Zone Created error:      <null>
+CK Zone Subscribed:         no
+CK Zone Subscription error: <null>
+CK Zone initialize retry:   <CKKSNearFutureScheduler(Manatee-zone-initializer): no pending attempts
+
+Key state:            loggedout
+Lock state:           <CKKSLockStateTracker: unlocked last:now>
+Current TLK:          missing; pointer is <null>
+Current ClassA:       missing; pointer is <null>
+Current ClassC:       missing; pointer is <null>
+TLK shares:           (
+)
+Outgoing Queue counts: {
+}
+Incoming Queue counts: {
+}
+Key counts: {
+}
+latest manifest generation: null
+Item counts (by key):  {
+}
+Peer states:           (
+)
+zone change fetcher:                 <CKKSZoneChangeFetcher(zone-change-fetcher): no pending fetches
+zoneSetupOperation:                  never
+keyStateOperation:                   never
+lastIncomingQueueOperation:          never
+lastNewTLKOperation:                 never
+lastOutgoingQueueOperation:          never
+lastProcessReceivedKeysOperation:    never
+lastReencryptOutgoingItemsOperation: never
+lastScanLocalItemsOperation:         never
+

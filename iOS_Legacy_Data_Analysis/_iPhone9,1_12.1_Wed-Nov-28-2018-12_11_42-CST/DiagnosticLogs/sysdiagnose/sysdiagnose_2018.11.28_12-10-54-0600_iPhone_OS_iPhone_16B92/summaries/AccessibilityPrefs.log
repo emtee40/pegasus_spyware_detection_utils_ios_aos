@@ -1,0 +1,15 @@
+
+APPLYING PREDICATE (null)
+/var/mobile/Library/Preferences/com.apple.Accessibility.GuidedAccess.plist, File not found: (null)
+/var/mobile/Library/Preferences/com.apple.VoiceOverTouch.plist, Duplicate file: (null)
+/var/mobile/Library/Preferences/com.apple.ZoomTouch.plist, File not found: (null)
+/var/mobile/Library/Preferences/com.apple.HearingAids.plist, File not found: (null)
+/var/mobile/Library/Preferences/com.apple.Accessibility.TouchAccommodations.plist, File not found: (null)
+/var/mobile/Library/Preferences/com.apple.Accessibility.Magnifier.plist, File not found: (null)
+
+ENFORCING SIZE LIMIT OF 5 MB
+/var/mobile/Library/Preferences/com.apple.VoiceOverTouch.plist, Added
+/var/mobile/Library/Preferences/com.apple.Accessibility.plist, Added
+/var/mobile/Library/Preferences/com.apple.Accessibility.SwitchControl.plist, Added
+/var/mobile/Library/Preferences/com.apple.SpeakSelection.plist, Added
+/var/mobile/Library/Preferences/com.apple.AssistiveTouch.plist, Added

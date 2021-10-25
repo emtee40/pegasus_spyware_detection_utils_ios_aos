@@ -1,0 +1,37 @@
+{"app_name":"Unknown","app_version":"","bug_type":"144","timestamp":"2018-11-28 10:10:48.89 -0600","os_version":"iPhone OS 11.4.1 (15G77)","incident_id":"BAC12FEF-6ADF-4134-9EBE-AAACCE235537","slice_uuid":"","build_version":"","is_first_party":true,"share_with_app_devs":false,"name":"Unknown"}
+Date/Time:       2018-11-27 00:00:00 -0600
+OS Version:      iPhone OS 11.4.1 (Build 15G77)
+Architecture:    arm64
+Report Version:  19
+
+Event:           disk writes
+Action taken:    none
+Start time:      2018-11-27 00:00:00 -0600
+End time:        2018-11-28 00:00:00 -0600
+Duration:        86400s
+Steps:           25 (10.5 MB/step)
+
+Hardware model:  iPhone9,1
+Active cpus:     2
+
+Binary Images:
+1	libsystem_pthread.dylib		<07C87E38-74B7-3D12-8F0F-A331D8894B97>	/usr/lib/system/libsystem_pthread.dylib
+2	libdispatch.dylib		<0C931AC7-6013-3DE1-87BB-6F440BEED5EB>	/usr/lib/system/libdispatch.dylib
+3			<923593D0-F0CC-3BB4-B6B3-567E9612CCB4>	
+4	libsystem_kernel.dylib		<E102701E-F880-3CD4-A5D5-4F5F14433DBD>	/usr/lib/system/libsystem_kernel.dylib
+
+
+Powerstats for:  launchd
+UUID:            3
+Microstackshots: 25 samples
+Primary state:   19 samples state 0x14994
+0 25 1 + 3696
+1 25 2 + 86168
+2 25 2 + 52424
+3 25 2 + 49916
+4 25 2 + 47212
+5 25 2 + 79748
+6 25 2 + 40596
+7 25 4 + 148328
+8 4 <state 0x1499c>
+8 2 <state 0x14990>

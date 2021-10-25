@@ -1,0 +1,784 @@
+2018-11-28 12:10:54: The following properties were changed from default:
+Property shouldCreateTarBall changed from default 1 to 0
+Property shouldCreateTarBall changed from default 1 to 0
+
+2018-11-28 12:10:54: sysdiagnose version 3.0 (510)
+2018-11-28 12:10:54: iPhone OS 12.1 (Build 16B92)
+2018-11-28 12:10:54: Sysdiagnose mode: Customer
+2018-11-28 12:10:54: Request source: XPC
+2018-11-28 12:10:54: Disabling streaming into tar as we are not creating tar ball
+2018-11-28 12:10:54: 
+Should run full idstool dump: NO
+
+
+2018-11-28 12:10:54: The case is Companion only
+2018-11-28 12:10:54: Posting start notification
+2018-11-28 12:10:54: 
+Enter TIME SENSITIVE phase
+2018-11-28 12:10:54: Triggering async aspsnapshot
+2018-11-28 12:10:54: Trying to create a sysdiagnose_helper connection
+2018-11-28 12:10:54: tailspin : Req - 0010 State - 0038. Did conditions pass: 1
+2018-11-28 12:10:54: Executing container: tailspin...
+2018-11-28 12:10:54: Sending HANDSHAKE to sysdiagnose_helper
+2018-11-28 12:10:54: tailspin (/usr/bin/tailspinsave --no-symbolicate --reason sysdiagnose /var/mobile/Library/Logs/CrashReporter/DiagnosticLogs/sysdiagnose/IN_PROGRESS_sysdiagnose_2018.11.28_12-10-54-0600_iPhone_OS_iPhone_16B92/tailspin-trace.tailspin): Req - 0010 State - 0038. Did conditions pass: 1
+2018-11-28 12:10:54: tailspin (/usr/bin/tailspininfo): Req - 0010 State - 0038. Did conditions pass: 1
+2018-11-28 12:10:54: Executing '/usr/bin/tailspin save --no-symbolicate --reason sysdiagnose /var/mobile/Library/Logs/CrashReporter/DiagnosticLogs/sysdiagnose/IN_PROGRESS_sysdiagnose_2018.11.28_12-10-54-0600_iPhone_OS_iPhone_16B92/tailspin-trace.tailspin'
+2018-11-28 12:10:54: Child process '/usr/bin/tailspin save --no-symbolicate --reason sysdiagnose /var/mobile/Library/Logs/CrashReporter/DiagnosticLogs/sysdiagnose/IN_PROGRESS_sysdiagnose_2018.11.28_12-10-54-0600_iPhone_OS_iPhone_16B92/tailspin-trace.tailspin' exited with status 22
+2018-11-28 12:10:54: /usr/bin/tailspin save --no-symbolicate --reason sysdiagnose /var/mobile/Library/Logs/CrashReporter/DiagnosticLogs/sysdiagnose/IN_PROGRESS_sysdiagnose_2018.11.28_12-10-54-0600_iPhone_OS_iPhone_16B92/tailspin-trace.tailspin terminated
+2018-11-28 12:10:54: Elapsed time: 0.004418 seconds for task '/usr/bin/tailspin save --no-symbolicate --reason sysdiagnose /var/mobile/Library/Logs/CrashReporter/DiagnosticLogs/sysdiagnose/IN_PROGRESS_sysdiagnose_2018.11.28_12-10-54-0600_iPhone_OS_iPhone_16B92/tailspin-trace.tailspin'
+2018-11-28 12:10:54: Executing '/usr/bin/tailspin info'
+2018-11-28 12:10:54: sysdiagnose_helper connection success
+2018-11-28 12:10:54: /var/mobile/Library/Logs/CrashReporter/DiagnosticLogs/sysdiagnose/IN_PROGRESS_sysdiagnose_2018.11.28_12-10-54-0600_iPhone_OS_iPhone_16B92.tmp/ASPSnapshots : Req - 0008 State - 0038. Did conditions pass: 1
+2018-11-28 12:10:54: Executing container: /var/mobile/Library/Logs/CrashReporter/DiagnosticLogs/sysdiagnose/IN_PROGRESS_sysdiagnose_2018.11.28_12-10-54-0600_iPhone_OS_iPhone_16B92.tmp/ASPSnapshots...
+2018-11-28 12:10:54: (ASPSnapshots) SPI call did not return an XPC_ARRAY
+2018-11-28 12:10:54: /var/mobile/Library/Logs/CrashReporter/DiagnosticLogs/sysdiagnose/IN_PROGRESS_sysdiagnose_2018.11.28_12-10-54-0600_iPhone_OS_iPhone_16B92.tmp/ASPSnapshots resulted in 0 paths
+2018-11-28 12:10:54: DONE: /var/mobile/Library/Logs/CrashReporter/DiagnosticLogs/sysdiagnose/IN_PROGRESS_sysdiagnose_2018.11.28_12-10-54-0600_iPhone_OS_iPhone_16B92.tmp/ASPSnapshots
+2018-11-28 12:10:54: Summary located at /var/mobile/Library/Logs/CrashReporter/DiagnosticLogs/sysdiagnose/IN_PROGRESS_sysdiagnose_2018.11.28_12-10-54-0600_iPhone_OS_iPhone_16B92/summaries/ASPSnapshots.log
+2018-11-28 12:10:54: ASPSnapshots : Req - 0008 State - 0038. Did conditions pass: 1
+2018-11-28 12:10:54: Executing container: ASPSnapshots...
+2018-11-28 12:10:54: ASPSnapshots : Req - 0008 State - 0038. Did conditions pass: 1
+2018-11-28 12:10:54: ASPSnapshots : Req - 0008 State - 0038. Did conditions pass: 1
+2018-11-28 12:10:54: Child process '/usr/bin/tailspin info' exited with status 0
+2018-11-28 12:10:54: /usr/bin/tailspin info terminated
+2018-11-28 12:10:54: Elapsed time: 0.013819 seconds for task '/usr/bin/tailspin info'
+2018-11-28 12:10:54: DONE: ASPSnapshots
+2018-11-28 12:10:54: Finished serial execution.
+2018-11-28 12:10:54: OK, all tasks done.
+2018-11-28 12:10:54: DONE: tailspin
+2018-11-28 12:10:54: spindump : Req - 0010 State - 0038. Did conditions pass: 1
+2018-11-28 12:10:54: Executing container: spindump...
+2018-11-28 12:10:54: <OUTPUTDIR> Substitution found: <OUTPUTDIR>/spindump-nosymbols.txt --> /var/mobile/Library/Logs/CrashReporter/DiagnosticLogs/sysdiagnose/IN_PROGRESS_sysdiagnose_2018.11.28_12-10-54-0600_iPhone_OS_iPhone_16B92/spindump-nosymbols.txt
+2018-11-28 12:10:54: spindump (/usr/sbin/spindump-notarget 2 250 -noProcessingWhileSampling -noSymbolicate -file /var/mobile/Library/Logs/CrashReporter/DiagnosticLogs/sysdiagnose/IN_PROGRESS_sysdiagnose_2018.11.28_12-10-54-0600_iPhone_OS_iPhone_16B92/spindump-nosymbols.txt): Req - 0010 State - 0038. Did conditions pass: 1
+2018-11-28 12:10:54: Executing '/usr/sbin/spindump -notarget 2 250 -noProcessingWhileSampling -noSymbolicate -file /var/mobile/Library/Logs/CrashReporter/DiagnosticLogs/sysdiagnose/IN_PROGRESS_sysdiagnose_2018.11.28_12-10-54-0600_iPhone_OS_iPhone_16B92/spindump-nosymbols.txt'
+2018-11-28 12:10:57: Child process '/usr/sbin/spindump -notarget 2 250 -noProcessingWhileSampling -noSymbolicate -file /var/mobile/Library/Logs/CrashReporter/DiagnosticLogs/sysdiagnose/IN_PROGRESS_sysdiagnose_2018.11.28_12-10-54-0600_iPhone_OS_iPhone_16B92/spindump-nosymbols.txt' exited with status 0
+2018-11-28 12:10:57: /usr/sbin/spindump -notarget 2 250 -noProcessingWhileSampling -noSymbolicate -file /var/mobile/Library/Logs/CrashReporter/DiagnosticLogs/sysdiagnose/IN_PROGRESS_sysdiagnose_2018.11.28_12-10-54-0600_iPhone_OS_iPhone_16B92/spindump-nosymbols.txt terminated
+2018-11-28 12:10:57: Elapsed time: 2.689293 seconds for task '/usr/sbin/spindump -notarget 2 250 -noProcessingWhileSampling -noSymbolicate -file /var/mobile/Library/Logs/CrashReporter/DiagnosticLogs/sysdiagnose/IN_PROGRESS_sysdiagnose_2018.11.28_12-10-54-0600_iPhone_OS_iPhone_16B92/spindump-nosymbols.txt'
+2018-11-28 12:10:57: Finished serial execution.
+2018-11-28 12:10:57: OK, all tasks done.
+2018-11-28 12:10:57: DONE: spindump
+2018-11-28 12:10:57: Summary located at /var/mobile/Library/Logs/CrashReporter/DiagnosticLogs/sysdiagnose/IN_PROGRESS_sysdiagnose_2018.11.28_12-10-54-0600_iPhone_OS_iPhone_16B92/summaries/tailspin-history.log
+2018-11-28 12:10:57: tailspin-history : Req - 0010 State - 0038. Did conditions pass: 1
+2018-11-28 12:10:57: Executing container: tailspin-history...
+2018-11-28 12:10:57: tailspin-history : Req - 0010 State - 0038. Did conditions pass: 1
+2018-11-28 12:10:57: DONE: tailspin-history
+2018-11-28 12:10:57: processesInfo : Req - 0010 State - 0038. Did conditions pass: 1
+2018-11-28 12:10:57: Executing container: processesInfo...
+2018-11-28 12:10:57: processesInfo (/bin/psaxwww -o user,uid,pid,ppid,%cpu,%mem,pri,ni,vsz,rss,wchan,tt,stat,start,time,command): Req - 0010 State - 0038. Did conditions pass: 1
+2018-11-28 12:10:57: processesInfo (/bin/psaxMwww -o ppid,%mem,pri,ni,vsz,rss,wchan,start,time,command): Req - 0010 State - 0038. Did conditions pass: 1
+2018-11-28 12:10:57: processesInfo (/usr/local/bin/jetsam_priority-e -k): Req - 0011 State - 0038. Did conditions pass: 0
+2018-11-28 12:10:57: processesInfo (/usr/bin/vm_stat-c 25 0.2): Req - 0010 State - 0038. Did conditions pass: 1
+2018-11-28 12:10:57: processesInfo (/usr/bin/taskinfo--threads --boosts): Req - 0010 State - 0038. Did conditions pass: 1
+2018-11-28 12:10:57: Executing '/usr/bin/vm_stat -c 25 0.2'
+2018-11-28 12:10:57: Executing '/usr/bin/taskinfo --threads --boosts'
+2018-11-28 12:10:57: Executing '/bin/ps axMwww -o ppid,%mem,pri,ni,vsz,rss,wchan,start,time,command'
+2018-11-28 12:10:57: Executing '/bin/ps axwww -o user,uid,pid,ppid,%cpu,%mem,pri,ni,vsz,rss,wchan,tt,stat,start,time,command'
+2018-11-28 12:10:57: Child process '/usr/bin/taskinfo --threads --boosts' exited with status 0
+2018-11-28 12:10:57: /usr/bin/taskinfo --threads --boosts terminated
+2018-11-28 12:10:57: Elapsed time: 0.037746 seconds for task '/usr/bin/taskinfo --threads --boosts'
+2018-11-28 12:10:57: Child process '/bin/ps axwww -o user,uid,pid,ppid,%cpu,%mem,pri,ni,vsz,rss,wchan,tt,stat,start,time,command' exited with status 0
+2018-11-28 12:10:57: /bin/ps axwww -o user,uid,pid,ppid,%cpu,%mem,pri,ni,vsz,rss,wchan,tt,stat,start,time,command terminated
+2018-11-28 12:10:57: Child process '/bin/ps axMwww -o ppid,%mem,pri,ni,vsz,rss,wchan,start,time,command' exited with status 0
+2018-11-28 12:10:57: /bin/ps axMwww -o ppid,%mem,pri,ni,vsz,rss,wchan,start,time,command terminated
+2018-11-28 12:10:57: Elapsed time: 0.044279 seconds for task '/bin/ps axMwww -o ppid,%mem,pri,ni,vsz,rss,wchan,start,time,command'
+2018-11-28 12:10:57: Elapsed time: 0.044340 seconds for task '/bin/ps axwww -o user,uid,pid,ppid,%cpu,%mem,pri,ni,vsz,rss,wchan,tt,stat,start,time,command'
+2018-11-28 12:11:02: Child process '/usr/bin/vm_stat -c 25 0.2' exited with status 0
+2018-11-28 12:11:02: /usr/bin/vm_stat -c 25 0.2 terminated
+2018-11-28 12:11:02: Elapsed time: 4.916050 seconds for task '/usr/bin/vm_stat -c 25 0.2'
+2018-11-28 12:11:02: Finished concurrent execution.
+2018-11-28 12:11:02: OK, all tasks done.
+2018-11-28 12:11:02: DONE: processesInfo
+2018-11-28 12:11:02: systemInfo-timeSensitive : Req - 0010 State - 0038. Did conditions pass: 1
+2018-11-28 12:11:02: Executing container: systemInfo-timeSensitive...
+2018-11-28 12:11:02: systemInfo-timeSensitive (/sbin/mount): Req - 0010 State - 0038. Did conditions pass: 1
+2018-11-28 12:11:02: systemInfo-timeSensitive (/bin/df-H): Req - 0010 State - 0038. Did conditions pass: 1
+2018-11-28 12:11:02: systemInfo-timeSensitive (/usr/bin/kbdebug): Req - 0010 State - 0038. Did conditions pass: 1
+2018-11-28 12:11:02: systemInfo-timeSensitive (/usr/sbin/lsof-n -M -P -T -w +c 0 -s +fg +L): Req - 0011 State - 0038. Did conditions pass: 0
+2018-11-28 12:11:02: systemInfo-timeSensitive (/usr/bin/lsmp-a): Req - 0011 State - 0038. Did conditions pass: 0
+2018-11-28 12:11:02: systemInfo-timeSensitive (/usr/bin/lskq-a -v): Req - 0011 State - 0038. Did conditions pass: 0
+2018-11-28 12:11:02: systemInfo-timeSensitive (/usr/local/bin/IOSDebug): Req - 0011 State - 0038. Did conditions pass: 0
+2018-11-28 12:11:02: systemInfo-timeSensitive (/usr/bin/zprint-t -w): Req - 0011 State - 0038. Did conditions pass: 0
+2018-11-28 12:11:02: Executing '/sbin/mount'
+2018-11-28 12:11:02: Executing '/usr/bin/kbdebug'
+2018-11-28 12:11:02: Executing '/bin/df -H'
+2018-11-28 12:11:02: Child process '/sbin/mount' exited with status 0
+2018-11-28 12:11:02: Child process '/bin/df -H' exited with status 0
+2018-11-28 12:11:02: /sbin/mount terminated
+2018-11-28 12:11:02: Elapsed time: 0.019563 seconds for task '/sbin/mount'
+2018-11-28 12:11:02: /bin/df -H terminated
+2018-11-28 12:11:02: Elapsed time: 0.019277 seconds for task '/bin/df -H'
+2018-11-28 12:11:02: Child process '/usr/bin/kbdebug' exited with status 0
+2018-11-28 12:11:02: /usr/bin/kbdebug terminated
+2018-11-28 12:11:02: Elapsed time: 0.056107 seconds for task '/usr/bin/kbdebug'
+2018-11-28 12:11:02: Finished concurrent execution.
+2018-11-28 12:11:02: OK, all tasks done.
+2018-11-28 12:11:02: DONE: systemInfo-timeSensitive
+2018-11-28 12:11:02: sample-targeted : Req - 0110 State - 0038. Did conditions pass: 0
+2018-11-28 12:11:02: smcdiagnose : Req - 0010 State - 0038. Did conditions pass: 1
+2018-11-28 12:11:02: Executing container: smcdiagnose...
+2018-11-28 12:11:02: smcdiagnose (/usr/libexec/smcDiagnose): Req - 0010 State - 0038. Did conditions pass: 1
+2018-11-28 12:11:02: Executing '/usr/libexec/smcDiagnose'
+2018-11-28 12:11:03: Child process '/usr/libexec/smcDiagnose' exited with status 255
+2018-11-28 12:11:03: /usr/libexec/smcDiagnose terminated
+2018-11-28 12:11:03: Elapsed time: 0.999212 seconds for task '/usr/libexec/smcDiagnose'
+2018-11-28 12:11:03: Finished serial execution.
+2018-11-28 12:11:03: OK, all tasks done.
+2018-11-28 12:11:03: DONE: smcdiagnose
+2018-11-28 12:11:03: thermhid : Req - 0011 State - 0038. Did conditions pass: 0
+2018-11-28 12:11:03: powermetrics : Req - 0010 State - 0038. Did conditions pass: 1
+2018-11-28 12:11:03: Executing container: powermetrics...
+2018-11-28 12:11:03: powermetrics (/usr/local/bin/powermetrics-i 1000 --sample-count 10 --show-all --show-initial-usage --handle-invalid-values): Req - 0010 State - 0038. Did conditions pass: 1
+2018-11-28 12:11:03: Launch path '/usr/local/bin/powermetrics' not accessible
+2018-11-28 12:11:03: Elapsed time: 0.000380 seconds for task '/usr/local/bin/powermetrics -i 1000 --sample-count 10 --show-all --show-initial-usage --handle-invalid-values'
+2018-11-28 12:11:03: Finished serial execution.
+2018-11-28 12:11:03: OK, all tasks done.
+2018-11-28 12:11:03: DONE: powermetrics
+2018-11-28 12:11:03: 
+Enter LOG GENERATION & LOG COPYING phases
+2018-11-28 12:11:03: Log Generation start
+
+2018-11-28 12:11:03: internalLogs : Req - 0008 State - 0038. Did conditions pass: 1
+2018-11-28 12:11:03: Executing container: internalLogs...
+2018-11-28 12:11:03: internalLogs (/usr/sbin/sysctl-a): Req - 0009 State - 0038. Did conditions pass: 0
+2018-11-28 12:11:03: internalLogs (/usr/sbin/nvram-p): Req - 0009 State - 0038. Did conditions pass: 0
+2018-11-28 12:11:03: internalLogs (/usr/local/bin/iordump): Req - 0009 State - 0038. Did conditions pass: 0
+2018-11-28 12:11:03: internalLogs (/usr/bin/sw_vers): Req - 0009 State - 0038. Did conditions pass: 0
+2018-11-28 12:11:03: internalLogs (/usr/local/bin/darwinup-p / list): Req - 0009 State - 0038. Did conditions pass: 0
+2018-11-28 12:11:03: internalLogs (/usr/local/bin/cdcontexttool-p get): Req - 0009 State - 0038. Did conditions pass: 0
+2018-11-28 12:11:03: internalLogs (/usr/local/bin/keystorectl-v get-lock-state): Req - 0009 State - 0038. Did conditions pass: 0
+2018-11-28 12:11:03: internalLogs (/usr/bin/hpmdiagnose): Req - 0009 State - 0038. Did conditions pass: 0
+2018-11-28 12:11:03: internalLogs (/usr/sbin/ioalloccount): Req - 0009 State - 0038. Did conditions pass: 0
+2018-11-28 12:11:03: internalLogs (/usr/sbin/ioclasscount): Req - 0009 State - 0038. Did conditions pass: 0
+2018-11-28 12:11:03: internalLogs (/usr/bin/killall-USR2 bluetoothd): Req - 0008 State - 0038. Did conditions pass: 1
+2018-11-28 12:11:03: internalLogs (/usr/local/bin/findmydevicetoolsysdiagnose): Req - 0009 State - 0038. Did conditions pass: 0
+2018-11-28 12:11:03: internalLogs (/usr/local/bin/BacklightdTester-set CarryLogCommit 1): Req - 0009 State - 0038. Did conditions pass: 0
+2018-11-28 12:11:03: internalLogs (/usr/local/bin/accctllist): Req - 0009 State - 0038. Did conditions pass: 0
+2018-11-28 12:11:03: internalLogs (/usr/local/bin/lsawdump): Req - 0009 State - 0038. Did conditions pass: 0
+2018-11-28 12:11:03: internalLogs (/usr/local/bin/mbtoolinfo): Req - 0009 State - 0038. Did conditions pass: 0
+2018-11-28 12:11:03: internalLogs (/usr/local/bin/accounts_toollistAccounts -v): Req - 0009 State - 0038. Did conditions pass: 0
+2018-11-28 12:11:03: internalLogs (/usr/local/bin/apsclient-dumpState): Req - 0009 State - 0038. Did conditions pass: 0
+2018-11-28 12:11:03: Summary located at /var/mobile/Library/Logs/CrashReporter/DiagnosticLogs/sysdiagnose/IN_PROGRESS_sysdiagnose_2018.11.28_12-10-54-0600_iPhone_OS_iPhone_16B92/summaries/Panics.log
+2018-11-28 12:11:03: Panics : Req - 0008 State - 0038. Did conditions pass: 1
+2018-11-28 12:11:03: Summary located at /var/mobile/Library/Logs/CrashReporter/DiagnosticLogs/sysdiagnose/IN_PROGRESS_sysdiagnose_2018.11.28_12-10-54-0600_iPhone_OS_iPhone_16B92/summaries/ondemandd.log
+2018-11-28 12:11:03: ondemandd : Req - 0009 State - 0038. Did conditions pass: 0
+2018-11-28 12:11:03: Launch path '/usr/bin/killall' not accessible
+2018-11-28 12:11:03: Summary located at /var/mobile/Library/Logs/CrashReporter/DiagnosticLogs/sysdiagnose/IN_PROGRESS_sysdiagnose_2018.11.28_12-10-54-0600_iPhone_OS_iPhone_16B92/summaries/DataMigration.log
+2018-11-28 12:11:03: Elapsed time: 0.000180 seconds for task '/usr/bin/killall -USR2 bluetoothd'
+2018-11-28 12:11:03: DataMigration : Req - 0009 State - 0038. Did conditions pass: 0
+2018-11-28 12:11:03: Summary located at /var/mobile/Library/Logs/CrashReporter/DiagnosticLogs/sysdiagnose/IN_PROGRESS_sysdiagnose_2018.11.28_12-10-54-0600_iPhone_OS_iPhone_16B92/summaries/process_crashes_and_spins.log
+2018-11-28 12:11:03: process crashes and spins : Req - 0008 State - 0038. Did conditions pass: 1
+2018-11-28 12:11:03: Executing container: process crashes and spins...
+2018-11-28 12:11:03: process crashes and spins : Req - 0008 State - 0038. Did conditions pass: 1
+2018-11-28 12:11:03: Executing container: Panics...
+2018-11-28 12:11:03: Panics : Req - 0008 State - 0038. Did conditions pass: 1
+2018-11-28 12:11:03: Summary located at /var/mobile/Library/Logs/CrashReporter/DiagnosticLogs/sysdiagnose/IN_PROGRESS_sysdiagnose_2018.11.28_12-10-54-0600_iPhone_OS_iPhone_16B92/summaries/CoreLocation.log
+2018-11-28 12:11:03: CoreLocation : Req - 0009 State - 0038. Did conditions pass: 0
+2018-11-28 12:11:03: Finished concurrent execution.
+2018-11-28 12:11:03: OK, all tasks done.
+2018-11-28 12:11:03: DONE: internalLogs
+2018-11-28 12:11:03: clpc : Req - 0009 State - 0038. Did conditions pass: 0
+2018-11-28 12:11:03: systemInfo-logGen : Req - 0008 State - 0038. Did conditions pass: 1
+2018-11-28 12:11:03: Executing container: systemInfo-logGen...
+2018-11-28 12:11:03: systemInfo-logGen (/usr/sbin/kextstat): Req - 0008 State - 0038. Did conditions pass: 1
+2018-11-28 12:11:03: systemInfo-logGen (/usr/bin/pmset-g everything): Req - 0009 State - 0038. Did conditions pass: 0
+2018-11-28 12:11:03: systemInfo-logGen (/usr/local/bin/dastoollist): Req - 0009 State - 0038. Did conditions pass: 0
+2018-11-28 12:11:03: Summary located at /var/mobile/Library/Logs/CrashReporter/DiagnosticLogs/sysdiagnose/IN_PROGRESS_sysdiagnose_2018.11.28_12-10-54-0600_iPhone_OS_iPhone_16B92/summaries/syslog.log
+2018-11-28 12:11:03: syslog : Req - 0009 State - 0038. Did conditions pass: 0
+2018-11-28 12:11:03: Panics : Req - 0008 State - 0038. Did conditions pass: 1
+2018-11-28 12:11:03: DONE: Panics
+2018-11-28 12:11:03: Launch path '/usr/sbin/kextstat' not accessible
+2018-11-28 12:11:03: Elapsed time: 0.000186 seconds for task '/usr/sbin/kextstat'
+2018-11-28 12:11:03: Finished concurrent execution.
+2018-11-28 12:11:03: OK, all tasks done.
+2018-11-28 12:11:03: DONE: systemInfo-logGen
+2018-11-28 12:11:03: logs/Bluetooth/CoreCapture : Req - 0008 State - 0038. Did conditions pass: 1
+2018-11-28 12:11:03: Executing container: logs/Bluetooth/CoreCapture...
+2018-11-28 12:11:03: logs/Bluetooth/CoreCapture (/usr/local/bin/cctool-d BT -c sysdiagnose-trigger): Req - 0008 State - 0038. Did conditions pass: 1
+2018-11-28 12:11:03: Summary located at /var/mobile/Library/Logs/CrashReporter/DiagnosticLogs/sysdiagnose/IN_PROGRESS_sysdiagnose_2018.11.28_12-10-54-0600_iPhone_OS_iPhone_16B92/summaries/OTA.log
+2018-11-28 12:11:03: OTA : Req - 0009 State - 0038. Did conditions pass: 0
+2018-11-28 12:11:03: Summary located at /var/mobile/Library/Logs/CrashReporter/DiagnosticLogs/sysdiagnose/IN_PROGRESS_sysdiagnose_2018.11.28_12-10-54-0600_iPhone_OS_iPhone_16B92/summaries/Harmony.log
+2018-11-28 12:11:03: Harmony : Req - 0009 State - 0038. Did conditions pass: 0
+2018-11-28 12:11:03: Summary located at /var/mobile/Library/Logs/CrashReporter/DiagnosticLogs/sysdiagnose/IN_PROGRESS_sysdiagnose_2018.11.28_12-10-54-0600_iPhone_OS_iPhone_16B92/summaries/FindMyDevice.log
+2018-11-28 12:11:03: FindMyDevice : Req - 0009 State - 0038. Did conditions pass: 0
+2018-11-28 12:11:03: Launch path '/usr/local/bin/cctool' not accessible
+2018-11-28 12:11:03: Elapsed time: 0.000105 seconds for task '/usr/local/bin/cctool -d BT -c sysdiagnose-trigger'
+2018-11-28 12:11:03: process crashes and spins : Req - 0009 State - 0038. Did conditions pass: 0
+2018-11-28 12:11:03: DONE: process crashes and spins
+2018-11-28 12:11:03: Summary located at /var/mobile/Library/Logs/CrashReporter/DiagnosticLogs/sysdiagnose/IN_PROGRESS_sysdiagnose_2018.11.28_12-10-54-0600_iPhone_OS_iPhone_16B92/summaries/MobileKeybagLogs.log
+2018-11-28 12:11:03: MobileKeybagLogs : Req - 0009 State - 0038. Did conditions pass: 0
+2018-11-28 12:11:03: Summary located at /var/mobile/Library/Logs/CrashReporter/DiagnosticLogs/sysdiagnose/IN_PROGRESS_sysdiagnose_2018.11.28_12-10-54-0600_iPhone_OS_iPhone_16B92/summaries/Contacts.log
+2018-11-28 12:11:03: Contacts : Req - 0009 State - 0038. Did conditions pass: 0
+2018-11-28 12:11:03: Summary located at /var/mobile/Library/Logs/CrashReporter/DiagnosticLogs/sysdiagnose/IN_PROGRESS_sysdiagnose_2018.11.28_12-10-54-0600_iPhone_OS_iPhone_16B92/summaries/NSURLSession_logs.log
+2018-11-28 12:11:03: NSURLSession logs : Req - 0009 State - 0038. Did conditions pass: 0
+2018-11-28 12:11:03: Finished serial execution.
+2018-11-28 12:11:03: OK, all tasks done.
+2018-11-28 12:11:03: DONE: logs/Bluetooth/CoreCapture
+2018-11-28 12:11:03: Summary located at /var/mobile/Library/Logs/CrashReporter/DiagnosticLogs/sysdiagnose/IN_PROGRESS_sysdiagnose_2018.11.28_12-10-54-0600_iPhone_OS_iPhone_16B92/summaries/CoreCapture.log
+2018-11-28 12:11:03: logs/Bluetooth/CoreCapture : Req - 0008 State - 0038. Did conditions pass: 1
+2018-11-28 12:11:03: Executing container: logs/Bluetooth/CoreCapture...
+2018-11-28 12:11:03: logs/Bluetooth/CoreCapture : Req - 0008 State - 0038. Did conditions pass: 1
+2018-11-28 12:11:03: Summary located at /var/mobile/Library/Logs/CrashReporter/DiagnosticLogs/sysdiagnose/IN_PROGRESS_sysdiagnose_2018.11.28_12-10-54-0600_iPhone_OS_iPhone_16B92/summaries/HCI.log
+2018-11-28 12:11:03: HCI : Req - 0008 State - 0038. Did conditions pass: 1
+2018-11-28 12:11:03: Executing container: HCI...
+2018-11-28 12:11:03: HCI : Req - 0008 State - 0038. Did conditions pass: 1
+2018-11-28 12:11:03: Summary located at /var/mobile/Library/Logs/CrashReporter/DiagnosticLogs/sysdiagnose/IN_PROGRESS_sysdiagnose_2018.11.28_12-10-54-0600_iPhone_OS_iPhone_16B92/summaries/Burnin.log
+2018-11-28 12:11:03: logs/Bluetooth/CoreCapture : Req - 0008 State - 0038. Did conditions pass: 1
+2018-11-28 12:11:03: Burnin : Req - 000B State - 0038. Did conditions pass: 0
+2018-11-28 12:11:03: Summary located at /var/mobile/Library/Logs/CrashReporter/DiagnosticLogs/sysdiagnose/IN_PROGRESS_sysdiagnose_2018.11.28_12-10-54-0600_iPhone_OS_iPhone_16B92/summaries/BluetoothAccessory.log
+2018-11-28 12:11:03: DONE: logs/Bluetooth/CoreCapture
+2018-11-28 12:11:03: /logs/Networking : Req - 0009 State - 0038. Did conditions pass: 0
+2018-11-28 12:11:03: DONE: HCI
+2018-11-28 12:11:03: Summary located at /var/mobile/Library/Logs/CrashReporter/DiagnosticLogs/sysdiagnose/IN_PROGRESS_sysdiagnose_2018.11.28_12-10-54-0600_iPhone_OS_iPhone_16B92/summaries/Networking.log
+2018-11-28 12:11:03: /logs/Networking : Req - 0009 State - 0038. Did conditions pass: 0
+2018-11-28 12:11:03: BluetoothAccessory : Req - 0009 State - 0038. Did conditions pass: 0
+2018-11-28 12:11:03: coreduet : Req - 0009 State - 0038. Did conditions pass: 0
+2018-11-28 12:11:03: /var/mobile/Library/Logs/CrashReporter/DiagnosticLogs/sysdiagnose/IN_PROGRESS_sysdiagnose_2018.11.28_12-10-54-0600_iPhone_OS_iPhone_16B92.tmp/ASPSnapshots : Req - 0008 State - 0038. Did conditions pass: 1
+2018-11-28 12:11:03: Executing container: /var/mobile/Library/Logs/CrashReporter/DiagnosticLogs/sysdiagnose/IN_PROGRESS_sysdiagnose_2018.11.28_12-10-54-0600_iPhone_OS_iPhone_16B92.tmp/ASPSnapshots...
+2018-11-28 12:11:03: Summary located at /var/mobile/Library/Logs/CrashReporter/DiagnosticLogs/sysdiagnose/IN_PROGRESS_sysdiagnose_2018.11.28_12-10-54-0600_iPhone_OS_iPhone_16B92/summaries/SUInfo.log
+2018-11-28 12:11:03: SUInfo : Req - 0009 State - 0038. Did conditions pass: 0
+2018-11-28 12:11:03: Summary located at /var/mobile/Library/Logs/CrashReporter/DiagnosticLogs/sysdiagnose/IN_PROGRESS_sysdiagnose_2018.11.28_12-10-54-0600_iPhone_OS_iPhone_16B92/summaries/CompanionSync.log
+2018-11-28 12:11:03: CompanionSync : Req - 0009 State - 0038. Did conditions pass: 0
+2018-11-28 12:11:03: Summary located at /var/mobile/Library/Logs/CrashReporter/DiagnosticLogs/sysdiagnose/IN_PROGRESS_sysdiagnose_2018.11.28_12-10-54-0600_iPhone_OS_iPhone_16B92/summaries/BluetoothCoreDump.log
+2018-11-28 12:11:03: BluetoothCoreDump : Req - 0009 State - 0038. Did conditions pass: 0
+2018-11-28 12:11:03: Summary located at /var/mobile/Library/Logs/CrashReporter/DiagnosticLogs/sysdiagnose/IN_PROGRESS_sysdiagnose_2018.11.28_12-10-54-0600_iPhone_OS_iPhone_16B92/summaries/MapsSyncJournal.log
+2018-11-28 12:11:03: Summary located at /var/mobile/Library/Logs/CrashReporter/DiagnosticLogs/sysdiagnose/IN_PROGRESS_sysdiagnose_2018.11.28_12-10-54-0600_iPhone_OS_iPhone_16B92/summaries/MatchTailspins.log
+2018-11-28 12:11:03: MapsSyncJournal : Req - 0009 State - 0038. Did conditions pass: 0
+2018-11-28 12:11:03: MatchTailspins : Req - 0001 State - 0038. Did conditions pass: 0
+2018-11-28 12:11:03: Summary located at /var/mobile/Library/Logs/CrashReporter/DiagnosticLogs/sysdiagnose/IN_PROGRESS_sysdiagnose_2018.11.28_12-10-54-0600_iPhone_OS_iPhone_16B92/summaries/BatteryUIPlist.log
+2018-11-28 12:11:03: Summary located at /var/mobile/Library/Logs/CrashReporter/DiagnosticLogs/sysdiagnose/IN_PROGRESS_sysdiagnose_2018.11.28_12-10-54-0600_iPhone_OS_iPhone_16B92/summaries/AGXMTLCompilerCrash.log
+2018-11-28 12:11:03: AGXMTLCompilerCrash : Req - 0009 State - 0038. Did conditions pass: 0
+2018-11-28 12:11:03: BatteryUIPlist : Req - 0009 State - 0038. Did conditions pass: 0
+2018-11-28 12:11:03: Summary located at /var/mobile/Library/Logs/CrashReporter/DiagnosticLogs/sysdiagnose/IN_PROGRESS_sysdiagnose_2018.11.28_12-10-54-0600_iPhone_OS_iPhone_16B92/summaries/coremediacapture-afdebug.log
+2018-11-28 12:11:03: coremediacapture-afdebug : Req - 0009 State - 0038. Did conditions pass: 0
+2018-11-28 12:11:03: Summary located at /var/mobile/Library/Logs/CrashReporter/DiagnosticLogs/sysdiagnose/IN_PROGRESS_sysdiagnose_2018.11.28_12-10-54-0600_iPhone_OS_iPhone_16B92/summaries/BridgeActivation.log
+2018-11-28 12:11:03: BridgeActivation : Req - 0009 State - 0038. Did conditions pass: 0
+2018-11-28 12:11:03: Summary located at /var/mobile/Library/Logs/CrashReporter/DiagnosticLogs/sysdiagnose/IN_PROGRESS_sysdiagnose_2018.11.28_12-10-54-0600_iPhone_OS_iPhone_16B92/summaries/Buddy.log
+2018-11-28 12:11:03: Buddy : Req - 0009 State - 0038. Did conditions pass: 0
+2018-11-28 12:11:03: Summary located at /var/mobile/Library/Logs/CrashReporter/DiagnosticLogs/sysdiagnose/IN_PROGRESS_sysdiagnose_2018.11.28_12-10-54-0600_iPhone_OS_iPhone_16B92/summaries/NanoRegistry.log
+2018-11-28 12:11:03: NanoRegistry : Req - 0009 State - 0038. Did conditions pass: 0
+2018-11-28 12:11:03: Summary located at /var/mobile/Library/Logs/CrashReporter/DiagnosticLogs/sysdiagnose/IN_PROGRESS_sysdiagnose_2018.11.28_12-10-54-0600_iPhone_OS_iPhone_16B92/summaries/MobileInstallation.log
+2018-11-28 12:11:03: MobileInstallation : Req - 0008 State - 0038. Did conditions pass: 1
+2018-11-28 12:11:03: Executing container: MobileInstallation...
+2018-11-28 12:11:03: MobileInstallation : Req - 0008 State - 0038. Did conditions pass: 1
+2018-11-28 12:11:03: Summary located at /var/mobile/Library/Logs/CrashReporter/DiagnosticLogs/sysdiagnose/IN_PROGRESS_sysdiagnose_2018.11.28_12-10-54-0600_iPhone_OS_iPhone_16B92/summaries/Networking.log
+2018-11-28 12:11:03: Networking : Req - 0008 State - 0038. Did conditions pass: 1
+2018-11-28 12:11:03: Executing container: Networking...
+2018-11-28 12:11:03: Networking : Req - 0008 State - 0038. Did conditions pass: 1
+2018-11-28 12:11:03: Summary located at /var/mobile/Library/Logs/CrashReporter/DiagnosticLogs/sysdiagnose/IN_PROGRESS_sysdiagnose_2018.11.28_12-10-54-0600_iPhone_OS_iPhone_16B92/summaries/MobileContainerManager.log
+2018-11-28 12:11:03: MobileContainerManager : Req - 0008 State - 0038. Did conditions pass: 1
+2018-11-28 12:11:03: Executing container: MobileContainerManager...
+2018-11-28 12:11:03: MobileContainerManager : Req - 0008 State - 0038. Did conditions pass: 1
+2018-11-28 12:11:03: Summary located at /var/mobile/Library/Logs/CrashReporter/DiagnosticLogs/sysdiagnose/IN_PROGRESS_sysdiagnose_2018.11.28_12-10-54-0600_iPhone_OS_iPhone_16B92/summaries/MobileActivation.log
+2018-11-28 12:11:03: MobileActivation : Req - 0008 State - 0038. Did conditions pass: 1
+2018-11-28 12:11:03: Executing container: MobileActivation...
+2018-11-28 12:11:03: MobileActivation : Req - 0008 State - 0038. Did conditions pass: 1
+2018-11-28 12:11:03: MobileInstallation : Req - 0008 State - 0038. Did conditions pass: 1
+2018-11-28 12:11:03: MobileInstallation : Req - 0008 State - 0038. Did conditions pass: 1
+2018-11-28 12:11:03: DONE: MobileContainerManager
+2018-11-28 12:11:03: Summary located at /var/mobile/Library/Logs/CrashReporter/DiagnosticLogs/sysdiagnose/IN_PROGRESS_sysdiagnose_2018.11.28_12-10-54-0600_iPhone_OS_iPhone_16B92/summaries/MobileLockdown.log
+2018-11-28 12:11:03: MobileLockdown : Req - 0008 State - 0038. Did conditions pass: 1
+2018-11-28 12:11:03: Executing container: MobileLockdown...
+2018-11-28 12:11:03: MobileLockdown : Req - 0008 State - 0038. Did conditions pass: 1
+2018-11-28 12:11:03: MobileActivation : Req - 0008 State - 0038. Did conditions pass: 1
+2018-11-28 12:11:03: DONE: Networking
+2018-11-28 12:11:03: Summary located at /var/mobile/Library/Logs/CrashReporter/DiagnosticLogs/sysdiagnose/IN_PROGRESS_sysdiagnose_2018.11.28_12-10-54-0600_iPhone_OS_iPhone_16B92/summaries/MobileBackup.log
+2018-11-28 12:11:03: MobileBackup : Req - 0008 State - 0038. Did conditions pass: 1
+2018-11-28 12:11:03: Executing container: MobileBackup...
+2018-11-28 12:11:03: MobileBackup : Req - 0008 State - 0038. Did conditions pass: 1
+2018-11-28 12:11:03: DONE: MobileLockdown
+2018-11-28 12:11:03: Summary located at /var/mobile/Library/Logs/CrashReporter/DiagnosticLogs/sysdiagnose/IN_PROGRESS_sysdiagnose_2018.11.28_12-10-54-0600_iPhone_OS_iPhone_16B92/summaries/itunesstored.log
+2018-11-28 12:11:03: itunesstored : Req - 0008 State - 0038. Did conditions pass: 1
+2018-11-28 12:11:03: Executing container: itunesstored...
+2018-11-28 12:11:03: itunesstored : Req - 0008 State - 0038. Did conditions pass: 1
+2018-11-28 12:11:03: (ASPSnapshots) SPI call did not return an XPC_ARRAY
+2018-11-28 12:11:03: /var/mobile/Library/Logs/CrashReporter/DiagnosticLogs/sysdiagnose/IN_PROGRESS_sysdiagnose_2018.11.28_12-10-54-0600_iPhone_OS_iPhone_16B92.tmp/ASPSnapshots resulted in 0 paths
+2018-11-28 12:11:03: DONE: /var/mobile/Library/Logs/CrashReporter/DiagnosticLogs/sysdiagnose/IN_PROGRESS_sysdiagnose_2018.11.28_12-10-54-0600_iPhone_OS_iPhone_16B92.tmp/ASPSnapshots
+2018-11-28 12:11:03: Summary located at /var/mobile/Library/Logs/CrashReporter/DiagnosticLogs/sysdiagnose/IN_PROGRESS_sysdiagnose_2018.11.28_12-10-54-0600_iPhone_OS_iPhone_16B92/summaries/ASPSnapshots.log
+2018-11-28 12:11:03: ASPSnapshots : Req - 0008 State - 0038. Did conditions pass: 1
+2018-11-28 12:11:03: Executing container: ASPSnapshots...
+2018-11-28 12:11:03: ASPSnapshots : Req - 0008 State - 0038. Did conditions pass: 1
+2018-11-28 12:11:03: ASPSnapshots : Req - 0008 State - 0038. Did conditions pass: 1
+2018-11-28 12:11:03: DONE: MobileActivation
+2018-11-28 12:11:03: itunesstored : Req - 0008 State - 0038. Did conditions pass: 1
+2018-11-28 12:11:03: DONE: ASPSnapshots
+2018-11-28 12:11:03: gestalt query : Req - 0009 State - 0038. Did conditions pass: 0
+2018-11-28 12:11:03: SEP Util : Req - 0009 State - 0038. Did conditions pass: 0
+2018-11-28 12:11:03: c26tool : Req - 0009 State - 0038. Did conditions pass: 0
+2018-11-28 12:11:03: /var/mobile/Library/Logs/CrashReporter/DiagnosticLogs/sysdiagnose/IN_PROGRESS_sysdiagnose_2018.11.28_12-10-54-0600_iPhone_OS_iPhone_16B92.tmp/logs/libnotify : Req - 0009 State - 0038. Did conditions pass: 0
+2018-11-28 12:11:03: Summary located at /var/mobile/Library/Logs/CrashReporter/DiagnosticLogs/sysdiagnose/IN_PROGRESS_sysdiagnose_2018.11.28_12-10-54-0600_iPhone_OS_iPhone_16B92/summaries/libnotify.log
+2018-11-28 12:11:03: logs/libnotify : Req - 0009 State - 0038. Did conditions pass: 0
+2018-11-28 12:11:03: aopaudctl : Req - 0009 State - 0038. Did conditions pass: 0
+2018-11-28 12:11:03: AHSTool : Req - 0009 State - 0038. Did conditions pass: 0
+2018-11-28 12:11:03: utilities-logGen : Req - 0008 State - 0038. Did conditions pass: 1
+2018-11-28 12:11:03: Executing container: utilities-logGen...
+2018-11-28 12:11:03: utilities-logGen (/usr/local/bin/codecctl-c 1 -a): Req - 0009 State - 0038. Did conditions pass: 0
+2018-11-28 12:11:03: utilities-logGen (/usr/bin/buttontool--sysdiagnose): Req - 0009 State - 0038. Did conditions pass: 0
+2018-11-28 12:11:03: utilities-logGen (/usr/local/bin/apsclient-dumpState): Req - 0009 State - 0038. Did conditions pass: 0
+2018-11-28 12:11:03: utilities-logGen (/usr/libexec/security-sysdiagnose): Req - 0009 State - 0038. Did conditions pass: 0
+2018-11-28 12:11:03: utilities-logGen (/usr/local/bin/audioDeviceDump): Req - 0009 State - 0038. Did conditions pass: 0
+2018-11-28 12:11:03: utilities-logGen (/usr/libexec/pcsstatuscapture output): Req - 0008 State - 0038. Did conditions pass: 1
+2018-11-28 12:11:03: utilities-logGen (/usr/bin/hidutildump): Req - 0008 State - 0038. Did conditions pass: 1
+2018-11-28 12:11:03: DONE: MobileBackup
+2018-11-28 12:11:03: Executing '/usr/libexec/pcsstatus capture output'
+2018-11-28 12:11:03: Executing '/usr/bin/hidutil dump'
+2018-11-28 12:11:03: DONE: itunesstored
+2018-11-28 12:11:03: Summary located at /var/mobile/Library/Logs/CrashReporter/DiagnosticLogs/sysdiagnose/IN_PROGRESS_sysdiagnose_2018.11.28_12-10-54-0600_iPhone_OS_iPhone_16B92/summaries/appinstallation.log
+2018-11-28 12:11:03: appinstallation : Req - 0008 State - 0038. Did conditions pass: 1
+2018-11-28 12:11:03: Executing container: appinstallation...
+2018-11-28 12:11:03: appinstallation : Req - 0008 State - 0038. Did conditions pass: 1
+2018-11-28 12:11:03: appinstallation : Req - 0008 State - 0038. Did conditions pass: 1
+2018-11-28 12:11:03: Summary located at /var/mobile/Library/Logs/CrashReporter/DiagnosticLogs/sysdiagnose/IN_PROGRESS_sysdiagnose_2018.11.28_12-10-54-0600_iPhone_OS_iPhone_16B92/summaries/LaunchServices.log
+2018-11-28 12:11:03: LaunchServices : Req - 0008 State - 0038. Did conditions pass: 1
+2018-11-28 12:11:03: Executing container: LaunchServices...
+2018-11-28 12:11:03: LaunchServices : Req - 0008 State - 0038. Did conditions pass: 1
+2018-11-28 12:11:03: DONE: LaunchServices
+2018-11-28 12:11:03: DONE: MobileInstallation
+2018-11-28 12:11:03: Summary located at /var/mobile/Library/Logs/CrashReporter/DiagnosticLogs/sysdiagnose/IN_PROGRESS_sysdiagnose_2018.11.28_12-10-54-0600_iPhone_OS_iPhone_16B92/summaries/Accounts.log
+2018-11-28 12:11:03: Accounts : Req - 0008 State - 0038. Did conditions pass: 1
+2018-11-28 12:11:03: Executing container: Accounts...
+2018-11-28 12:11:03: Accounts : Req - 0008 State - 0038. Did conditions pass: 1
+2018-11-28 12:11:03: Summary located at /var/mobile/Library/Logs/CrashReporter/DiagnosticLogs/sysdiagnose/IN_PROGRESS_sysdiagnose_2018.11.28_12-10-54-0600_iPhone_OS_iPhone_16B92/summaries/AppConduit.log
+2018-11-28 12:11:03: AppConduit : Req - 0008 State - 0038. Did conditions pass: 1
+2018-11-28 12:11:03: Executing container: AppConduit...
+2018-11-28 12:11:03: AppConduit : Req - 0008 State - 0038. Did conditions pass: 1
+2018-11-28 12:11:03: DONE: Accounts
+2018-11-28 12:11:03: DONE: AppConduit
+2018-11-28 12:11:03: Summary located at /var/mobile/Library/Logs/CrashReporter/DiagnosticLogs/sysdiagnose/IN_PROGRESS_sysdiagnose_2018.11.28_12-10-54-0600_iPhone_OS_iPhone_16B92/summaries/process_proxied_device_logs.log
+2018-11-28 12:11:03: process proxied device logs : Req - 0008 State - 0038. Did conditions pass: 1
+2018-11-28 12:11:03: Executing container: process proxied device logs...
+2018-11-28 12:11:03: process proxied device logs : Req - 0008 State - 0038. Did conditions pass: 1
+2018-11-28 12:11:03: Summary located at /var/mobile/Library/Logs/CrashReporter/DiagnosticLogs/sysdiagnose/IN_PROGRESS_sysdiagnose_2018.11.28_12-10-54-0600_iPhone_OS_iPhone_16B92/summaries/ProtectedCloudStorage.log
+2018-11-28 12:11:03: ProtectedCloudStorage : Req - 0008 State - 0038. Did conditions pass: 1
+2018-11-28 12:11:03: Executing container: ProtectedCloudStorage...
+2018-11-28 12:11:03: ProtectedCloudStorage : Req - 0008 State - 0038. Did conditions pass: 1
+2018-11-28 12:11:03: Summary located at /var/mobile/Library/Logs/CrashReporter/DiagnosticLogs/sysdiagnose/IN_PROGRESS_sysdiagnose_2018.11.28_12-10-54-0600_iPhone_OS_iPhone_16B92/summaries/AVConference.log
+2018-11-28 12:11:03: AVConference : Req - 0008 State - 0038. Did conditions pass: 1
+2018-11-28 12:11:03: Executing container: AVConference...
+2018-11-28 12:11:03: AVConference : Req - 0008 State - 0038. Did conditions pass: 1
+2018-11-28 12:11:03: DONE: AVConference
+2018-11-28 12:11:03: DONE: process proxied device logs
+2018-11-28 12:11:03: DONE: ProtectedCloudStorage
+2018-11-28 12:11:03: Summary located at /var/mobile/Library/Logs/CrashReporter/DiagnosticLogs/sysdiagnose/IN_PROGRESS_sysdiagnose_2018.11.28_12-10-54-0600_iPhone_OS_iPhone_16B92/summaries/Siri.log
+2018-11-28 12:11:03: Siri : Req - 0008 State - 0038. Did conditions pass: 1
+2018-11-28 12:11:03: Executing container: Siri...
+2018-11-28 12:11:03: Siri : Req - 0008 State - 0038. Did conditions pass: 1
+2018-11-28 12:11:03: Siri : Req - 0008 State - 0038. Did conditions pass: 1
+2018-11-28 12:11:03: Siri : Req - 0009 State - 0038. Did conditions pass: 0
+2018-11-28 12:11:03: DONE: Siri
+2018-11-28 12:11:03: Summary located at /var/mobile/Library/Logs/CrashReporter/DiagnosticLogs/sysdiagnose/IN_PROGRESS_sysdiagnose_2018.11.28_12-10-54-0600_iPhone_OS_iPhone_16B92/summaries/ATVUpdateLog.log
+2018-11-28 12:11:03: ATVUpdateLog : Req - 0008 State - 0038. Did conditions pass: 1
+2018-11-28 12:11:03: Executing container: ATVUpdateLog...
+2018-11-28 12:11:03: ATVUpdateLog : Req - 0008 State - 0038. Did conditions pass: 1
+2018-11-28 12:11:03: Summary located at /var/mobile/Library/Logs/CrashReporter/DiagnosticLogs/sysdiagnose/IN_PROGRESS_sysdiagnose_2018.11.28_12-10-54-0600_iPhone_OS_iPhone_16B92/summaries/AccessibilityPrefs.log
+2018-11-28 12:11:03: AccessibilityPrefs : Req - 0008 State - 0038. Did conditions pass: 1
+2018-11-28 12:11:03: Executing container: AccessibilityPrefs...
+2018-11-28 12:11:03: AccessibilityPrefs : Req - 0008 State - 0038. Did conditions pass: 1
+2018-11-28 12:11:03: Summary located at /var/mobile/Library/Logs/CrashReporter/DiagnosticLogs/sysdiagnose/IN_PROGRESS_sysdiagnose_2018.11.28_12-10-54-0600_iPhone_OS_iPhone_16B92/summaries/parsecd.log
+2018-11-28 12:11:03: parsecd : Req - 0008 State - 0038. Did conditions pass: 1
+2018-11-28 12:11:03: Executing container: parsecd...
+2018-11-28 12:11:03: parsecd : Req - 0008 State - 0038. Did conditions pass: 1
+2018-11-28 12:11:03: DONE: ATVUpdateLog
+2018-11-28 12:11:03: DONE: parsecd
+2018-11-28 12:11:03: DONE: AccessibilityPrefs
+2018-11-28 12:11:03: Summary located at /var/mobile/Library/Logs/CrashReporter/DiagnosticLogs/sysdiagnose/IN_PROGRESS_sysdiagnose_2018.11.28_12-10-54-0600_iPhone_OS_iPhone_16B92/summaries/keyboard_cache.log
+2018-11-28 12:11:03: keyboard cache : Req - 0008 State - 0038. Did conditions pass: 1
+2018-11-28 12:11:03: Executing container: keyboard cache...
+2018-11-28 12:11:03: keyboard cache : Req - 0008 State - 0038. Did conditions pass: 1
+2018-11-28 12:11:03: Summary located at /var/mobile/Library/Logs/CrashReporter/DiagnosticLogs/sysdiagnose/IN_PROGRESS_sysdiagnose_2018.11.28_12-10-54-0600_iPhone_OS_iPhone_16B92/summaries/CloudKitBookmarks.log
+2018-11-28 12:11:03: CloudKitBookmarks : Req - 0008 State - 0038. Did conditions pass: 1
+2018-11-28 12:11:03: Executing container: CloudKitBookmarks...
+2018-11-28 12:11:03: CloudKitBookmarks : Req - 0008 State - 0038. Did conditions pass: 1
+2018-11-28 12:11:03: Summary located at /var/mobile/Library/Logs/CrashReporter/DiagnosticLogs/sysdiagnose/IN_PROGRESS_sysdiagnose_2018.11.28_12-10-54-0600_iPhone_OS_iPhone_16B92/summaries/demod.log
+2018-11-28 12:11:03: demod : Req - 0008 State - 0038. Did conditions pass: 1
+2018-11-28 12:11:03: Executing container: demod...
+2018-11-28 12:11:03: demod : Req - 0008 State - 0038. Did conditions pass: 1
+2018-11-28 12:11:03: demod : Req - 0008 State - 0038. Did conditions pass: 1
+2018-11-28 12:11:03: DONE: demod
+2018-11-28 12:11:03: DONE: CloudKitBookmarks
+2018-11-28 12:11:03: Summary located at /var/mobile/Library/Logs/CrashReporter/DiagnosticLogs/sysdiagnose/IN_PROGRESS_sysdiagnose_2018.11.28_12-10-54-0600_iPhone_OS_iPhone_16B92/summaries/WatchConnectivity.log
+2018-11-28 12:11:03: WatchConnectivity : Req - 0008 State - 0038. Did conditions pass: 1
+2018-11-28 12:11:03: Executing container: WatchConnectivity...
+2018-11-28 12:11:03: WatchConnectivity : Req - 0008 State - 0038. Did conditions pass: 1
+2018-11-28 12:11:03: Summary located at /var/mobile/Library/Logs/CrashReporter/DiagnosticLogs/sysdiagnose/IN_PROGRESS_sysdiagnose_2018.11.28_12-10-54-0600_iPhone_OS_iPhone_16B92/summaries/SystemVersion.log
+2018-11-28 12:11:03: SystemVersion : Req - 0008 State - 0038. Did conditions pass: 1
+2018-11-28 12:11:03: DONE: WatchConnectivity
+2018-11-28 12:11:03: Executing container: SystemVersion...
+2018-11-28 12:11:03: SystemVersion : Req - 0008 State - 0038. Did conditions pass: 1
+2018-11-28 12:11:03: DONE: SystemVersion
+2018-11-28 12:11:03: Summary located at /var/mobile/Library/Logs/CrashReporter/DiagnosticLogs/sysdiagnose/IN_PROGRESS_sysdiagnose_2018.11.28_12-10-54-0600_iPhone_OS_iPhone_16B92/summaries/SiriAnalytics.log
+2018-11-28 12:11:03: SiriAnalytics : Req - 0008 State - 0038. Did conditions pass: 1
+2018-11-28 12:11:03: Executing container: SiriAnalytics...
+2018-11-28 12:11:03: SiriAnalytics : Req - 0008 State - 0038. Did conditions pass: 1
+2018-11-28 12:11:03: DONE: SiriAnalytics
+2018-11-28 12:11:03: Summary located at /var/mobile/Library/Logs/CrashReporter/DiagnosticLogs/sysdiagnose/IN_PROGRESS_sysdiagnose_2018.11.28_12-10-54-0600_iPhone_OS_iPhone_16B92/summaries/stackshots.log
+2018-11-28 12:11:03: stackshots : Req - 0008 State - 0038. Did conditions pass: 1
+2018-11-28 12:11:03: Executing container: stackshots...
+2018-11-28 12:11:03: stackshots : Req - 0008 State - 0038. Did conditions pass: 1
+2018-11-28 12:11:03: Summary located at /var/mobile/Library/Logs/CrashReporter/DiagnosticLogs/sysdiagnose/IN_PROGRESS_sysdiagnose_2018.11.28_12-10-54-0600_iPhone_OS_iPhone_16B92/summaries/HangTracerTailspins.log
+2018-11-28 12:11:03: HangTracerTailspins : Req - 0008 State - 0038. Did conditions pass: 1
+2018-11-28 12:11:03: Executing container: HangTracerTailspins...
+2018-11-28 12:11:03: HangTracerTailspins : Req - 0008 State - 0038. Did conditions pass: 1
+2018-11-28 12:11:03: DONE: HangTracerTailspins
+2018-11-28 12:11:03: stackshots : Req - 0008 State - 0038. Did conditions pass: 1
+2018-11-28 12:11:03: stackshots : Req - 0008 State - 0038. Did conditions pass: 1
+2018-11-28 12:11:03: /var/mobile/Library/Logs/CrashReporter/DiagnosticLogs/sysdiagnose/IN_PROGRESS_sysdiagnose_2018.11.28_12-10-54-0600_iPhone_OS_iPhone_16B92.tmp/logs/MemoryExceptions : Req - 0008 State - 0038. Did conditions pass: 1
+2018-11-28 12:11:03: Executing container: /var/mobile/Library/Logs/CrashReporter/DiagnosticLogs/sysdiagnose/IN_PROGRESS_sysdiagnose_2018.11.28_12-10-54-0600_iPhone_OS_iPhone_16B92.tmp/logs/MemoryExceptions...
+2018-11-28 12:11:03: DONE: stackshots
+2018-11-28 12:11:03: DONE: appinstallation
+2018-11-28 12:11:03: /var/mobile/Library/Logs/CrashReporter/DiagnosticLogs/sysdiagnose/IN_PROGRESS_sysdiagnose_2018.11.28_12-10-54-0600_iPhone_OS_iPhone_16B92.tmp/logs/MemoryExceptions resulted in 0 paths
+2018-11-28 12:11:03: DONE: /var/mobile/Library/Logs/CrashReporter/DiagnosticLogs/sysdiagnose/IN_PROGRESS_sysdiagnose_2018.11.28_12-10-54-0600_iPhone_OS_iPhone_16B92.tmp/logs/MemoryExceptions
+2018-11-28 12:11:03: Summary located at /var/mobile/Library/Logs/CrashReporter/DiagnosticLogs/sysdiagnose/IN_PROGRESS_sysdiagnose_2018.11.28_12-10-54-0600_iPhone_OS_iPhone_16B92/summaries/MemoryExceptions.log
+2018-11-28 12:11:03: logs/MemoryExceptions/ : Req - 0008 State - 0038. Did conditions pass: 1
+2018-11-28 12:11:03: Executing container: logs/MemoryExceptions/...
+2018-11-28 12:11:03: logs/MemoryExceptions/ : Req - 0008 State - 0038. Did conditions pass: 1
+2018-11-28 12:11:03: logs/MemoryExceptions/ : Req - 0008 State - 0038. Did conditions pass: 1
+2018-11-28 12:11:03: DONE: logs/MemoryExceptions/
+2018-11-28 12:11:03: Child process '/usr/libexec/pcsstatus capture output' exited with status 0
+2018-11-28 12:11:03: /usr/libexec/pcsstatus capture output terminated
+2018-11-28 12:11:03: Elapsed time: 0.219039 seconds for task '/usr/libexec/pcsstatus capture output'
+2018-11-28 12:11:03: DONE: keyboard cache
+2018-11-28 12:11:03: Child process '/usr/bin/hidutil dump' exited with status 0
+2018-11-28 12:11:03: /usr/bin/hidutil dump terminated
+2018-11-28 12:11:03: Elapsed time: 0.226130 seconds for task '/usr/bin/hidutil dump'
+2018-11-28 12:11:03: Finished concurrent execution.
+2018-11-28 12:11:03: OK, all tasks done.
+2018-11-28 12:11:03: DONE: utilities-logGen
+2018-11-28 12:11:03: idsTasks : Req - 0048 State - 0038. Did conditions pass: 0
+2018-11-28 12:11:03: ioreg : Req - 0008 State - 0038. Did conditions pass: 1
+2018-11-28 12:11:03: Executing container: ioreg...
+2018-11-28 12:11:03: ioreg (/usr/sbin/ioreg-i -l -p IOService -w 0): Req - 0008 State - 0038. Did conditions pass: 1
+2018-11-28 12:11:03: ioreg (/usr/sbin/ioreg-i -l -p IOACPIPlane -w 0): Req - 0008 State - 0038. Did conditions pass: 1
+2018-11-28 12:11:03: ioreg (/usr/sbin/ioreg-i -l -p IOPower -w 0): Req - 0008 State - 0038. Did conditions pass: 1
+2018-11-28 12:11:03: ioreg (/usr/sbin/ioreg-i -l -p IODeviceTree -w 0): Req - 0008 State - 0038. Did conditions pass: 1
+2018-11-28 12:11:03: ioreg (/usr/sbin/ioreg-i -l -p IOUSB -w 0): Req - 0008 State - 0038. Did conditions pass: 1
+2018-11-28 12:11:03: ioreg (/usr/sbin/ioreg-i -l -p IOFireWire -w 0): Req - 0008 State - 0038. Did conditions pass: 1
+2018-11-28 12:11:03: ioreg (/usr/sbin/ioreg-a -w0 -x 0): Req - 0008 State - 0038. Did conditions pass: 1
+2018-11-28 12:11:03: Executing '/usr/sbin/ioreg -i -l -p IOService -w 0'
+2018-11-28 12:11:03: Child process '/usr/sbin/ioreg -i -l -p IOService -w 0' exited with status 0
+2018-11-28 12:11:03: /usr/sbin/ioreg -i -l -p IOService -w 0 terminated
+2018-11-28 12:11:03: Elapsed time: 0.238192 seconds for task '/usr/sbin/ioreg -i -l -p IOService -w 0'
+2018-11-28 12:11:03: Executing '/usr/sbin/ioreg -i -l -p IOACPIPlane -w 0'
+2018-11-28 12:11:03: Child process '/usr/sbin/ioreg -i -l -p IOACPIPlane -w 0' exited with status 0
+2018-11-28 12:11:03: /usr/sbin/ioreg -i -l -p IOACPIPlane -w 0 terminated
+2018-11-28 12:11:03: Elapsed time: 0.014649 seconds for task '/usr/sbin/ioreg -i -l -p IOACPIPlane -w 0'
+2018-11-28 12:11:03: Executing '/usr/sbin/ioreg -i -l -p IOPower -w 0'
+2018-11-28 12:11:03: Child process '/usr/sbin/ioreg -i -l -p IOPower -w 0' exited with status 0
+2018-11-28 12:11:03: /usr/sbin/ioreg -i -l -p IOPower -w 0 terminated
+2018-11-28 12:11:03: Elapsed time: 0.098480 seconds for task '/usr/sbin/ioreg -i -l -p IOPower -w 0'
+2018-11-28 12:11:03: Executing '/usr/sbin/ioreg -i -l -p IODeviceTree -w 0'
+2018-11-28 12:11:03: Child process '/usr/sbin/ioreg -i -l -p IODeviceTree -w 0' exited with status 0
+2018-11-28 12:11:03: /usr/sbin/ioreg -i -l -p IODeviceTree -w 0 terminated
+2018-11-28 12:11:03: Elapsed time: 0.051201 seconds for task '/usr/sbin/ioreg -i -l -p IODeviceTree -w 0'
+2018-11-28 12:11:03: Executing '/usr/sbin/ioreg -i -l -p IOUSB -w 0'
+2018-11-28 12:11:03: Child process '/usr/sbin/ioreg -i -l -p IOUSB -w 0' exited with status 0
+2018-11-28 12:11:03: /usr/sbin/ioreg -i -l -p IOUSB -w 0 terminated
+2018-11-28 12:11:03: Elapsed time: 0.011143 seconds for task '/usr/sbin/ioreg -i -l -p IOUSB -w 0'
+2018-11-28 12:11:03: Executing '/usr/sbin/ioreg -i -l -p IOFireWire -w 0'
+2018-11-28 12:11:03: Child process '/usr/sbin/ioreg -i -l -p IOFireWire -w 0' exited with status 0
+2018-11-28 12:11:03: /usr/sbin/ioreg -i -l -p IOFireWire -w 0 terminated
+2018-11-28 12:11:03: Elapsed time: 0.010864 seconds for task '/usr/sbin/ioreg -i -l -p IOFireWire -w 0'
+2018-11-28 12:11:03: Executing '/usr/sbin/ioreg -a -w0 -x 0'
+2018-11-28 12:11:03: Child process '/usr/sbin/ioreg -a -w0 -x 0' exited with status 1
+2018-11-28 12:11:03: /usr/sbin/ioreg -a -w0 -x 0 terminated
+2018-11-28 12:11:03: Elapsed time: 0.044582 seconds for task '/usr/sbin/ioreg -a -w0 -x 0'
+2018-11-28 12:11:03: Finished serial execution.
+2018-11-28 12:11:03: OK, all tasks done.
+2018-11-28 12:11:03: DONE: ioreg
+2018-11-28 12:11:03: hidreport : Req - 0009 State - 0038. Did conditions pass: 0
+2018-11-28 12:11:03: suggestToolTasks : Req - 0008 State - 0038. Did conditions pass: 1
+2018-11-28 12:11:03: Executing container: suggestToolTasks...
+2018-11-28 12:11:03: suggestToolTasks (/System/Library/PrivateFrameworks/CoreSuggestions.framework/Tools/suggest_tooldbStats): Req - 0008 State - 0038. Did conditions pass: 1
+2018-11-28 12:11:03: suggestToolTasks (/System/Library/PrivateFrameworks/CoreSuggestions.framework/Tools/suggest_toolfilesystemMetadata): Req - 0008 State - 0038. Did conditions pass: 1
+2018-11-28 12:11:03: suggestToolTasks (/System/Library/PrivateFrameworks/CoreSuggestions.framework/Tools/suggest_tooldbSchema): Req - 0008 State - 0038. Did conditions pass: 1
+2018-11-28 12:11:03: suggestToolTasks (/System/Library/PrivateFrameworks/CoreSuggestions.framework/Tools/suggest_toolassetVersion): Req - 0008 State - 0038. Did conditions pass: 1
+2018-11-28 12:11:03: suggestToolTasks (/System/Library/PrivateFrameworks/CoreSuggestions.framework/Tools/suggest_toolRTCGetDictionaryExtractions): Req - 0008 State - 0038. Did conditions pass: 1
+2018-11-28 12:11:03: suggestToolTasks (/System/Library/PrivateFrameworks/CoreSuggestions.framework/Tools/suggest_toolRTCGetDictionaryInteractions): Req - 0008 State - 0038. Did conditions pass: 1
+2018-11-28 12:11:03: suggestToolTasks (/System/Library/PrivateFrameworks/CoreSuggestions.framework/Tools/suggest_toolRTCGetDictionaryInteractionsSummary): Req - 0008 State - 0038. Did conditions pass: 1
+2018-11-28 12:11:03: Executing '/System/Library/PrivateFrameworks/CoreSuggestions.framework/Tools/suggest_tool dbStats'
+2018-11-28 12:11:03: Child process '/System/Library/PrivateFrameworks/CoreSuggestions.framework/Tools/suggest_tool dbStats' exited with status 0
+2018-11-28 12:11:03: /System/Library/PrivateFrameworks/CoreSuggestions.framework/Tools/suggest_tool dbStats terminated
+2018-11-28 12:11:03: Elapsed time: 0.054141 seconds for task '/System/Library/PrivateFrameworks/CoreSuggestions.framework/Tools/suggest_tool dbStats'
+2018-11-28 12:11:03: Executing '/System/Library/PrivateFrameworks/CoreSuggestions.framework/Tools/suggest_tool filesystemMetadata'
+2018-11-28 12:11:03: Child process '/System/Library/PrivateFrameworks/CoreSuggestions.framework/Tools/suggest_tool filesystemMetadata' exited with status 0
+2018-11-28 12:11:03: /System/Library/PrivateFrameworks/CoreSuggestions.framework/Tools/suggest_tool filesystemMetadata terminated
+2018-11-28 12:11:03: Elapsed time: 0.020414 seconds for task '/System/Library/PrivateFrameworks/CoreSuggestions.framework/Tools/suggest_tool filesystemMetadata'
+2018-11-28 12:11:03: Executing '/System/Library/PrivateFrameworks/CoreSuggestions.framework/Tools/suggest_tool dbSchema'
+2018-11-28 12:11:04: Child process '/System/Library/PrivateFrameworks/CoreSuggestions.framework/Tools/suggest_tool dbSchema' exited with status 0
+2018-11-28 12:11:04: /System/Library/PrivateFrameworks/CoreSuggestions.framework/Tools/suggest_tool dbSchema terminated
+2018-11-28 12:11:04: Elapsed time: 0.038340 seconds for task '/System/Library/PrivateFrameworks/CoreSuggestions.framework/Tools/suggest_tool dbSchema'
+2018-11-28 12:11:04: Executing '/System/Library/PrivateFrameworks/CoreSuggestions.framework/Tools/suggest_tool assetVersion'
+2018-11-28 12:11:04: Child process '/System/Library/PrivateFrameworks/CoreSuggestions.framework/Tools/suggest_tool assetVersion' exited with status 0
+2018-11-28 12:11:04: /System/Library/PrivateFrameworks/CoreSuggestions.framework/Tools/suggest_tool assetVersion terminated
+2018-11-28 12:11:04: Elapsed time: 0.019218 seconds for task '/System/Library/PrivateFrameworks/CoreSuggestions.framework/Tools/suggest_tool assetVersion'
+2018-11-28 12:11:04: Executing '/System/Library/PrivateFrameworks/CoreSuggestions.framework/Tools/suggest_tool RTCGetDictionaryExtractions'
+2018-11-28 12:11:04: Child process '/System/Library/PrivateFrameworks/CoreSuggestions.framework/Tools/suggest_tool RTCGetDictionaryExtractions' exited with status 1
+2018-11-28 12:11:04: /System/Library/PrivateFrameworks/CoreSuggestions.framework/Tools/suggest_tool RTCGetDictionaryExtractions terminated
+2018-11-28 12:11:04: Elapsed time: 0.009884 seconds for task '/System/Library/PrivateFrameworks/CoreSuggestions.framework/Tools/suggest_tool RTCGetDictionaryExtractions'
+2018-11-28 12:11:04: Executing '/System/Library/PrivateFrameworks/CoreSuggestions.framework/Tools/suggest_tool RTCGetDictionaryInteractions'
+2018-11-28 12:11:04: Child process '/System/Library/PrivateFrameworks/CoreSuggestions.framework/Tools/suggest_tool RTCGetDictionaryInteractions' exited with status 1
+2018-11-28 12:11:04: /System/Library/PrivateFrameworks/CoreSuggestions.framework/Tools/suggest_tool RTCGetDictionaryInteractions terminated
+2018-11-28 12:11:04: Elapsed time: 0.009530 seconds for task '/System/Library/PrivateFrameworks/CoreSuggestions.framework/Tools/suggest_tool RTCGetDictionaryInteractions'
+2018-11-28 12:11:04: Executing '/System/Library/PrivateFrameworks/CoreSuggestions.framework/Tools/suggest_tool RTCGetDictionaryInteractionsSummary'
+2018-11-28 12:11:04: Child process '/System/Library/PrivateFrameworks/CoreSuggestions.framework/Tools/suggest_tool RTCGetDictionaryInteractionsSummary' exited with status 1
+2018-11-28 12:11:04: /System/Library/PrivateFrameworks/CoreSuggestions.framework/Tools/suggest_tool RTCGetDictionaryInteractionsSummary terminated
+2018-11-28 12:11:04: Elapsed time: 0.009788 seconds for task '/System/Library/PrivateFrameworks/CoreSuggestions.framework/Tools/suggest_tool RTCGetDictionaryInteractionsSummary'
+2018-11-28 12:11:04: Finished serial execution.
+2018-11-28 12:11:04: OK, all tasks done.
+2018-11-28 12:11:04: DONE: suggestToolTasks
+2018-11-28 12:11:04: brctl : Req - 0008 State - 0038. Did conditions pass: 1
+2018-11-28 12:11:04: Executing container: brctl...
+2018-11-28 12:11:04: brctl (/usr/bin/brctldiagnose --sysdiagnose /var/mobile/Library/Logs/CrashReporter/DiagnosticLogs/sysdiagnose/IN_PROGRESS_sysdiagnose_2018.11.28_12-10-54-0600_iPhone_OS_iPhone_16B92.tmp/brctl): Req - 0008 State - 0038. Did conditions pass: 1
+2018-11-28 12:11:04: Executing '/usr/bin/brctl diagnose --sysdiagnose /var/mobile/Library/Logs/CrashReporter/DiagnosticLogs/sysdiagnose/IN_PROGRESS_sysdiagnose_2018.11.28_12-10-54-0600_iPhone_OS_iPhone_16B92.tmp/brctl'
+2018-11-28 12:11:04: Child process '/usr/bin/brctl diagnose --sysdiagnose /var/mobile/Library/Logs/CrashReporter/DiagnosticLogs/sysdiagnose/IN_PROGRESS_sysdiagnose_2018.11.28_12-10-54-0600_iPhone_OS_iPhone_16B92.tmp/brctl' exited with status 0
+2018-11-28 12:11:04: /usr/bin/brctl diagnose --sysdiagnose /var/mobile/Library/Logs/CrashReporter/DiagnosticLogs/sysdiagnose/IN_PROGRESS_sysdiagnose_2018.11.28_12-10-54-0600_iPhone_OS_iPhone_16B92.tmp/brctl terminated
+2018-11-28 12:11:04: Elapsed time: 0.057221 seconds for task '/usr/bin/brctl diagnose --sysdiagnose /var/mobile/Library/Logs/CrashReporter/DiagnosticLogs/sysdiagnose/IN_PROGRESS_sysdiagnose_2018.11.28_12-10-54-0600_iPhone_OS_iPhone_16B92.tmp/brctl'
+2018-11-28 12:11:04: Finished serial execution.
+2018-11-28 12:11:04: OK, all tasks done.
+2018-11-28 12:11:04: DONE: brctl
+2018-11-28 12:11:04: Summary located at /var/mobile/Library/Logs/CrashReporter/DiagnosticLogs/sysdiagnose/IN_PROGRESS_sysdiagnose_2018.11.28_12-10-54-0600_iPhone_OS_iPhone_16B92/summaries/brctl.log
+2018-11-28 12:11:04: brctl : Req - 0008 State - 0038. Did conditions pass: 1
+2018-11-28 12:11:04: Executing container: brctl...
+2018-11-28 12:11:04: brctl : Req - 0008 State - 0038. Did conditions pass: 1
+2018-11-28 12:11:04: brctl : Req - 0008 State - 0038. Did conditions pass: 1
+2018-11-28 12:11:04: DONE: brctl
+2018-11-28 12:11:04: logs/hidrecorderd : Req - 0400 State - 0038. Did conditions pass: 0
+2018-11-28 12:11:04: Summary located at /var/mobile/Library/Logs/CrashReporter/DiagnosticLogs/sysdiagnose/IN_PROGRESS_sysdiagnose_2018.11.28_12-10-54-0600_iPhone_OS_iPhone_16B92/summaries/hidrecorderd.log
+2018-11-28 12:11:04: logs/hidrecorderd : Req - 0400 State - 0038. Did conditions pass: 0
+2018-11-28 12:11:04: nightshift : Req - 0008 State - 0038. Did conditions pass: 1
+2018-11-28 12:11:04: Executing container: nightshift...
+2018-11-28 12:11:04: nightshift (/usr/bin/corebrightnessdiagnightshift-internal): Req - 0008 State - 0038. Did conditions pass: 1
+2018-11-28 12:11:04: Launch path '/usr/bin/corebrightnessdiag' not accessible
+2018-11-28 12:11:04: Elapsed time: 0.000095 seconds for task '/usr/bin/corebrightnessdiag nightshift-internal'
+2018-11-28 12:11:04: Finished serial execution.
+2018-11-28 12:11:04: OK, all tasks done.
+2018-11-28 12:11:04: DONE: nightshift
+2018-11-28 12:11:04: logs/StoreServices : Req - 0008 State - 0038. Did conditions pass: 1
+2018-11-28 12:11:04: Executing container: logs/StoreServices...
+2018-11-28 12:11:04: logs/StoreServices (/usr/local/bin/asclientcollectNetworkLogs): Req - 0008 State - 0038. Did conditions pass: 1
+2018-11-28 12:11:04: logs/StoreServices (/bin/sleep2): Req - 0008 State - 0038. Did conditions pass: 1
+2018-11-28 12:11:04: logs/StoreServices (/usr/local/bin/asclientdump): Req - 0008 State - 0038. Did conditions pass: 1
+2018-11-28 12:11:04: Launch path '/usr/local/bin/asclient' not accessible
+2018-11-28 12:11:04: Elapsed time: 0.000128 seconds for task '/usr/local/bin/asclient collectNetworkLogs'
+2018-11-28 12:11:04: Launch path '/bin/sleep' not accessible
+2018-11-28 12:11:04: Elapsed time: 0.000100 seconds for task '/bin/sleep 2'
+2018-11-28 12:11:04: Launch path '/usr/local/bin/asclient' not accessible
+2018-11-28 12:11:04: Elapsed time: 0.000089 seconds for task '/usr/local/bin/asclient dump'
+2018-11-28 12:11:04: Finished serial execution.
+2018-11-28 12:11:04: OK, all tasks done.
+2018-11-28 12:11:04: DONE: logs/StoreServices
+2018-11-28 12:11:04: Summary located at /var/mobile/Library/Logs/CrashReporter/DiagnosticLogs/sysdiagnose/IN_PROGRESS_sysdiagnose_2018.11.28_12-10-54-0600_iPhone_OS_iPhone_16B92/summaries/StoreServices.log
+2018-11-28 12:11:04: logs/StoreServices : Req - 0008 State - 0038. Did conditions pass: 1
+2018-11-28 12:11:04: Executing container: logs/StoreServices...
+2018-11-28 12:11:04: logs/StoreServices : Req - 0009 State - 0038. Did conditions pass: 0
+2018-11-28 12:11:04: DONE: logs/StoreServices
+2018-11-28 12:11:04: /var/mobile/Library/Logs/CrashReporter/DiagnosticLogs/sysdiagnose/IN_PROGRESS_sysdiagnose_2018.11.28_12-10-54-0600_iPhone_OS_iPhone_16B92.tmp/logs/AWD : Req - 0008 State - 0038. Did conditions pass: 1
+2018-11-28 12:11:04: Executing container: /var/mobile/Library/Logs/CrashReporter/DiagnosticLogs/sysdiagnose/IN_PROGRESS_sysdiagnose_2018.11.28_12-10-54-0600_iPhone_OS_iPhone_16B92.tmp/logs/AWD...
+2018-11-28 12:11:04: Adding path: /var/wireless/awdd/applogs/feedback/awdd-2018-11-28-022856-77.consolidated.metriclog to resultArray
+2018-11-28 12:11:04: Adding path: /var/wireless/awdd/applogs/feedback/awdd-2018-11-27-022757-61.consolidated.metriclog to resultArray
+2018-11-28 12:11:04: Adding path: /var/wireless/awdd/applogs/feedback/awdd-2018-11-28-120109-87.consolidated.metriclog to resultArray
+2018-11-28 12:11:04: Adding path: /var/wireless/awdd/applogs/feedback/awdd-2018-11-27-192926-70.consolidated.metriclog to resultArray
+2018-11-28 12:11:04: Adding path: /var/wireless/awdd/applogs/feedback/awdd-2018-11-28-113505-82.consolidated.metriclog to resultArray
+2018-11-28 12:11:04: /var/mobile/Library/Logs/CrashReporter/DiagnosticLogs/sysdiagnose/IN_PROGRESS_sysdiagnose_2018.11.28_12-10-54-0600_iPhone_OS_iPhone_16B92.tmp/logs/AWD resulted in 5 paths
+2018-11-28 12:11:04: DONE: /var/mobile/Library/Logs/CrashReporter/DiagnosticLogs/sysdiagnose/IN_PROGRESS_sysdiagnose_2018.11.28_12-10-54-0600_iPhone_OS_iPhone_16B92.tmp/logs/AWD
+2018-11-28 12:11:04: Summary located at /var/mobile/Library/Logs/CrashReporter/DiagnosticLogs/sysdiagnose/IN_PROGRESS_sysdiagnose_2018.11.28_12-10-54-0600_iPhone_OS_iPhone_16B92/summaries/AWD.log
+2018-11-28 12:11:04: logs/AWD : Req - 0008 State - 0038. Did conditions pass: 1
+2018-11-28 12:11:04: Executing container: logs/AWD...
+2018-11-28 12:11:04: logs/AWD : Req - 0008 State - 0038. Did conditions pass: 1
+2018-11-28 12:11:04: logs/AWD : Req - 0008 State - 0038. Did conditions pass: 1
+2018-11-28 12:11:04: DONE: logs/AWD
+2018-11-28 12:11:04: /var/mobile/Library/Logs/CrashReporter/DiagnosticLogs/sysdiagnose/IN_PROGRESS_sysdiagnose_2018.11.28_12-10-54-0600_iPhone_OS_iPhone_16B92.tmp/logs/CoreMedia : Req - 0008 State - 0038. Did conditions pass: 1
+2018-11-28 12:11:04: Executing container: /var/mobile/Library/Logs/CrashReporter/DiagnosticLogs/sysdiagnose/IN_PROGRESS_sysdiagnose_2018.11.28_12-10-54-0600_iPhone_OS_iPhone_16B92.tmp/logs/CoreMedia...
+2018-11-28 12:11:04: /var/mobile/Library/Logs/CrashReporter/DiagnosticLogs/sysdiagnose/IN_PROGRESS_sysdiagnose_2018.11.28_12-10-54-0600_iPhone_OS_iPhone_16B92.tmp/logs/CoreMedia resulted in 0 paths
+2018-11-28 12:11:04: DONE: /var/mobile/Library/Logs/CrashReporter/DiagnosticLogs/sysdiagnose/IN_PROGRESS_sysdiagnose_2018.11.28_12-10-54-0600_iPhone_OS_iPhone_16B92.tmp/logs/CoreMedia
+2018-11-28 12:11:04: Summary located at /var/mobile/Library/Logs/CrashReporter/DiagnosticLogs/sysdiagnose/IN_PROGRESS_sysdiagnose_2018.11.28_12-10-54-0600_iPhone_OS_iPhone_16B92/summaries/CoreMedia.log
+2018-11-28 12:11:04: logs/CoreMedia/ : Req - 0008 State - 0038. Did conditions pass: 1
+2018-11-28 12:11:04: Executing container: logs/CoreMedia/...
+2018-11-28 12:11:04: logs/CoreMedia/ : Req - 0008 State - 0038. Did conditions pass: 1
+2018-11-28 12:11:04: logs/CoreMedia/ : Req - 0008 State - 0038. Did conditions pass: 1
+2018-11-28 12:11:04: DONE: logs/CoreMedia/
+2018-11-28 12:11:04: /var/mobile/Library/Logs/CrashReporter/DiagnosticLogs/sysdiagnose/IN_PROGRESS_sysdiagnose_2018.11.28_12-10-54-0600_iPhone_OS_iPhone_16B92.tmp/logs/powerlogs : Req - 0008 State - 0038. Did conditions pass: 1
+2018-11-28 12:11:04: Executing container: /var/mobile/Library/Logs/CrashReporter/DiagnosticLogs/sysdiagnose/IN_PROGRESS_sysdiagnose_2018.11.28_12-10-54-0600_iPhone_OS_iPhone_16B92.tmp/logs/powerlogs...
+2018-11-28 12:11:04: Adding path: /var/tmp/powerlog_2018-11-28_12-11_8DD0A53E.PLSQL to resultArray
+2018-11-28 12:11:04: /var/mobile/Library/Logs/CrashReporter/DiagnosticLogs/sysdiagnose/IN_PROGRESS_sysdiagnose_2018.11.28_12-10-54-0600_iPhone_OS_iPhone_16B92.tmp/logs/powerlogs resulted in 1 paths
+2018-11-28 12:11:04: DONE: /var/mobile/Library/Logs/CrashReporter/DiagnosticLogs/sysdiagnose/IN_PROGRESS_sysdiagnose_2018.11.28_12-10-54-0600_iPhone_OS_iPhone_16B92.tmp/logs/powerlogs
+2018-11-28 12:11:04: Summary located at /var/mobile/Library/Logs/CrashReporter/DiagnosticLogs/sysdiagnose/IN_PROGRESS_sysdiagnose_2018.11.28_12-10-54-0600_iPhone_OS_iPhone_16B92/summaries/powerlogs.log
+2018-11-28 12:11:04: logs/powerlogs/ : Req - 0008 State - 0038. Did conditions pass: 1
+2018-11-28 12:11:04: Executing container: logs/powerlogs/...
+2018-11-28 12:11:04: logs/powerlogs/ : Req - 0008 State - 0038. Did conditions pass: 1
+2018-11-28 12:11:04: logs/powerlogs/ : Req - 0008 State - 0038. Did conditions pass: 1
+2018-11-28 12:11:04: DONE: logs/powerlogs/
+2018-11-28 12:11:04: /var/mobile/Library/Logs/CrashReporter/DiagnosticLogs/sysdiagnose/IN_PROGRESS_sysdiagnose_2018.11.28_12-10-54-0600_iPhone_OS_iPhone_16B92.tmp/WiFi : Req - 0008 State - 0038. Did conditions pass: 1
+2018-11-28 12:11:04: Executing container: /var/mobile/Library/Logs/CrashReporter/DiagnosticLogs/sysdiagnose/IN_PROGRESS_sysdiagnose_2018.11.28_12-10-54-0600_iPhone_OS_iPhone_16B92.tmp/WiFi...
+2018-11-28 12:11:09: (WiFi) SPI call did not return an XPC_ARRAY
+2018-11-28 12:11:09: /var/mobile/Library/Logs/CrashReporter/DiagnosticLogs/sysdiagnose/IN_PROGRESS_sysdiagnose_2018.11.28_12-10-54-0600_iPhone_OS_iPhone_16B92.tmp/WiFi resulted in 0 paths
+2018-11-28 12:11:09: DONE: /var/mobile/Library/Logs/CrashReporter/DiagnosticLogs/sysdiagnose/IN_PROGRESS_sysdiagnose_2018.11.28_12-10-54-0600_iPhone_OS_iPhone_16B92.tmp/WiFi
+2018-11-28 12:11:09: Summary located at /var/mobile/Library/Logs/CrashReporter/DiagnosticLogs/sysdiagnose/IN_PROGRESS_sysdiagnose_2018.11.28_12-10-54-0600_iPhone_OS_iPhone_16B92/summaries/WiFi.log
+2018-11-28 12:11:09: /WiFi : Req - 0008 State - 0038. Did conditions pass: 1
+2018-11-28 12:11:09: Executing container: /WiFi...
+2018-11-28 12:11:09: /WiFi : Req - 0008 State - 0038. Did conditions pass: 1
+2018-11-28 12:11:09: /WiFi : Req - 0008 State - 0038. Did conditions pass: 1
+2018-11-28 12:11:10: DONE: /WiFi
+2018-11-28 12:11:10: basebandMeta : Req - 0008 State - 0038. Did conditions pass: 1
+2018-11-28 12:11:10: Executing container: basebandMeta...
+2018-11-28 12:11:10: Executing '/usr/bin/abmlite logdump bb nocompress "bb log collection - for sysdiagnose"'
+2018-11-28 12:11:10: Child process '/usr/bin/abmlite logdump bb nocompress "bb log collection - for sysdiagnose"' exited with status 0
+2018-11-28 12:11:10: /usr/bin/abmlite logdump bb nocompress "bb log collection - for sysdiagnose" terminated
+2018-11-28 12:11:10: Elapsed time: 0.543867 seconds for task '/usr/bin/abmlite logdump bb nocompress "bb log collection - for sysdiagnose"'
+2018-11-28 12:11:10: Finished serial execution.
+2018-11-28 12:11:10: OK, all tasks done.
+2018-11-28 12:11:10: basebandMeta resulted in 0 paths
+2018-11-28 12:11:10: DONE: basebandMeta
+2018-11-28 12:11:10: Summary located at /var/mobile/Library/Logs/CrashReporter/DiagnosticLogs/sysdiagnose/IN_PROGRESS_sysdiagnose_2018.11.28_12-10-54-0600_iPhone_OS_iPhone_16B92/summaries/basebandMeta.log
+2018-11-28 12:11:10: basebandMeta : Req - 0008 State - 0038. Did conditions pass: 1
+2018-11-28 12:11:10: Executing container: basebandMeta...
+2018-11-28 12:11:10: basebandMeta : Req - 0008 State - 0038. Did conditions pass: 1
+2018-11-28 12:11:10: DONE: basebandMeta
+2018-11-28 12:11:10: logs/SoundAutoConfig : Req - 0809 State - 0038. Did conditions pass: 0
+2018-11-28 12:11:10: Summary located at /var/mobile/Library/Logs/CrashReporter/DiagnosticLogs/sysdiagnose/IN_PROGRESS_sysdiagnose_2018.11.28_12-10-54-0600_iPhone_OS_iPhone_16B92/summaries/SoundAutoConfig.log
+2018-11-28 12:11:10: logs/SoundAutoConfig : Req - 0809 State - 0038. Did conditions pass: 0
+2018-11-28 12:11:10: cadebug : Req - 0009 State - 0038. Did conditions pass: 0
+2018-11-28 12:11:10: microstackshots : Req - 0008 State - 0038. Did conditions pass: 1
+2018-11-28 12:11:10: Executing container: microstackshots...
+2018-11-28 12:11:10: <OUTPUTDIR> Substitution found: <OUTPUTDIR>/microstackshots --> /var/mobile/Library/Logs/CrashReporter/DiagnosticLogs/sysdiagnose/IN_PROGRESS_sysdiagnose_2018.11.28_12-10-54-0600_iPhone_OS_iPhone_16B92/microstackshots
+2018-11-28 12:11:10: microstackshots (/usr/sbin/spindump-microstackshots_only -microstackshots_save -microstackshots_datastore /var/mobile/Library/Logs/CrashReporter/DiagnosticLogs/sysdiagnose/IN_PROGRESS_sysdiagnose_2018.11.28_12-10-54-0600_iPhone_OS_iPhone_16B92/microstackshots -microstackshots_starttime 1543169454 -microstackshots_endtime 1543428654): Req - 0008 State - 0038. Did conditions pass: 1
+2018-11-28 12:11:10: <OUTPUTDIR> Substitution found: <OUTPUTDIR>/microstackshots --> /var/mobile/Library/Logs/CrashReporter/DiagnosticLogs/sysdiagnose/IN_PROGRESS_sysdiagnose_2018.11.28_12-10-54-0600_iPhone_OS_iPhone_16B92/microstackshots
+2018-11-28 12:11:10: <OUTPUTDIR> Substitution found: <OUTPUTDIR>/microstackshots_lastminute.txt --> /var/mobile/Library/Logs/CrashReporter/DiagnosticLogs/sysdiagnose/IN_PROGRESS_sysdiagnose_2018.11.28_12-10-54-0600_iPhone_OS_iPhone_16B92/microstackshots_lastminute.txt
+2018-11-28 12:11:10: microstackshots (/usr/sbin/spindump-microstackshots_only -inspectLiveSystem -microstackshots_datastore /var/mobile/Library/Logs/CrashReporter/DiagnosticLogs/sysdiagnose/IN_PROGRESS_sysdiagnose_2018.11.28_12-10-54-0600_iPhone_OS_iPhone_16B92/microstackshots -file /var/mobile/Library/Logs/CrashReporter/DiagnosticLogs/sysdiagnose/IN_PROGRESS_sysdiagnose_2018.11.28_12-10-54-0600_iPhone_OS_iPhone_16B92/microstackshots_lastminute.txt -microstackshots_starttime 1543428594 -microstackshots_endtime 1543428654): Req - 0088 State - 0038. Did conditions pass: 0
+2018-11-28 12:11:10: <OUTPUTDIR> Substitution found: <OUTPUTDIR>/microstackshots --> /var/mobile/Library/Logs/CrashReporter/DiagnosticLogs/sysdiagnose/IN_PROGRESS_sysdiagnose_2018.11.28_12-10-54-0600_iPhone_OS_iPhone_16B92/microstackshots
+2018-11-28 12:11:10: <OUTPUTDIR> Substitution found: <OUTPUTDIR>/microstackshots_lasthour.txt --> /var/mobile/Library/Logs/CrashReporter/DiagnosticLogs/sysdiagnose/IN_PROGRESS_sysdiagnose_2018.11.28_12-10-54-0600_iPhone_OS_iPhone_16B92/microstackshots_lasthour.txt
+2018-11-28 12:11:10: microstackshots (/usr/sbin/spindump-microstackshots_only -inspectLiveSystem -microstackshots_datastore /var/mobile/Library/Logs/CrashReporter/DiagnosticLogs/sysdiagnose/IN_PROGRESS_sysdiagnose_2018.11.28_12-10-54-0600_iPhone_OS_iPhone_16B92/microstackshots -file /var/mobile/Library/Logs/CrashReporter/DiagnosticLogs/sysdiagnose/IN_PROGRESS_sysdiagnose_2018.11.28_12-10-54-0600_iPhone_OS_iPhone_16B92/microstackshots_lasthour.txt -microstackshots_starttime 1543425054 -microstackshots_endtime 1543428654): Req - 0088 State - 0038. Did conditions pass: 0
+2018-11-28 12:11:10: <OUTPUTDIR> Substitution found: <OUTPUTDIR>/microstackshots --> /var/mobile/Library/Logs/CrashReporter/DiagnosticLogs/sysdiagnose/IN_PROGRESS_sysdiagnose_2018.11.28_12-10-54-0600_iPhone_OS_iPhone_16B92/microstackshots
+2018-11-28 12:11:10: <OUTPUTDIR> Substitution found: <OUTPUTDIR>/microstackshots_lastday.txt --> /var/mobile/Library/Logs/CrashReporter/DiagnosticLogs/sysdiagnose/IN_PROGRESS_sysdiagnose_2018.11.28_12-10-54-0600_iPhone_OS_iPhone_16B92/microstackshots_lastday.txt
+2018-11-28 12:11:10: microstackshots (/usr/sbin/spindump-microstackshots_only -inspectLiveSystem -microstackshots_datastore /var/mobile/Library/Logs/CrashReporter/DiagnosticLogs/sysdiagnose/IN_PROGRESS_sysdiagnose_2018.11.28_12-10-54-0600_iPhone_OS_iPhone_16B92/microstackshots -file /var/mobile/Library/Logs/CrashReporter/DiagnosticLogs/sysdiagnose/IN_PROGRESS_sysdiagnose_2018.11.28_12-10-54-0600_iPhone_OS_iPhone_16B92/microstackshots_lastday.txt -microstackshots_starttime 1543342254 -microstackshots_endtime 1543428654): Req - 0088 State - 0038. Did conditions pass: 0
+2018-11-28 12:11:10: <OUTPUTDIR> Substitution found: <OUTPUTDIR>/microstackshots --> /var/mobile/Library/Logs/CrashReporter/DiagnosticLogs/sysdiagnose/IN_PROGRESS_sysdiagnose_2018.11.28_12-10-54-0600_iPhone_OS_iPhone_16B92/microstackshots
+2018-11-28 12:11:10: <OUTPUTDIR> Substitution found: <OUTPUTDIR>/microstackshots_lastthreedays.txt --> /var/mobile/Library/Logs/CrashReporter/DiagnosticLogs/sysdiagnose/IN_PROGRESS_sysdiagnose_2018.11.28_12-10-54-0600_iPhone_OS_iPhone_16B92/microstackshots_lastthreedays.txt
+2018-11-28 12:11:10: microstackshots (/usr/sbin/spindump-microstackshots_only -inspectLiveSystem -microstackshots_datastore /var/mobile/Library/Logs/CrashReporter/DiagnosticLogs/sysdiagnose/IN_PROGRESS_sysdiagnose_2018.11.28_12-10-54-0600_iPhone_OS_iPhone_16B92/microstackshots -file /var/mobile/Library/Logs/CrashReporter/DiagnosticLogs/sysdiagnose/IN_PROGRESS_sysdiagnose_2018.11.28_12-10-54-0600_iPhone_OS_iPhone_16B92/microstackshots_lastthreedays.txt -microstackshots_starttime 1543169454 -microstackshots_endtime 1543428654): Req - 0088 State - 0038. Did conditions pass: 0
+2018-11-28 12:11:10: Executing '/usr/sbin/spindump -microstackshots_only -microstackshots_save -microstackshots_datastore /var/mobile/Library/Logs/CrashReporter/DiagnosticLogs/sysdiagnose/IN_PROGRESS_sysdiagnose_2018.11.28_12-10-54-0600_iPhone_OS_iPhone_16B92/microstackshots -microstackshots_starttime 1543169454 -microstackshots_endtime 1543428654'
+2018-11-28 12:11:10: Child process '/usr/sbin/spindump -microstackshots_only -microstackshots_save -microstackshots_datastore /var/mobile/Library/Logs/CrashReporter/DiagnosticLogs/sysdiagnose/IN_PROGRESS_sysdiagnose_2018.11.28_12-10-54-0600_iPhone_OS_iPhone_16B92/microstackshots -microstackshots_starttime 1543169454 -microstackshots_endtime 1543428654' exited with status 0
+2018-11-28 12:11:10: /usr/sbin/spindump -microstackshots_only -microstackshots_save -microstackshots_datastore /var/mobile/Library/Logs/CrashReporter/DiagnosticLogs/sysdiagnose/IN_PROGRESS_sysdiagnose_2018.11.28_12-10-54-0600_iPhone_OS_iPhone_16B92/microstackshots -microstackshots_starttime 1543169454 -microstackshots_endtime 1543428654 terminated
+2018-11-28 12:11:10: Elapsed time: 0.020557 seconds for task '/usr/sbin/spindump -microstackshots_only -microstackshots_save -microstackshots_datastore /var/mobile/Library/Logs/CrashReporter/DiagnosticLogs/sysdiagnose/IN_PROGRESS_sysdiagnose_2018.11.28_12-10-54-0600_iPhone_OS_iPhone_16B92/microstackshots -microstackshots_starttime 1543169454 -microstackshots_endtime 1543428654'
+2018-11-28 12:11:10: Finished serial execution.
+2018-11-28 12:11:10: OK, all tasks done.
+2018-11-28 12:11:10: DONE: microstackshots
+2018-11-28 12:11:10: /var/mobile/Library/Logs/CrashReporter/DiagnosticLogs/sysdiagnose/IN_PROGRESS_sysdiagnose_2018.11.28_12-10-54-0600_iPhone_OS_iPhone_16B92.tmp/logs/olddsc : Req - 0008 State - 0038. Did conditions pass: 1
+2018-11-28 12:11:10: Executing container: /var/mobile/Library/Logs/CrashReporter/DiagnosticLogs/sysdiagnose/IN_PROGRESS_sysdiagnose_2018.11.28_12-10-54-0600_iPhone_OS_iPhone_16B92.tmp/logs/olddsc...
+2018-11-28 12:11:10: (olddsc) SPI call did not return an XPC_ARRAY
+2018-11-28 12:11:10: /var/mobile/Library/Logs/CrashReporter/DiagnosticLogs/sysdiagnose/IN_PROGRESS_sysdiagnose_2018.11.28_12-10-54-0600_iPhone_OS_iPhone_16B92.tmp/logs/olddsc resulted in 0 paths
+2018-11-28 12:11:10: DONE: /var/mobile/Library/Logs/CrashReporter/DiagnosticLogs/sysdiagnose/IN_PROGRESS_sysdiagnose_2018.11.28_12-10-54-0600_iPhone_OS_iPhone_16B92.tmp/logs/olddsc
+2018-11-28 12:11:10: Summary located at /var/mobile/Library/Logs/CrashReporter/DiagnosticLogs/sysdiagnose/IN_PROGRESS_sysdiagnose_2018.11.28_12-10-54-0600_iPhone_OS_iPhone_16B92/summaries/olddsc.log
+2018-11-28 12:11:10: logs/olddsc : Req - 0008 State - 0038. Did conditions pass: 1
+2018-11-28 12:11:10: Executing container: logs/olddsc...
+2018-11-28 12:11:10: logs/olddsc : Req - 0008 State - 0038. Did conditions pass: 1
+2018-11-28 12:11:10: logs/olddsc : Req - 0008 State - 0038. Did conditions pass: 1
+2018-11-28 12:11:10: DONE: logs/olddsc
+2018-11-28 12:11:10: Airplay : Req - 0009 State - 0038. Did conditions pass: 0
+2018-11-28 12:11:10: Stsp : Req - 0009 State - 0038. Did conditions pass: 0
+2018-11-28 12:11:10: nightshift : Req - 0008 State - 0038. Did conditions pass: 1
+2018-11-28 12:11:10: Executing container: nightshift...
+2018-11-28 12:11:10: nightshift (/usr/bin/corebrightnessdiagnightshift-internal): Req - 0008 State - 0038. Did conditions pass: 1
+2018-11-28 12:11:10: Launch path '/usr/bin/corebrightnessdiag' not accessible
+2018-11-28 12:11:10: Elapsed time: 0.000162 seconds for task '/usr/bin/corebrightnessdiag nightshift-internal'
+2018-11-28 12:11:10: Finished serial execution.
+2018-11-28 12:11:10: OK, all tasks done.
+2018-11-28 12:11:10: DONE: nightshift
+2018-11-28 12:11:10: CKKSCTL : Req - 0008 State - 0038. Did conditions pass: 1
+2018-11-28 12:11:10: Executing container: CKKSCTL...
+2018-11-28 12:11:10: CKKSCTL (/usr/sbin/ckksctlstatus): Req - 0008 State - 0038. Did conditions pass: 1
+2018-11-28 12:11:10: Executing '/usr/sbin/ckksctl status'
+2018-11-28 12:11:11: Child process '/usr/sbin/ckksctl status' exited with status 0
+2018-11-28 12:11:11: /usr/sbin/ckksctl status terminated
+2018-11-28 12:11:11: Elapsed time: 1.061628 seconds for task '/usr/sbin/ckksctl status'
+2018-11-28 12:11:11: Finished serial execution.
+2018-11-28 12:11:11: OK, all tasks done.
+2018-11-28 12:11:11: DONE: CKKSCTL
+2018-11-28 12:11:11: /var/mobile/Library/Logs/CrashReporter/DiagnosticLogs/sysdiagnose/IN_PROGRESS_sysdiagnose_2018.11.28_12-10-54-0600_iPhone_OS_iPhone_16B92.tmp/Preferences : Req - 0008 State - 0038. Did conditions pass: 1
+2018-11-28 12:11:11: Executing container: /var/mobile/Library/Logs/CrashReporter/DiagnosticLogs/sysdiagnose/IN_PROGRESS_sysdiagnose_2018.11.28_12-10-54-0600_iPhone_OS_iPhone_16B92.tmp/Preferences...
+2018-11-28 12:11:11: (Preferences) SPI call did not return an XPC_ARRAY
+2018-11-28 12:11:11: /var/mobile/Library/Logs/CrashReporter/DiagnosticLogs/sysdiagnose/IN_PROGRESS_sysdiagnose_2018.11.28_12-10-54-0600_iPhone_OS_iPhone_16B92.tmp/Preferences resulted in 0 paths
+2018-11-28 12:11:11: DONE: /var/mobile/Library/Logs/CrashReporter/DiagnosticLogs/sysdiagnose/IN_PROGRESS_sysdiagnose_2018.11.28_12-10-54-0600_iPhone_OS_iPhone_16B92.tmp/Preferences
+2018-11-28 12:11:11: Summary located at /var/mobile/Library/Logs/CrashReporter/DiagnosticLogs/sysdiagnose/IN_PROGRESS_sysdiagnose_2018.11.28_12-10-54-0600_iPhone_OS_iPhone_16B92/summaries/Preferences.log
+2018-11-28 12:11:11: Preferences : Req - 0008 State - 0038. Did conditions pass: 1
+2018-11-28 12:11:11: Executing container: Preferences...
+2018-11-28 12:11:11: Preferences : Req - 0008 State - 0038. Did conditions pass: 1
+2018-11-28 12:11:11: Preferences : Req - 0008 State - 0038. Did conditions pass: 1
+2018-11-28 12:11:11: DONE: Preferences
+2018-11-28 12:11:11: timezonedb : Req - 0008 State - 0038. Did conditions pass: 1
+2018-11-28 12:11:11: Executing container: timezonedb...
+2018-11-28 12:11:11: timezonedb (/bin/ls-lR /var/db/timezone): Req - 0008 State - 0038. Did conditions pass: 1
+2018-11-28 12:11:11: Launch path '/bin/ls' not accessible
+2018-11-28 12:11:11: Elapsed time: 0.000407 seconds for task '/bin/ls -lR /var/db/timezone'
+2018-11-28 12:11:11: Finished serial execution.
+2018-11-28 12:11:11: OK, all tasks done.
+2018-11-28 12:11:11: DONE: timezonedb
+2018-11-28 12:11:11: launchCTL : Req - 0009 State - 0038. Did conditions pass: 0
+2018-11-28 12:11:11: Summary located at /var/mobile/Library/Logs/CrashReporter/DiagnosticLogs/sysdiagnose/IN_PROGRESS_sysdiagnose_2018.11.28_12-10-54-0600_iPhone_OS_iPhone_16B92/summaries/launchdLogs.log
+2018-11-28 12:11:11: launchdLogs : Req - 0009 State - 0038. Did conditions pass: 0
+2018-11-28 12:11:11: logs/cts : Req - 0009 State - 0038. Did conditions pass: 0
+2018-11-28 12:11:11: Summary located at /var/mobile/Library/Logs/CrashReporter/DiagnosticLogs/sysdiagnose/IN_PROGRESS_sysdiagnose_2018.11.28_12-10-54-0600_iPhone_OS_iPhone_16B92/summaries/cts.log
+2018-11-28 12:11:11: logs/cts : Req - 0009 State - 0038. Did conditions pass: 0
+2018-11-28 12:11:11: APFS_STATS : Req - 0008 State - 0038. Did conditions pass: 1
+2018-11-28 12:11:11: Executing container: APFS_STATS...
+2018-11-28 12:11:11: APFS_STATS (/System/Library/Filesystems/apfs.fs/apfs_stats): Req - 0008 State - 0038. Did conditions pass: 1
+2018-11-28 12:11:11: Executing '/System/Library/Filesystems/apfs.fs/apfs_stats'
+2018-11-28 12:11:11: Child process '/System/Library/Filesystems/apfs.fs/apfs_stats' exited with status 0
+2018-11-28 12:11:11: /System/Library/Filesystems/apfs.fs/apfs_stats terminated
+2018-11-28 12:11:11: Elapsed time: 0.026614 seconds for task '/System/Library/Filesystems/apfs.fs/apfs_stats'
+2018-11-28 12:11:11: Finished serial execution.
+2018-11-28 12:11:11: OK, all tasks done.
+2018-11-28 12:11:11: DONE: APFS_STATS
+2018-11-28 12:11:11: /var/mobile/Library/Logs/CrashReporter/DiagnosticLogs/sysdiagnose/IN_PROGRESS_sysdiagnose_2018.11.28_12-10-54-0600_iPhone_OS_iPhone_16B92.tmp/Preferences : Req - 0008 State - 0038. Did conditions pass: 1
+2018-11-28 12:11:11: Executing container: /var/mobile/Library/Logs/CrashReporter/DiagnosticLogs/sysdiagnose/IN_PROGRESS_sysdiagnose_2018.11.28_12-10-54-0600_iPhone_OS_iPhone_16B92.tmp/Preferences...
+2018-11-28 12:11:11: (Preferences) SPI call did not return an XPC_ARRAY
+2018-11-28 12:11:11: /var/mobile/Library/Logs/CrashReporter/DiagnosticLogs/sysdiagnose/IN_PROGRESS_sysdiagnose_2018.11.28_12-10-54-0600_iPhone_OS_iPhone_16B92.tmp/Preferences resulted in 0 paths
+2018-11-28 12:11:11: DONE: /var/mobile/Library/Logs/CrashReporter/DiagnosticLogs/sysdiagnose/IN_PROGRESS_sysdiagnose_2018.11.28_12-10-54-0600_iPhone_OS_iPhone_16B92.tmp/Preferences
+2018-11-28 12:11:11: Summary located at /var/mobile/Library/Logs/CrashReporter/DiagnosticLogs/sysdiagnose/IN_PROGRESS_sysdiagnose_2018.11.28_12-10-54-0600_iPhone_OS_iPhone_16B92/summaries/Preferences.log
+2018-11-28 12:11:11: Preferences : Req - 0008 State - 0038. Did conditions pass: 1
+2018-11-28 12:11:11: Executing container: Preferences...
+2018-11-28 12:11:11: Preferences : Req - 0008 State - 0038. Did conditions pass: 1
+2018-11-28 12:11:11: Preferences : Req - 0008 State - 0038. Did conditions pass: 1
+2018-11-28 12:11:11: DONE: Preferences
+2018-11-28 12:11:11: 
+Enter OSLOG ARCHIVE COLLECTION phase
+2018-11-28 12:11:11: logarchive summary : Req - 0020 State - 0038. Did conditions pass: 1
+2018-11-28 12:11:11: Executing container: logarchive summary...
+2018-11-28 12:11:11: logarchive summary (/usr/bin/logconfig --status): Req - 0020 State - 0038. Did conditions pass: 1
+2018-11-28 12:11:11: logarchive summary (/bin/ls-lRsh /var/db/diagnostics): Req - 0020 State - 0038. Did conditions pass: 1
+2018-11-28 12:11:11: logarchive summary (/bin/ls-lRsh /var/db/uuidtext): Req - 0020 State - 0038. Did conditions pass: 1
+2018-11-28 12:11:11: Launch path '/usr/bin/log' not accessible
+2018-11-28 12:11:11: Launch path '/bin/ls' not accessible
+2018-11-28 12:11:11: Elapsed time: 0.000713 seconds for task '/bin/ls -lRsh /var/db/diagnostics'
+2018-11-28 12:11:11: Elapsed time: 0.000450 seconds for task '/usr/bin/log config --status'
+2018-11-28 12:11:11: Launch path '/bin/ls' not accessible
+2018-11-28 12:11:11: Elapsed time: 0.001146 seconds for task '/bin/ls -lRsh /var/db/uuidtext'
+2018-11-28 12:11:11: Finished concurrent execution.
+2018-11-28 12:11:11: OK, all tasks done.
+2018-11-28 12:11:11: DONE: logarchive summary
+2018-11-28 12:11:11: logarchive : Req - 0020 State - 0038. Did conditions pass: 1
+2018-11-28 12:11:11: Executing container: logarchive...
+2018-11-28 12:11:11: Trigger logarchive with following parameters:
+2018-11-28 12:11:11: OSLogConstructSpecialAgeLimit : 1296000
+2018-11-28 12:11:11: OSLogConstructSignpostAgeLimit : 172800
+2018-11-28 12:11:11: OSLogConstructSpecialSizeLimit : 94371840
+2018-11-28 12:11:11: OSLogConstructPersistAgeLimit : 86400
+2018-11-28 12:11:11: OSLogConstructHighVolumeSizeLimit : 10485760
+2018-11-28 12:11:11: OSLogConstructPersistSizeLimit : 104857600
+2018-11-28 12:11:11: OSLogConstructHighVolumeAgeLimit : 7200
+2018-11-28 12:11:11: OSLogConstructSignpostSizeLimit : 20971520
+2018-11-28 12:11:16: Summary located at /var/mobile/Library/Logs/CrashReporter/DiagnosticLogs/sysdiagnose/IN_PROGRESS_sysdiagnose_2018.11.28_12-10-54-0600_iPhone_OS_iPhone_16B92/summaries/LogStreamFilter.log
+2018-11-28 12:11:16: LogStreamFilter : Req - 0009 State - 0038. Did conditions pass: 0
+2018-11-28 12:11:16: 
+Completed all phases. Wrapping up.
+2018-11-28 12:11:16: 
+Getting time sensitive containers: 0.10
+Getting log generation containers: 0.01
+Getting log copying containers: 0.01
+Getting OS log archive containers: 0.00
+
+2018-11-28 12:11:16: 
+Time Sensitive: 8.78 
+Log Copying: 8.67 
+Log Generation: 0.00 
+OSLogArchive Generation: 5.08 
+Total: 22.53 seconds, 582269856 bytes
+2018-11-28 12:11:16: Resource Usage: Gathering diagnostics took 22.531965.1 seconds for 582269856 bytes (uncompressed)
+2018-11-28 12:11:16: 
+Output available at '/var/mobile/Library/Logs/CrashReporter/DiagnosticLogs/sysdiagnose/sysdiagnose_2018.11.28_12-10-54-0600_iPhone_OS_iPhone_16B92'.

@@ -1,0 +1,16 @@
+11/28/2018 12:11:04.456 __WiFiDeviceProcessDriverAvailableEvent: driver availability:true, reason:Unknown(0xe0823805), subreason:BCMWLAN Core CoreCapture Callback(0xe3ff8511) 
+
+11/28/2018 12:11:04.456 __WiFiDeviceProcessDriverAvailableEvent No watch dog extended info flags set for this availability report
+11/28/2018 12:11:04.456 __WiFiDeviceProcessDriverAvailableEvent: driver programCounter:(0xe3ff8511),  linkRegister:(0x0), fileName:AppleBCMWLANCore.cpp lineNumber:(24807) functionName:captureRequestCallback 
+
+11/28/2018 12:11:04.456 __WiFiAWDManagerPrepareWatchdogMetric: WatchdogMetric : reason(WiFiDebug~PRE[1EFED]) functionName(captureRequestCallback) fileName(AppleBCMWLANCore.cpp) 
+
+11/28/2018 12:11:04.456 __WiFiManagerDispatchDeviceAvailable: driver availability true
+
+11/28/2018 12:11:04.457 Submitted wifi awd metric <0x9000e> with no error
+11/28/2018 12:11:04.457 __WiFiDeviceManagerAutoAssociate: Already connected to PhoneReset.
+11/28/2018 12:11:04.459 -[WiFiSoftErrorManager wifiSoftErrorEventHandler:eventType:eventData:]: eventType received:10 eventName:WiFiSoftErrorEventDriverAvailable
+11/28/2018 12:11:04.459 -[WiFiSoftErrorManager supressEventDetectionProcesssing:deviceContext:]: ErrorDetection to be filtered:0 for event:10
+11/28/2018 12:11:04.486 apsd[95] is a wow client
+11/28/2018 12:11:04.486 WoW is Enabled, 1 WoW Clients
+11/28/2018 12:11:05.898 Creating client for "wifivelocityd"

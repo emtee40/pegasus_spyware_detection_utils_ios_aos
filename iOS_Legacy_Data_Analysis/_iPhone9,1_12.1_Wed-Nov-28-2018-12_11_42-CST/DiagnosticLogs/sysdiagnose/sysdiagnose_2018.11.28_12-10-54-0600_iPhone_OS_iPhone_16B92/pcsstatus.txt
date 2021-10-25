@@ -1,0 +1,103 @@
+
+status -
+========================
+
+    all_status -
+    ------------------------
+        CKKS_Engram: 6
+        CKKS_Manatee: 6
+        icdp_status: 0
+
+    current_identities -
+    ------------------------
+        AccessibilityVOPronunciation: Error Domain=com.apple.protectedcloudstorage Code=130 "Manatee is not available when its not a manatee services is not enabled" UserInfo={NSDescription=Manatee is not available when its not a manatee services is not enabled}
+        AccessibilityVOPronunciation2: Error Domain=com.apple.protectedcloudstorage Code=130 "Manatee is not available when its not a manatee services is not enabled" UserInfo={NSDescription=Manatee is not available when its not a manatee services is not enabled}
+        AccessibilityVOPronunciation3: Error Domain=NSOSStatusErrorDomain Code=-25300 "Failed finding service AccessibilityVOPronunciation3" UserInfo={NSDescription=Failed finding service AccessibilityVOPronunciation3}
+        AccountData: Error Domain=NSOSStatusErrorDomain Code=-25300 "Failed finding service AccountData" UserInfo={NSDescription=Failed finding service AccountData}
+        Activities: Error Domain=NSOSStatusErrorDomain Code=-25300 "Failed finding service Activities" UserInfo={NSDescription=Failed finding service Activities}
+        Backup: Error Domain=NSOSStatusErrorDomain Code=-25300 "Failed finding service Backup" UserInfo={NSDescription=Failed finding service Backup}
+        BluetoothCloudPairing: Error Domain=com.apple.protectedcloudstorage Code=130 "Manatee is not available when its not a manatee services is not enabled" UserInfo={NSDescription=Manatee is not available when its not a manatee services is not enabled}
+        BluetoothCloudPairing2: Error Domain=com.apple.protectedcloudstorage Code=130 "Manatee is not available when its not a manatee services is not enabled" UserInfo={NSDescription=Manatee is not available when its not a manatee services is not enabled}
+        BTAnnouncement: Error Domain=NSOSStatusErrorDomain Code=-25300 "Failed finding service BTAnnouncement" UserInfo={NSDescription=Failed finding service BTAnnouncement}
+        BTPairing: Error Domain=NSOSStatusErrorDomain Code=-25300 "Failed finding service BTPairing" UserInfo={NSDescription=Failed finding service BTPairing}
+        BulkMail: Error Domain=NSOSStatusErrorDomain Code=-25300 "Failed finding service BulkMail" UserInfo={NSDescription=Failed finding service BulkMail}
+        CloudKit: Error Domain=NSOSStatusErrorDomain Code=-25300 "Failed finding service CloudKit" UserInfo={NSDescription=Failed finding service CloudKit}
+        CloudKitApple: Error Domain=NSOSStatusErrorDomain Code=-25300 "Failed finding service CloudKitApple" UserInfo={NSDescription=Failed finding service CloudKitApple}
+        com.apple.Avatar: Error Domain=com.apple.protectedcloudstorage Code=130 "Manatee is not available when its not a manatee services is not enabled" UserInfo={NSDescription=Manatee is not available when its not a manatee services is not enabled}
+        com.apple.classroom.syncing: Error Domain=com.apple.protectedcloudstorage Code=130 "Manatee is not available when its not a manatee services is not enabled" UserInfo={NSDescription=Manatee is not available when its not a manatee services is not enabled}
+        com.apple.health.sync: Error Domain=com.apple.protectedcloudstorage Code=130 "Manatee is not available when its not a manatee services is not enabled" UserInfo={NSDescription=Manatee is not available when its not a manatee services is not enabled}
+        com.apple.health.sync2: Error Domain=com.apple.protectedcloudstorage Code=130 "Manatee is not available when its not a manatee services is not enabled" UserInfo={NSDescription=Manatee is not available when its not a manatee services is not enabled}
+        com.apple.iad-cloudkit: Error Domain=com.apple.protectedcloudstorage Code=130 "Manatee is not available when its not a manatee services is not enabled" UserInfo={NSDescription=Manatee is not available when its not a manatee services is not enabled}
+        com.apple.icloud-appleid.privacy: Error Domain=NSOSStatusErrorDomain Code=-25300 "Failed finding service com.apple.icloud-appleid.privacy" UserInfo={NSDescription=Failed finding service com.apple.icloud-appleid.privacy}
+        com.apple.knowledgestore: Error Domain=com.apple.protectedcloudstorage Code=130 "Manatee is not available when its not a manatee services is not enabled" UserInfo={NSDescription=Manatee is not available when its not a manatee services is not enabled}
+        com.apple.knowledgestore2: Error Domain=com.apple.protectedcloudstorage Code=130 "Manatee is not available when its not a manatee services is not enabled" UserInfo={NSDescription=Manatee is not available when its not a manatee services is not enabled}
+        com.apple.news.private.secure: Error Domain=com.apple.protectedcloudstorage Code=130 "Manatee is not available when its not a manatee services is not enabled" UserInfo={NSDescription=Manatee is not available when its not a manatee services is not enabled}
+        com.apple.news.private.secure2: Error Domain=com.apple.protectedcloudstorage Code=130 "Manatee is not available when its not a manatee services is not enabled" UserInfo={NSDescription=Manatee is not available when its not a manatee services is not enabled}
+        com.apple.routined: Error Domain=com.apple.protectedcloudstorage Code=130 "Manatee is not available when its not a manatee services is not enabled" UserInfo={NSDescription=Manatee is not available when its not a manatee services is not enabled}
+        com.apple.routined2: Error Domain=com.apple.protectedcloudstorage Code=130 "Manatee is not available when its not a manatee services is not enabled" UserInfo={NSDescription=Manatee is not available when its not a manatee services is not enabled}
+        com.apple.siri.knowledge: Error Domain=com.apple.protectedcloudstorage Code=130 "Manatee is not available when its not a manatee services is not enabled" UserInfo={NSDescription=Manatee is not available when its not a manatee services is not enabled}
+        com.apple.siri.knowledge2: Error Domain=com.apple.protectedcloudstorage Code=130 "Manatee is not available when its not a manatee services is not enabled" UserInfo={NSDescription=Manatee is not available when its not a manatee services is not enabled}
+        com.apple.siri.profile: Error Domain=com.apple.protectedcloudstorage Code=130 "Manatee is not available when its not a manatee services is not enabled" UserInfo={NSDescription=Manatee is not available when its not a manatee services is not enabled}
+        com.apple.siri.profile2: Error Domain=com.apple.protectedcloudstorage Code=130 "Manatee is not available when its not a manatee services is not enabled" UserInfo={NSDescription=Manatee is not available when its not a manatee services is not enabled}
+        com.apple.stocks.private: Error Domain=com.apple.protectedcloudstorage Code=130 "Manatee is not available when its not a manatee services is not enabled" UserInfo={NSDescription=Manatee is not available when its not a manatee services is not enabled}
+        com.apple.textinput.KeyboardServices.Secure: Error Domain=com.apple.protectedcloudstorage Code=130 "Manatee is not available when its not a manatee services is not enabled" UserInfo={NSDescription=Manatee is not available when its not a manatee services is not enabled}
+        com.apple.textinput.KeyboardServices.Secure2: Error Domain=com.apple.protectedcloudstorage Code=130 "Manatee is not available when its not a manatee services is not enabled" UserInfo={NSDescription=Manatee is not available when its not a manatee services is not enabled}
+        com.apple.wallet.paymentservices: Error Domain=com.apple.protectedcloudstorage Code=130 "Manatee is not available when its not a manatee services is not enabled" UserInfo={NSDescription=Manatee is not available when its not a manatee services is not enabled}
+        com.apple.wallet.paymentservices2: Error Domain=com.apple.protectedcloudstorage Code=130 "Manatee is not available when its not a manatee services is not enabled" UserInfo={NSDescription=Manatee is not available when its not a manatee services is not enabled}
+        Continuity: Error Domain=NSOSStatusErrorDomain Code=-25300 "Failed finding service Continuity" UserInfo={NSDescription=Failed finding service Continuity}
+        CoreSuggestionsPseudoEvents: Error Domain=com.apple.protectedcloudstorage Code=130 "Manatee is not available when its not a manatee services is not enabled" UserInfo={NSDescription=Manatee is not available when its not a manatee services is not enabled}
+        CoreSuggestionsPseudoEvents2: Error Domain=com.apple.protectedcloudstorage Code=130 "Manatee is not available when its not a manatee services is not enabled" UserInfo={NSDescription=Manatee is not available when its not a manatee services is not enabled}
+        DigitalHealth: Error Domain=com.apple.protectedcloudstorage Code=130 "Manatee is not available when its not a manatee services is not enabled" UserInfo={NSDescription=Manatee is not available when its not a manatee services is not enabled}
+        Escrow: Error Domain=NSOSStatusErrorDomain Code=-25300 "Failed finding service Escrow" UserInfo={NSDescription=Failed finding service Escrow}
+        FDE: Error Domain=NSOSStatusErrorDomain Code=-25300 "Failed finding service FDE" UserInfo={NSDescription=Failed finding service FDE}
+        Gaming: Error Domain=NSOSStatusErrorDomain Code=-25300 "Failed finding service Gaming" UserInfo={NSDescription=Failed finding service Gaming}
+        iAD: Error Domain=NSOSStatusErrorDomain Code=-25300 "Failed finding service iAD" UserInfo={NSDescription=Failed finding service iAD}
+        iBooksSecureData: Error Domain=com.apple.protectedcloudstorage Code=130 "Manatee is not available when its not a manatee services is not enabled" UserInfo={NSDescription=Manatee is not available when its not a manatee services is not enabled}
+        iCloudDrive: Error Domain=NSOSStatusErrorDomain Code=-25300 "Failed finding service iCloudDrive" UserInfo={NSDescription=Failed finding service iCloudDrive}
+        IDServicesEngram: Error Domain=com.apple.protectedcloudstorage Code=130 "Manatee is not available when its not a manatee services is not enabled" UserInfo={NSDescription=Manatee is not available when its not a manatee services is not enabled}
+        iMessage: Error Domain=NSOSStatusErrorDomain Code=-25300 "Failed finding service iMessage" UserInfo={NSDescription=Failed finding service iMessage}
+        KeyboardServices: Error Domain=NSOSStatusErrorDomain Code=-25300 "Failed finding service KeyboardServices" UserInfo={NSDescription=Failed finding service KeyboardServices}
+        Maildrop: Error Domain=NSOSStatusErrorDomain Code=-25300 "Failed finding service Maildrop" UserInfo={NSDescription=Failed finding service Maildrop}
+        MapsSync: Error Domain=NSOSStatusErrorDomain Code=-25300 "Failed finding service MapsSync" UserInfo={NSDescription=Failed finding service MapsSync}
+        MasterKey: Error Domain=NSOSStatusErrorDomain Code=-25300 "Failed finding service MasterKey" UserInfo={NSDescription=Failed finding service MasterKey}
+        Messages: Error Domain=com.apple.protectedcloudstorage Code=130 "Manatee is not available when its not a manatee services is not enabled" UserInfo={NSDescription=Manatee is not available when its not a manatee services is not enabled}
+        Messages2: Error Domain=com.apple.protectedcloudstorage Code=130 "Manatee is not available when its not a manatee services is not enabled" UserInfo={NSDescription=Manatee is not available when its not a manatee services is not enabled}
+        Messages3: Error Domain=com.apple.protectedcloudstorage Code=130 "Manatee is not available when its not a manatee services is not enabled" UserInfo={NSDescription=Manatee is not available when its not a manatee services is not enabled}
+        MessagesDevelopment: Error Domain=com.apple.protectedcloudstorage Code=130 "Manatee is not available when its not a manatee services is not enabled" UserInfo={NSDescription=Manatee is not available when its not a manatee services is not enabled}
+        News: Error Domain=NSOSStatusErrorDomain Code=-25300 "Failed finding service News" UserInfo={NSDescription=Failed finding service News}
+        Notes: Error Domain=NSOSStatusErrorDomain Code=-25300 "Failed finding service Notes" UserInfo={NSDescription=Failed finding service Notes}
+        Photos: Error Domain=NSOSStatusErrorDomain Code=-25300 "Failed finding service Photos" UserInfo={NSDescription=Failed finding service Photos}
+        Raw: missing
+        Rawhide: Error Domain=com.apple.protectedcloudstorage Code=130 "Manatee is not available when its not a manatee services is not enabled" UserInfo={NSDescription=Manatee is not available when its not a manatee services is not enabled}
+        Rawhide3: Error Domain=com.apple.protectedcloudstorage Code=130 "Manatee is not available when its not a manatee services is not enabled" UserInfo={NSDescription=Manatee is not available when its not a manatee services is not enabled}
+        Safari: Error Domain=NSOSStatusErrorDomain Code=-25300 "Failed finding service Safari" UserInfo={NSDescription=Failed finding service Safari}
+        Sharing: Error Domain=NSOSStatusErrorDomain Code=-25300 "Failed finding service Sharing" UserInfo={NSDescription=Failed finding service Sharing}
+        SiriActions: Error Domain=com.apple.protectedcloudstorage Code=130 "Manatee is not available when its not a manatee services is not enabled" UserInfo={NSDescription=Manatee is not available when its not a manatee services is not enabled}
+        TTYCallHistory: Error Domain=NSOSStatusErrorDomain Code=-25300 "Failed finding service TTYCallHistory" UserInfo={NSDescription=Failed finding service TTYCallHistory}
+
+    identities -
+    ------------------------
+
+status_keychain -
+========================
+    circle_status: Error
+
+    view_status -
+    ------------------------
+        PCS-Backup: NotMember
+        PCS-CloudKit: NotMember
+        PCS-Escrow: NotMember
+        PCS-FDE: NotMember
+        PCS-Feldspar: NotMember
+        PCS-iCloudDrive: NotMember
+        PCS-iMessage: NotMember
+        PCS-Maildrop: NotMember
+        PCS-MasterKey: NotMember
+        PCS-Notes: NotMember
+        PCS-Photos: NotMember
+
+status_keysync -
+========================
+
+    clients -
+    ------------------------

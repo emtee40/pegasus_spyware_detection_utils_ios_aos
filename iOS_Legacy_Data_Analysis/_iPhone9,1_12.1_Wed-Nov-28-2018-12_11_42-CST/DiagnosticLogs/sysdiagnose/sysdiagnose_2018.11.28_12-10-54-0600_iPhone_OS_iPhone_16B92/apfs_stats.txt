@@ -1,0 +1,215 @@
+Device: disk0, block size 4096
+	105289 read requests, transfered 2789146624 bytes in 125.851386233 seconds
+	79785 write requests, transfered 2145333248 bytes in 137.837606432 seconds
+Device: disk1, block size 4096
+	6 read requests, transfered 24576 bytes in 1.275240081 seconds
+	0 write requests, transfered 0 bytes in 0.000000000 seconds
+Device: disk2, block size 4096
+	6 read requests, transfered 24576 bytes in 0.040408082 seconds
+	0 write requests, transfered 0 bytes in 0.000000000 seconds
+Totals for all 3 disks:
+	105301 read requests, transfered 2789195776 bytes in 127.167034396 seconds
+	79785 write requests, transfered 2145333248 bytes in 137.837606432 seconds
+APFS Container: disk0s1
+	Main tier: size 31249989 blocks, 29390412 blocks free
+	FX defrag: Number of file extents skipped during relocation = 1178
+	FX defrag: Number of spaceman chunks chosen for data relocation = 1
+	Bytes read from block device = 2615382016
+	Number of times Fusion internal IO was throttled = 0
+	Errors when copying data from write-back cache = 0
+	Read requests sent to block device = 62887
+	FX defrag: Number of blocks reallocated = 11548
+	Fusion: Number of times the user write landed via W2RC = 0
+	Fusion: Number of times the user read served from WBC or RC = 0
+	Number of bytes moved for pinning = 0
+	Number of times pinning operation failed = 0
+	Write requests sent to block device = 31191
+	FX defrag: Number of times free extent defrag has run = 1
+	Fusion: Number of times the user read was served from the WBC before the write was flushed completely = 0
+	Fusion: Number of times the user write landed on HDD directly = 0
+	Errors when copying data into read cache = 0
+	Fusion: Number of times the user write landed on WBC = 0
+	Number of extents moved for pinning = 0
+	Fusion: Number of times the user write landed on SSD directly = 0
+	FX defrag: Number of times free extent defrag has completed aggressively = 0
+	Extents copied from write-back cache = 0
+	Extents copied into read cache = 0
+	Bytes copied into read cache = 0
+	Bytes copied from write-back cache = 0
+	FX defrag: Number of times free extent defrag has completed = 1
+	FX defrag: Number of times free extent defrag has run aggressively = 0
+	Fusion: Number of times the user read served from HDD directly = 0
+	Number of file pinning requests = 0
+	Fusion: Number of times the user read served from SSD directly = 0
+	FX defrag: Number of file extents reallocated = 11531
+	Bytes written to block device = 1867448320
+		Volume System on disk0s1s1
+			Calls to VNOP_BLOCKMAP = 0
+			Read requests sent to block device = 0
+			Calls to VNOP_BLKTOOFF = 0
+			Calls to VNOP_RMDIR = 0
+			Calls to VNOP_RENAMEX = 0
+			Calls to VNOP_SYMLINK = 0
+			Calls to VNOP_LISTXATTR = 0
+			Calls to VNOP_MNOMAP = 0
+			Calls to VNOP_GETATTRLISTBULK = 0
+			Calls to VNOP_REMOVENAMEDSTREAM = 0
+			Calls to VNOP_READ = 0
+			Calls to VNOP_READLINK = 0
+			Calls to VNOP_LOOKUP = 3
+			Calls to VNOP_CREATE = 0
+			Calls to VNOP_STRATEGY = 0
+			Calls to VNOP_REMOVEXATTR = 0
+			Calls to VNOP_OPEN = 4
+			Calls to VNOP_GETNAMEDSTREAM = 0
+			Bytes read by user = 0
+			Calls to VNOP_RECLAIM = 12
+			Write requests received from user = 0
+			Read requests received from user = 0
+			Calls to VNOP_IOCTL = 0
+			Calls to VNOP_SETATTR = 0
+			Calls to VNOP_PATHCONF = 0
+			Calls to VNOP_CLONEFILE = 0
+			Write requests sent to block device = 0
+			Calls to VNOP_GETXATTR = 0
+			Calls to VNOP_MAKENAMEDSTREAM = 0
+			Calls to VNOP_FSYNC = 16
+			Calls to VNOP_READDIR = 0
+			Calls to VNOP_OFFTOBLK = 0
+			Calls to VNOP_MKNOD = 0
+			Calls to VNOP_REMOVE = 0
+			Calls to VNOP_LINK = 0
+			Calls to VNOP_WRITE = 0
+			Calls to VNOP_INACTIVE = 12
+			Bytes read from block device = 0
+			Calls to VNOP_RENAME = 0
+			Calls to VNOP_MKDIR = 0
+			Calls to VNOP_PAGEIN = 0
+			Calls to VNOP_PAGEOUT = 0
+			Bytes written to block device = 0
+			Calls to VNOP_SETXATTR = 0
+			Calls to VNOP_ALLOCATE = 0
+			Calls to VNOP_MMAP = 0
+			Bytes written by user = 0
+			Calls to VNOP_GETATTR = 24
+			Calls to VNOP_CLOSE = 8
+		Volume Data on disk0s1s2
+			Calls to VNOP_BLOCKMAP = 76119
+			Read requests sent to block device = 43755
+			Calls to VNOP_BLKTOOFF = 74945
+			Calls to VNOP_RMDIR = 16962
+			Calls to VNOP_RENAMEX = 10207
+			Calls to VNOP_SYMLINK = 5
+			Calls to VNOP_LISTXATTR = 27300
+			Calls to VNOP_MNOMAP = 6177
+			Calls to VNOP_GETATTRLISTBULK = 35636
+			Calls to VNOP_REMOVENAMEDSTREAM = 0
+			Calls to VNOP_READ = 266383
+			Calls to VNOP_READLINK = 3556
+			Calls to VNOP_LOOKUP = 369646
+			Calls to VNOP_CREATE = 19976
+			Calls to VNOP_STRATEGY = 74945
+			Calls to VNOP_REMOVEXATTR = 12457
+			Calls to VNOP_OPEN = 183886
+			Calls to VNOP_GETNAMEDSTREAM = 0
+			Bytes read by user = 2039452521
+			Calls to VNOP_RECLAIM = 148799
+			Write requests received from user = 133692
+			Read requests received from user = 240991
+			Calls to VNOP_IOCTL = 3414
+			Calls to VNOP_SETATTR = 158867
+			Calls to VNOP_PATHCONF = 81
+			Calls to VNOP_CLONEFILE = 269
+			Write requests sent to block device = 31190
+			Calls to VNOP_GETXATTR = 605932
+			Calls to VNOP_MAKENAMEDSTREAM = 0
+			Calls to VNOP_FSYNC = 390925
+			Calls to VNOP_READDIR = 29065
+			Calls to VNOP_OFFTOBLK = 0
+			Calls to VNOP_MKNOD = 0
+			Calls to VNOP_REMOVE = 28944
+			Calls to VNOP_LINK = 5495
+			Calls to VNOP_WRITE = 132039
+			Calls to VNOP_INACTIVE = 307474
+			Bytes read from block device = 1052413952
+			Calls to VNOP_RENAME = 10166
+			Calls to VNOP_MKDIR = 10760
+			Calls to VNOP_PAGEIN = 7200
+			Calls to VNOP_PAGEOUT = 2956
+			Bytes written to block device = 1866924032
+			Calls to VNOP_SETXATTR = 32832
+			Calls to VNOP_ALLOCATE = 8067
+			Calls to VNOP_MMAP = 12371
+			Bytes written by user = 1765465895
+			Calls to VNOP_GETATTR = 3328668
+			Calls to VNOP_CLOSE = 182886
+		Volume Baseband Data on disk0s1s3
+			Calls to VNOP_BLOCKMAP = 4
+			Read requests sent to block device = 3
+			Calls to VNOP_BLKTOOFF = 0
+			Calls to VNOP_RMDIR = 0
+			Calls to VNOP_RENAMEX = 1
+			Calls to VNOP_SYMLINK = 0
+			Calls to VNOP_LISTXATTR = 0
+			Calls to VNOP_MNOMAP = 0
+			Calls to VNOP_GETATTRLISTBULK = 0
+			Calls to VNOP_REMOVENAMEDSTREAM = 0
+			Calls to VNOP_READ = 3
+			Calls to VNOP_READLINK = 0
+			Calls to VNOP_LOOKUP = 18
+			Calls to VNOP_CREATE = 1
+			Calls to VNOP_STRATEGY = 4
+			Calls to VNOP_REMOVEXATTR = 0
+			Calls to VNOP_OPEN = 4
+			Calls to VNOP_GETNAMEDSTREAM = 0
+			Bytes read by user = 528384
+			Calls to VNOP_RECLAIM = 7
+			Write requests received from user = 32
+			Read requests received from user = 3
+			Calls to VNOP_IOCTL = 0
+			Calls to VNOP_SETATTR = 3
+			Calls to VNOP_PATHCONF = 0
+			Calls to VNOP_CLONEFILE = 0
+			Write requests sent to block device = 1
+			Calls to VNOP_GETXATTR = 3
+			Calls to VNOP_MAKENAMEDSTREAM = 0
+			Calls to VNOP_FSYNC = 158
+			Calls to VNOP_READDIR = 2
+			Calls to VNOP_OFFTOBLK = 0
+			Calls to VNOP_MKNOD = 0
+			Calls to VNOP_REMOVE = 1
+			Calls to VNOP_LINK = 0
+			Calls to VNOP_WRITE = 32
+			Calls to VNOP_INACTIVE = 10
+			Bytes read from block device = 524288
+			Calls to VNOP_RENAME = 1
+			Calls to VNOP_MKDIR = 0
+			Calls to VNOP_PAGEIN = 0
+			Calls to VNOP_PAGEOUT = 0
+			Bytes written to block device = 524288
+			Calls to VNOP_SETXATTR = 0
+			Calls to VNOP_ALLOCATE = 0
+			Calls to VNOP_MMAP = 0
+			Bytes written by user = 524288
+			Calls to VNOP_GETATTR = 73
+			Calls to VNOP_CLOSE = 4
+	The number of volumes is 3 
+	Free extents histogram:
+	Volume vol_1:
+		Number of files = 20899
+		Number of directories = 7385
+		Number of snapshots = 0
+		Number of fsroot tree nodes = 4217
+		Number of extentref tree nodes = 212
+		Number of extents = 21931
+		File sizes histogram:
+		Files per directory histogram:
+	Volume vol_2:
+		Number of files = 1
+		Number of directories = 2
+		Number of snapshots = 0
+		Number of fsroot tree nodes = 1
+		Number of extentref tree nodes = 1
+		Number of extents = 1
+		File sizes histogram:
+		Files per directory histogram:

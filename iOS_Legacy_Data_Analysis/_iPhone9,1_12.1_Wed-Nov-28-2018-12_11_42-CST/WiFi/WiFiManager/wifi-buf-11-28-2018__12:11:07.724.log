@@ -1,0 +1,60 @@
+11/28/2018 12:11:06.404 wifivelocityd requesting removal of BGScan networks
+11/28/2018 12:11:06.405 No Change in Background Scan Networks, Skip Re-Programming Background Scan
+
+11/28/2018 12:11:06.405 __WiFiManagerSetEnableState: state TRUE, manager->enable.setting TRUE, manager->unlockedSinceBoot TRUE
+11/28/2018 12:11:06.405 Removing client for "wifivelocityd"
+11/28/2018 12:11:07.530 Creating client for "wifivelocityd"
+11/28/2018 12:11:07.533 wifivelocityd requesting removal of BGScan networks
+11/28/2018 12:11:07.533 No Change in Background Scan Networks, Skip Re-Programming Background Scan
+
+11/28/2018 12:11:07.533 __WiFiManagerSetEnableState: state TRUE, manager->enable.setting TRUE, manager->unlockedSinceBoot TRUE
+11/28/2018 12:11:07.533 Removing client for "wifivelocityd"
+11/28/2018 12:11:07.535 Creating client for "wifivelocityd"
+11/28/2018 12:11:07.537 wifivelocityd requesting removal of BGScan networks
+11/28/2018 12:11:07.537 No Change in Background Scan Networks, Skip Re-Programming Background Scan
+
+11/28/2018 12:11:07.537 __WiFiManagerSetEnableState: state TRUE, manager->enable.setting TRUE, manager->unlockedSinceBoot TRUE
+11/28/2018 12:11:07.537 Removing client for "wifivelocityd"
+11/28/2018 12:11:07.545 Creating client for "wifivelocityd"
+11/28/2018 12:11:07.547 wifivelocityd requesting removal of BGScan networks
+11/28/2018 12:11:07.548 No Change in Background Scan Networks, Skip Re-Programming Background Scan
+
+11/28/2018 12:11:07.548 __WiFiManagerSetEnableState: state TRUE, manager->enable.setting TRUE, manager->unlockedSinceBoot TRUE
+11/28/2018 12:11:07.548 Removing client for "wifivelocityd"
+11/28/2018 12:11:07.549 Creating client for "wifivelocityd"
+11/28/2018 12:11:07.552 wifivelocityd requesting removal of BGScan networks
+11/28/2018 12:11:07.552 No Change in Background Scan Networks, Skip Re-Programming Background Scan
+
+11/28/2018 12:11:07.552 __WiFiManagerSetEnableState: state TRUE, manager->enable.setting TRUE, manager->unlockedSinceBoot TRUE
+11/28/2018 12:11:07.552 Removing client for "wifivelocityd"
+11/28/2018 12:11:07.553 Creating client for "wifivelocityd"
+11/28/2018 12:11:07.555 wifivelocityd requesting removal of BGScan networks
+11/28/2018 12:11:07.555 No Change in Background Scan Networks, Skip Re-Programming Background Scan
+
+11/28/2018 12:11:07.555 __WiFiManagerSetEnableState: state TRUE, manager->enable.setting TRUE, manager->unlockedSinceBoot TRUE
+11/28/2018 12:11:07.555 Removing client for "wifivelocityd"
+11/28/2018 12:11:07.560 Creating client for "wifivelocityd"
+11/28/2018 12:11:07.562 wifivelocityd requesting removal of BGScan networks
+11/28/2018 12:11:07.562 No Change in Background Scan Networks, Skip Re-Programming Background Scan
+
+11/28/2018 12:11:07.562 __WiFiManagerSetEnableState: state TRUE, manager->enable.setting TRUE, manager->unlockedSinceBoot TRUE
+11/28/2018 12:11:07.562 Removing client for "wifivelocityd"
+11/28/2018 12:11:07.562 Creating client for "wifivelocityd"
+11/28/2018 12:11:07.564 wifivelocityd requesting removal of BGScan networks
+11/28/2018 12:11:07.565 No Change in Background Scan Networks, Skip Re-Programming Background Scan
+
+11/28/2018 12:11:07.565 __WiFiManagerSetEnableState: state TRUE, manager->enable.setting TRUE, manager->unlockedSinceBoot TRUE
+11/28/2018 12:11:07.565 Removing client for "wifivelocityd"
+11/28/2018 12:11:07.565 Creating client for "wifivelocityd"
+11/28/2018 12:11:07.566 wifivelocityd requesting removal of BGScan networks
+11/28/2018 12:11:07.567 No Change in Background Scan Networks, Skip Re-Programming Background Scan
+
+11/28/2018 12:11:07.567 __WiFiManagerSetEnableState: state TRUE, manager->enable.setting TRUE, manager->unlockedSinceBoot TRUE
+11/28/2018 12:11:07.567 Removing client for "wifivelocityd"
+11/28/2018 12:11:07.567 Creating client for "wifivelocityd"
+11/28/2018 12:11:07.570 wifivelocityd requesting removal of BGScan networks
+11/28/2018 12:11:07.570 No Change in Background Scan Networks, Skip Re-Programming Background Scan
+
+11/28/2018 12:11:07.570 __WiFiManagerSetEnableState: state TRUE, manager->enable.setting TRUE, manager->unlockedSinceBoot TRUE
+11/28/2018 12:11:07.570 Removing client for "wifivelocityd"
+11/28/2018 12:11:07.723 __WiFiDeviceProcessDumpLogsEvent: Dump logs event received, dumped wifid log buffer to file

@@ -1,0 +1,27 @@
+
+APPLYING PREDICATE (null)
+SDUnitLogPathArray with 0 paths: found no matches
+
+APPLYING PREDICATE (null)
+
+ENFORCING SIZE LIMIT OF 10 MB
+/var/mobile/Library/Logs/CrashReporter/DiagnosticLogs/sysdiagnose/IN_PROGRESS_sysdiagnose_2018.11.28_12-10-54-0600_iPhone_OS_iPhone_16B92.tmp/WiFi/debug-log.txt, Added
+/var/mobile/Library/Logs/CrashReporter/DiagnosticLogs/sysdiagnose/IN_PROGRESS_sysdiagnose_2018.11.28_12-10-54-0600_iPhone_OS_iPhone_16B92.tmp/WiFi/corecaptured.log.tgz, Added
+/var/mobile/Library/Logs/CrashReporter/DiagnosticLogs/sysdiagnose/IN_PROGRESS_sysdiagnose_2018.11.28_12-10-54-0600_iPhone_OS_iPhone_16B92.tmp/WiFi/diagnostics-env.txt, Added
+/var/mobile/Library/Logs/CrashReporter/DiagnosticLogs/sysdiagnose/IN_PROGRESS_sysdiagnose_2018.11.28_12-10-54-0600_iPhone_OS_iPhone_16B92.tmp/WiFi/wifi_scan_cache.txt, Added
+/var/mobile/Library/Logs/CrashReporter/DiagnosticLogs/sysdiagnose/IN_PROGRESS_sysdiagnose_2018.11.28_12-10-54-0600_iPhone_OS_iPhone_16B92.tmp/WiFi/diagnostics.txt, Added
+/var/mobile/Library/Logs/CrashReporter/DiagnosticLogs/sysdiagnose/IN_PROGRESS_sysdiagnose_2018.11.28_12-10-54-0600_iPhone_OS_iPhone_16B92.tmp/WiFi/wifi-buf-11-25-2018__05:55:15.657.log.tgz, Added
+/var/mobile/Library/Logs/CrashReporter/DiagnosticLogs/sysdiagnose/IN_PROGRESS_sysdiagnose_2018.11.28_12-10-54-0600_iPhone_OS_iPhone_16B92.tmp/WiFi/wifi-buf-11-26-2018__03:44:29.534.log.tgz, Added
+/var/mobile/Library/Logs/CrashReporter/DiagnosticLogs/sysdiagnose/IN_PROGRESS_sysdiagnose_2018.11.28_12-10-54-0600_iPhone_OS_iPhone_16B92.tmp/WiFi/wifi-buf-11-26-2018__20:28:43.149.log.tgz, Added
+/var/mobile/Library/Logs/CrashReporter/DiagnosticLogs/sysdiagnose/IN_PROGRESS_sysdiagnose_2018.11.28_12-10-54-0600_iPhone_OS_iPhone_16B92.tmp/WiFi/wifi-buf-11-27-2018__03:58:08.943.log.tgz, Added
+/var/mobile/Library/Logs/CrashReporter/DiagnosticLogs/sysdiagnose/IN_PROGRESS_sysdiagnose_2018.11.28_12-10-54-0600_iPhone_OS_iPhone_16B92.tmp/WiFi/wifi-buf-11-28-2018__12:11:04.457.log.tgz, Added
+/var/mobile/Library/Logs/CrashReporter/DiagnosticLogs/sysdiagnose/IN_PROGRESS_sysdiagnose_2018.11.28_12-10-54-0600_iPhone_OS_iPhone_16B92.tmp/WiFi/wifi-buf-11-28-2018__12:11:05.899.log.tgz, Added
+/var/mobile/Library/Logs/CrashReporter/DiagnosticLogs/sysdiagnose/IN_PROGRESS_sysdiagnose_2018.11.28_12-10-54-0600_iPhone_OS_iPhone_16B92.tmp/WiFi/ipconfig.txt, Added
+/var/mobile/Library/Logs/CrashReporter/DiagnosticLogs/sysdiagnose/IN_PROGRESS_sysdiagnose_2018.11.28_12-10-54-0600_iPhone_OS_iPhone_16B92.tmp/WiFi/awdl_status.txt, Added
+/var/mobile/Library/Logs/CrashReporter/DiagnosticLogs/sysdiagnose/IN_PROGRESS_sysdiagnose_2018.11.28_12-10-54-0600_iPhone_OS_iPhone_16B92.tmp/WiFi/leaky_ap_stats.txt, Added
+/var/mobile/Library/Logs/CrashReporter/DiagnosticLogs/sysdiagnose/IN_PROGRESS_sysdiagnose_2018.11.28_12-10-54-0600_iPhone_OS_iPhone_16B92.tmp/WiFi/network_status.txt, Added
+/var/mobile/Library/Logs/CrashReporter/DiagnosticLogs/sysdiagnose/IN_PROGRESS_sysdiagnose_2018.11.28_12-10-54-0600_iPhone_OS_iPhone_16B92.tmp/WiFi/wifi_status.txt, Added
+/var/mobile/Library/Logs/CrashReporter/DiagnosticLogs/sysdiagnose/IN_PROGRESS_sysdiagnose_2018.11.28_12-10-54-0600_iPhone_OS_iPhone_16B92.tmp/WiFi/bluetooth_status.txt, Added
+/var/mobile/Library/Logs/CrashReporter/DiagnosticLogs/sysdiagnose/IN_PROGRESS_sysdiagnose_2018.11.28_12-10-54-0600_iPhone_OS_iPhone_16B92.tmp/WiFi/wifi_scan.txt, Added
+/var/mobile/Library/Logs/CrashReporter/DiagnosticLogs/sysdiagnose/IN_PROGRESS_sysdiagnose_2018.11.28_12-10-54-0600_iPhone_OS_iPhone_16B92.tmp/WiFi/preferences.plist, Added
+/var/mobile/Library/Logs/CrashReporter/DiagnosticLogs/sysdiagnose/IN_PROGRESS_sysdiagnose_2018.11.28_12-10-54-0600_iPhone_OS_iPhone_16B92.tmp/WiFi/com.apple.wifi.plist, Added

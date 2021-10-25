@@ -1,0 +1,79 @@
+{"app_name":"Unknown","app_version":"","bug_type":"157","timestamp":"2018-11-27 16:32:28.68 -0600","os_version":"iPhone OS 11.4.1 (15G77)","incident_id":"FC4FC931-D609-4042-9AE4-7B67C36241EA","slice_uuid":"","build_version":"","is_first_party":true,"share_with_app_devs":false,"name":"Unknown"}
+Date/Time:       2018-11-26 00:00:00 -0600
+OS Version:      iPhone OS 11.4.1 (Build 15G77)
+Architecture:    arm64
+Report Version:  19
+
+Event:           powerstats
+Action taken:    none
+Start time:      2018-11-26 00:00:00 -0600
+End time:        2018-11-27 00:00:00 -0600
+Duration:        86400s
+Steps:           41
+
+Hardware model:  iPhone9,1
+Active cpus:     2
+
+Binary Images:
+1	libsystem_pthread.dylib		<07C87E38-74B7-3D12-8F0F-A331D8894B97>	/usr/lib/system/libsystem_pthread.dylib
+2	libdispatch.dylib		<0C931AC7-6013-3DE1-87BB-6F440BEED5EB>	/usr/lib/system/libdispatch.dylib
+3	com.apple.CoreFoundation	6.9 (1452.23)	<533C841E-D6E9-313D-8ADB-02388744E2EF>	/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+4	libsystem_c.dylib		<61D2E950-ADD7-3139-AEA4-59B55997EA48>	/usr/lib/system/libsystem_c.dylib
+5	libsystem_malloc.dylib		<6DD6981A-DEF5-30B3-B606-2F29ADE13BB2>	/usr/lib/system/libsystem_malloc.dylib
+6	com.apple.bom	14.0 (194.1)	<8CD2BA17-9E67-3D90-B707-436A3A8ED1CE>	/System/Library/PrivateFrameworks/Bom.framework/Bom
+7			<AFC7A078-DCDE-3D9F-B097-BBB43520BB18>	
+8	libsystem_kernel.dylib		<E102701E-F880-3CD4-A5D5-4F5F14433DBD>	/usr/lib/system/libsystem_kernel.dylib
+
+
+Powerstats for:  com.apple.Mobile
+UUID:            7
+Microstackshots: 41 samples
+Primary state:   28 samples state 0x15b9c
+0 41 1 + 4012
+1 41 2 + 59900
+2 41 2 + 60924
+3 41 2 + 6752
+4 41 2 + 6816
+5 41 7 + 105256
+6 41 7 + 125300
+7 41 7 + 108560
+8 41 7 + 120284
+9 41 7 + 98404
+10 41 7 + 17368
+11 34 7 + 74540
+12 33 7 + 18876
+13 25 7 + 71736
+14 16 8 + 15460
+14 4 6 + 18948
+15 4 <state 0x15b1c>
+14 2 6 + 18916
+15 2 <state 0x15b1c>
+14 2 8 + 12372
+14 1 7 + 72128
+15 1 7 + 61176
+16 1 8 + 138836
+13 8 8 + 12444
+12 1 7 + 19560
+13 1 3 + 33300
+14 1 <state 0x15b1c>
+11 3 7 + 74284
+12 2 4 + 86392
+13 2 <state 0x15b1c>
+12 1 6 + 30420
+13 1 6 + 128336
+14 1 6 + 126816
+15 1 6 + 117568
+16 1 <state 0x15b1c>
+11 2 7 + 74268
+12 2 6 + 21400
+13 1 4 + 86384
+14 1 <state 0x15b1c>
+13 1 6 + 21572
+14 1 5 + 13928
+15 1 <state 0x15b1c>
+11 1 7 + 74392
+12 1 7 + 18876
+13 1 8 + 12444
+11 1 7 + 74572
+12 1 6 + 141180
+13 1 <state 0x15b1c>

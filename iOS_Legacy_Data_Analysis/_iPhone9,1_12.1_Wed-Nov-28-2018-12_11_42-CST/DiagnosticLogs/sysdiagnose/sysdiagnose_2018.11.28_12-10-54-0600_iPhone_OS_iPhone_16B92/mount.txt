@@ -1,0 +1,4 @@
+com.apple.os.update-7CD081AA161EAEDD419EE63A1A089FB3AD7F1D2AC00C30A879C2277D122153C9F10F1DF9DB359F0706E194200BA7CD19@/dev/disk0s1s1 on / (apfs, local, nosuid, read-only, journaled, noatime)
+devfs on /dev (devfs, local, nosuid, nobrowse)
+/dev/disk0s1s2 on /private/var (apfs, local, nodev, nosuid, journaled, noatime, protect)
+/dev/disk0s1s3 on /private/var/wireless/baseband_data (apfs, local, nodev, nosuid, journaled, noatime, nobrowse)

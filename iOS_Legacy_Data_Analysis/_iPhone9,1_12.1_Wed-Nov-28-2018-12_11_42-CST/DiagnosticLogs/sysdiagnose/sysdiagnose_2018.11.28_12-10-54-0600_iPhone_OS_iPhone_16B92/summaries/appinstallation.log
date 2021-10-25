@@ -1,0 +1,16 @@
+
+APPLYING PREDICATE (null)
+/var/mobile/Library/Logs/com.apple.appstored, File not found: (null)
+
+APPLYING PREDICATE (null)
+/private/var/containers/Data/System/439B381C-5086-4DF5-A38A-B133EEB6FE0E/Documents/iapinfo.sqlitedb, File not found: (null)
+/private/var/containers/Data/System/439B381C-5086-4DF5-A38A-B133EEB6FE0E/Documents/iapinfo.sqlitedb-shm, File not found: (null)
+/private/var/containers/Data/System/439B381C-5086-4DF5-A38A-B133EEB6FE0E/Documents/iapinfo.sqlitedb-wal, File not found: (null)
+
+ENFORCING SIZE LIMIT OF 5 MB
+/var/containers/Data/System/439B381C-5086-4DF5-A38A-B133EEB6FE0E/Documents/AppUpdates.sqlitedb-shm, Added
+/var/containers/Data/System/439B381C-5086-4DF5-A38A-B133EEB6FE0E/Documents/AppUpdates.sqlitedb-wal, Added
+/var/containers/Data/System/439B381C-5086-4DF5-A38A-B133EEB6FE0E/Documents/AppUpdates.sqlitedb, Added
+/var/containers/Data/System/439B381C-5086-4DF5-A38A-B133EEB6FE0E/Documents/appstored.sqlitedb-shm, Added
+/var/containers/Data/System/439B381C-5086-4DF5-A38A-B133EEB6FE0E/Documents/appstored.sqlitedb-wal, Added
+/var/containers/Data/System/439B381C-5086-4DF5-A38A-B133EEB6FE0E/Documents/appstored.sqlitedb, Added

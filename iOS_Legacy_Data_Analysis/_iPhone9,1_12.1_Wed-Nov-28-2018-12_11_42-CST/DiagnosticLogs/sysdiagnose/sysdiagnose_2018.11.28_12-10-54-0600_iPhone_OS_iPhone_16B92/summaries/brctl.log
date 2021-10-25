@@ -1,0 +1,12 @@
+
+APPLYING PREDICATE NOT SELF == "brctl-dump.txt"
+
+APPLYING PREDICATE (null)
+
+ENFORCING SIZE LIMIT OF 5 MB
+/var/mobile/Library/Logs/CrashReporter/DiagnosticLogs/sysdiagnose/IN_PROGRESS_sysdiagnose_2018.11.28_12-10-54-0600_iPhone_OS_iPhone_16B92.tmp/brctl/defaults-com.apple.bird.txt, Added
+/var/mobile/Library/Logs/CrashReporter/DiagnosticLogs/sysdiagnose/IN_PROGRESS_sysdiagnose_2018.11.28_12-10-54-0600_iPhone_OS_iPhone_16B92.tmp/brctl/brctl-container-list.txt, Added
+/var/mobile/Library/Logs/CrashReporter/DiagnosticLogs/sysdiagnose/IN_PROGRESS_sysdiagnose_2018.11.28_12-10-54-0600_iPhone_OS_iPhone_16B92.tmp/brctl/brctl-dump.txt, Added
+/var/mobile/Library/Logs/CrashReporter/DiagnosticLogs/sysdiagnose/IN_PROGRESS_sysdiagnose_2018.11.28_12-10-54-0600_iPhone_OS_iPhone_16B92.tmp/brctl/launchctl-print.txt, Added
+/var/mobile/Library/Logs/CrashReporter/DiagnosticLogs/sysdiagnose/IN_PROGRESS_sysdiagnose_2018.11.28_12-10-54-0600_iPhone_OS_iPhone_16B92.tmp/brctl/diagnose-errors.log, Added
+/var/mobile/Library/Logs/CrashReporter/DiagnosticLogs/sysdiagnose/IN_PROGRESS_sysdiagnose_2018.11.28_12-10-54-0600_iPhone_OS_iPhone_16B92.tmp/brctl/brctl-dump.txt, Added

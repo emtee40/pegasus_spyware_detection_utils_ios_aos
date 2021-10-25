@@ -1,0 +1,8 @@
+{"timestamp":"2018-11-26 18:25:36.43 -0600","bug_type":"211","os_version":"iPhone OS 11.4.1 (15G77)","incident_id":"A3CD8D87-3ECF-48A2-AEC5-1ECE62F888DD"}
+{"_marker":"<metadata>","_preferredUserInterfaceLanguage":"en","_userInterfaceLanguage":"en","_userSetRegionFormat":"US","startTimestamp":"2018-11-26T00:03:39Z","version":"1.0"}
+{"message":{"BogusFieldNotActuallyEverUsed":null,"Count":12},"name":"TwoHourHeartbeatCount","uuid":"7ad14604-ce6e-45f3-bd39-5bc186d92049"}
+{"message":{"BogusFieldNotActuallyEverUsed":null,"Count":1},"name":"OneDayHeartBeatCount","uuid":"a4813163-fd49-44ea-b3e1-e47a015e629c"}
+{"message":{"Count":1,"DeviceIsPowered":false,"LightningCableType":2,"LightningDigitalID":"100C00000000","LightningPrimaryPortNumber":1,"ScreenIsLocked":false,"TimeSinceLastLock":0,"TimeSinceLastUnlock":0,"UnlockedSinceBoot":true},"name":"CableTypeChangedV2","uuid":"9d75db50-aff8-4983-96e4-f8ef60f540b3"}
+{"message":{"Count":9,"DeviceIsPowered":true,"LightningCableType":2,"LightningDigitalID":"100C00000000","LightningPrimaryPortNumber":1,"ScreenIsLocked":false,"TimeSinceLastLock":0,"TimeSinceLastUnlock":0,"UnlockedSinceBoot":true},"name":"CableTypeChangedV2","uuid":"9d75db50-aff8-4983-96e4-f8ef60f540b3"}
+{"message":{"ChargingCurrent":4,"ChargingVoltage":5000,"Count":8,"LightningCableType":2,"LightningDigitalID":"100C00000000","LightningPrimaryPortNumber":1,"ScreenIsLocked":false,"TimeSinceLastLock":0,"TimeSinceLastUnlock":0,"UnlockedSinceBoot":true},"name":"ChargingConfigurationChangedV2","uuid":"cf4ae60c-ade2-4798-a83b-97a14897b120"}
+{"_marker":"<end-of-file>"}

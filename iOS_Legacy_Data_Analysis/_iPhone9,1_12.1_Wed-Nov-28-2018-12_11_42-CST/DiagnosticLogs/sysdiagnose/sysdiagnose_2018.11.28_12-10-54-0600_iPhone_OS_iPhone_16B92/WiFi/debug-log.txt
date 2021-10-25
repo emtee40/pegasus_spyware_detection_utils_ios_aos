@@ -1,0 +1,56 @@
+12:11:04.304 BEGIN Connectivity (PRE) [3CEFA]
+12:11:04.306 BEGIN CoreCapture (Pre) [D7218]
+12:11:04.306 BEGIN [arp] [ED876]
+12:11:04.307 BEGIN [ifconfig] [A713B]
+12:11:04.308 BEGIN [ipconfig] [18199]
+12:11:04.308 BEGIN [swvers] [4FFF4]
+12:11:04.309 BEGIN Wi-Fi Preferences [0F530]
+12:11:04.310 BEGIN Wi-Fi Scan Results [40696]
+12:11:04.310 END CoreCapture (Pre) [D7218], took 0.003730s
+12:11:04.310 BEGIN [mobilewifitool] [01D1F]
+12:11:04.311 BEGIN [security] [B8EAF]
+12:11:04.312 BEGIN Wi-Fi Status [9F89B]
+12:11:04.313 END Wi-Fi Preferences [0F530], took 0.004070s
+12:11:04.313 BEGIN AWDL Status [08D9D]
+12:11:04.314 BEGIN Bluetooth Status [FF0B3]
+12:11:04.318 BEGIN Leaky AP Stats [51B51]
+12:11:04.318 BEGIN Network Status [E2220]
+12:11:04.325 BEGIN TCP Dump (Pre) [73863]
+12:11:04.337 END [arp] [ED876], took 0.030773s
+12:11:04.338 END [ifconfig] [A713B], took 0.030910s
+12:11:04.338 END [swvers] [4FFF4], took 0.029789s
+12:11:04.339 END [mobilewifitool] [01D1F], took 0.028101s
+12:11:04.339 END [security] [B8EAF], took 0.027753s
+12:11:04.341 END Wi-Fi Scan Results [40696], took 0.030601s
+12:11:04.354 END Wi-Fi Status [9F89B], took 0.041757s
+12:11:04.354 END Network Status [E2220], took 0.035970s
+12:11:04.354 END Bluetooth Status [FF0B3], took 0.040226s
+12:11:04.354 END Leaky AP Stats [51B51], took 0.036698s
+12:11:04.377 END AWDL Status [08D9D], took 0.063457s
+12:11:04.411 END [ipconfig] [18199], took 0.103275s
+12:11:05.860 END TCP Dump (Pre) [73863], took 1.534472s
+12:11:05.876 END Connectivity (PRE) [3CEFA], took 1.570689s
+12:11:05.892 BEGIN Connectivity (DIAG) [4B0D5]
+12:11:05.897 BEGIN Wi-Fi Logs (Dump) [EB457]
+12:11:06.559 END Wi-Fi Logs (Dump) [EB457], took 0.661394s
+12:11:06.560 BEGIN [netstat] [EB906]
+12:11:06.601 END [netstat] [EB906], took 0.041005s
+12:11:06.602 BEGIN BEGIN Wi-Fi Default Route [E9304]
+12:11:06.603 END BEGIN Wi-Fi Default Route [E9304], took 0.000032s
+12:11:06.608 BEGIN Diagnostics [1C288]
+12:11:07.578 END Diagnostics [1C288], took 0.966181s
+12:11:07.584 BEGIN END Wi-Fi Default Route [9A6BB]
+12:11:07.584 END END Wi-Fi Default Route [9A6BB], took 0.000003s
+12:11:07.585 BEGIN [netstat] [F5325]
+12:11:07.663 END [netstat] [F5325], took 0.077785s
+12:11:07.675 END Connectivity (DIAG) [4B0D5], took 1.777907s
+12:11:07.685 BEGIN Connectivity (POST) [06E16]
+12:11:07.686 BEGIN CoreCapture (Post) [8D58A]
+12:11:07.713 BEGIN Wi-Fi Scan Results [7E2B0]
+12:11:07.714 BEGIN WiFi Env Diagnostics [D25AE]
+12:11:07.721 BEGIN TCP Dump (Post) [0CF80]
+12:11:07.721 END Wi-Fi Scan Results [7E2B0], took 0.007420s
+12:11:07.721 END TCP Dump (Post) [0CF80], took 0.000001s
+12:11:07.746 END WiFi Env Diagnostics [D25AE], took 0.030980s
+12:11:09.908 END CoreCapture (Post) [8D58A], took 2.221209s
+12:11:09.918 END Connectivity (POST) [06E16], took 2.232061s

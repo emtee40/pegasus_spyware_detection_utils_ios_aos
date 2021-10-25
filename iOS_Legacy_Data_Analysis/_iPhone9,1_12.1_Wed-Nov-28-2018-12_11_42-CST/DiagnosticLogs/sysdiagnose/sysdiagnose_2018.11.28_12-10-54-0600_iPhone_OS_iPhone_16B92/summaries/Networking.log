@@ -1,0 +1,15 @@
+
+APPLYING PREDICATE (null)
+/Library/Preferences/com.apple.networkextension.control.plist, File not found: (null)
+/Library/Preferences/SystemConfiguration/com.apple.nat.plist, File not found: (null)
+/Library/Preferences/SystemConfiguration/com.apple.RemoteAccessServers.plist, File not found: (null)
+/Library/Preferences/SystemConfiguration/com.apple.smb.server.plist, File not found: (null)
+/var/log/vpnd.log, File not found: (null)
+/var/log/racoon.log, File not found: (null)
+
+ENFORCING SIZE LIMIT OF 5 MB
+/var/preferences/com.apple.networkextension.necp.plist, Added
+/var/preferences/com.apple.networkextension.plist, Added
+/var/preferences/SystemConfiguration/NetworkInterfaces.plist, Added
+/var/preferences/SystemConfiguration/preferences.plist, Added
+/var/preferences/com.apple.networkextension.cache.plist, Added

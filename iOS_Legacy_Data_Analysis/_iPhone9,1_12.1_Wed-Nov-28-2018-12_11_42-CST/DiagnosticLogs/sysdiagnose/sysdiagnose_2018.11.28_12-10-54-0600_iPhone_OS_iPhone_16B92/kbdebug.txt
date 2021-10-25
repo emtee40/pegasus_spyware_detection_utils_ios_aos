@@ -1,0 +1,1125 @@
+2018-11-28 18:10:09 +0000: Debug: [<_UIKeyboardArbiterHandle: 0x2831259e0; PID 359: com.apple.appleseed.FeedbackAssistant <com.apple.appleseed.FeedbackAssistant>; hosting PIDs {(
+)}; level 3.000000; active YES [wants YES]; suppression 0>] setWindowContextID:sceneIdentifier:forKeyboard:withLevel: sceneID: com.apple.appleseed.FeedbackAssistant; 2124600845/YES/3.000000
+2018-11-28 18:10:09 +0000: Debug: [_UIKeyboardArbiter] Updating scene to com.apple.appleseed.FeedbackAssistant level 3.000000
+2018-11-28 18:10:09 +0000: Debug: [<_UIKeyboardArbiterHandle: 0x2831259e0; PID 359: com.apple.appleseed.FeedbackAssistant <com.apple.appleseed.FeedbackAssistant>; hosting PIDs {(
+)}; level 3.000000; active YES [wants YES]; suppression 0>] signalKeyboardChangeComplete
+2018-11-28 18:10:09 +0000: Debug: [<_UIKeyboardArbiterHandle: 0x28315cf30; PID 52: com.apple.springboard <com.apple.springboard>; hosting PIDs {(
+    318,
+    319,
+    317
+)}; level 0.000000; active NO [wants YES]; suppression 0>] requested process assertion (count=1)
+2018-11-28 18:10:09 +0000: Debug: [<_UIKeyboardArbiterHandle: 0x2831253b0; PID 318: com.apple.AppPredictionWidget.extension <(null)>; hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0>] requested process assertion (count=1)
+2018-11-28 18:10:10 +0000: Debug: [<_UIKeyboardArbiterHandle: 0x283125560; PID 317: com.apple.UpNextWidget.extension <(null)>; hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0>] requested process assertion (count=1)
+2018-11-28 18:10:10 +0000: Debug: [<_UIKeyboardArbiterHandle: 0x283125170; PID 319: com.apple.ScreenTimeUI.ScreenTimeWidget <(null)>; hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0>] requested process assertion (count=1)
+2018-11-28 18:10:10 +0000: Debug: [<_UIKeyboardArbiterHandle: 0x28313def0; PID 349: (null) <(null)>; hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0>] requested process assertion (count=1)
+2018-11-28 18:10:10 +0000: Debug: [<_UIKeyboardArbiterHandle: 0x283159290; PID 230: (null) <(null)>; hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0>] requested process assertion (count=3)
+2018-11-28 18:10:10 +0000: Debug: [<_UIKeyboardArbiterHandle: 0x28315cf30; PID 52: com.apple.springboard <com.apple.springboard>; hosting PIDs {(
+    318,
+    319,
+    317
+)}; level 0.000000; active NO [wants YES]; suppression 0>] took process assertion
+2018-11-28 18:10:10 +0000: Debug: [<_UIKeyboardArbiterHandle: 0x2831253b0; PID 318: com.apple.AppPredictionWidget.extension <(null)>; hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0>] took process assertion
+2018-11-28 18:10:10 +0000: Debug: [<_UIKeyboardArbiterHandle: 0x283125560; PID 317: com.apple.UpNextWidget.extension <(null)>; hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0>] took process assertion
+2018-11-28 18:10:10 +0000: Debug: [<_UIKeyboardArbiterHandle: 0x283125170; PID 319: com.apple.ScreenTimeUI.ScreenTimeWidget <(null)>; hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0>] took process assertion
+2018-11-28 18:10:10 +0000: Error: [<_UIKeyboardArbiterHandle: 0x28313def0; PID 349: (null) <(null)>; hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0>] could not take process assertion
+2018-11-28 18:10:10 +0000: Debug: [<_UIKeyboardArbiterHandle: 0x28315cf30; PID 52: com.apple.springboard <com.apple.springboard>; hosting PIDs {(
+    318,
+    319,
+    317
+)}; level 0.000000; active NO [wants YES]; suppression 0>] released process assertion (count=0)
+2018-11-28 18:10:10 +0000: Debug: [<_UIKeyboardArbiterHandle: 0x2831253b0; PID 318: com.apple.AppPredictionWidget.extension <(null)>; hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0>] released process assertion (count=0)
+2018-11-28 18:10:10 +0000: Debug: [<_UIKeyboardArbiterHandle: 0x283125560; PID 317: com.apple.UpNextWidget.extension <(null)>; hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0>] released process assertion (count=0)
+2018-11-28 18:10:10 +0000: Debug: [<_UIKeyboardArbiterHandle: 0x283125170; PID 319: com.apple.ScreenTimeUI.ScreenTimeWidget <(null)>; hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0>] released process assertion (count=0)
+2018-11-28 18:10:10 +0000: Debug: [<_UIKeyboardArbiterHandle: 0x28313def0; PID 349: (null) <(null)>; hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0>] released process assertion (count=0)
+2018-11-28 18:10:10 +0000: Debug: [<_UIKeyboardArbiterHandle: 0x283159290; PID 230: (null) <(null)>; hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0>] released process assertion (count=2)
+2018-11-28 18:10:15 +0000: Error: [<_UIKeyboardArbiterHandle: 0x283159290; PID 230: (null) <(null)>; hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0>] timed out with 2 assertions remaining, disconnecting
+2018-11-28 18:10:15 +0000: Debug: [_UIKeyboardArbiter] Lost connection [<_UIKeyboardArbiterHandle: 0x283159290; PID 230: (null) <(null)>; hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0>]
+2018-11-28 18:10:15 +0000: Error: -[_UIKeyboardArbiter runOperations:onHandler:]_block_invoke Failed to access <_UIKeyboardArbiterHandle: 0x283159290; PID 230: (null) <(null)>; hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0> remote service: Error Domain=NSCocoaErrorDomain Code=4099 "The connection from pid 230 was invalidated from this process." UserInfo={NSDebugDescription=The connection from pid 230 was invalidated from this process.}
+2018-11-28 18:10:15 +0000: Error: -[_UIKeyboardArbiter runOperations:onHandler:]_block_invoke Failed to access <_UIKeyboardArbiterHandle: 0x283159290; PID 230: (null) <(null)>; hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0> remote service: Error Domain=NSCocoaErrorDomain Code=4099 "The connection from pid 230 was invalidated from this process." UserInfo={NSDebugDescription=The connection from pid 230 was invalidated from this process.}
+2018-11-28 18:10:15 +0000: Info: HW kbd: currently com.apple.appleseed.FeedbackAssistant (com.apple.appleseed.FeedbackAssistant < com.apple.appleseed.FeedbackAssistant)
+2018-11-28 18:10:15 +0000: Debug: [<_UIKeyboardArbiterHandle: 0x283159290; PID 230: (null) <(null)>; hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0>] invalidate
+2018-11-28 18:10:15 +0000: Debug: [<_UIKeyboardArbiterHandle: 0x283159290; PID 230: (null) <(null)>; hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0>] setWindowContextID:sceneIdentifier:forKeyboard:withLevel: sceneID: (null); 0/NO/0.000000
+2018-11-28 18:10:15 +0000: Debug: [_UIKeyboardArbiter] Updating scene to com.apple.appleseed.FeedbackAssistant level 3.000000
+2018-11-28 18:10:18 +0000: Debug: [<_UIKeyboardArbiterHandle: 0x2831259e0; PID 359: com.apple.appleseed.FeedbackAssistant <com.apple.appleseed.FeedbackAssistant>; hosting PIDs {(
+)}; level 3.000000; active YES [wants YES]; suppression 0>] applicationShouldFocusWithBundle:onCompletion: <(null)>
+2018-11-28 18:10:18 +0000: Debug: [<_UIKeyboardArbiterHandle: 0x2831259e0; PID 359: com.apple.appleseed.FeedbackAssistant <com.apple.appleseed.FeedbackAssistant>; hosting PIDs {(
+)}; level 3.000000; active YES [wants YES]; suppression 0>] requested process assertion (count=1)
+2018-11-28 18:10:18 +0000: Info: HW kbd: currently com.apple.appleseed.FeedbackAssistant (com.apple.appleseed.FeedbackAssistant < com.apple.appleseed.FeedbackAssistant)
+2018-11-28 18:10:18 +0000: Debug: [<_UIKeyboardArbiterHandle: 0x2831259e0; PID 359: com.apple.appleseed.FeedbackAssistant <com.apple.appleseed.FeedbackAssistant>; hosting PIDs {(
+)}; level 3.000000; active YES [wants YES]; suppression 0>] released process assertion (count=0)
+2018-11-28 18:10:18 +0000: Debug: [<_UIKeyboardArbiterHandle: 0x2831259e0; PID 359: com.apple.appleseed.FeedbackAssistant <com.apple.appleseed.FeedbackAssistant>; hosting PIDs {(
+)}; level 3.000000; active YES [wants YES]; suppression 0>] took process assertion
+2018-11-28 18:10:18 +0000: Debug: [<_UIKeyboardArbiterHandle: 0x2831259e0; PID 359: com.apple.appleseed.FeedbackAssistant <com.apple.appleseed.FeedbackAssistant>; hosting PIDs {(
+)}; level 3.000000; active YES [wants YES]; suppression 0>] setWindowContextID:sceneIdentifier:forKeyboard:withLevel: sceneID: com.apple.appleseed.FeedbackAssistant; 2124600845/YES/3.000000
+2018-11-28 18:10:18 +0000: Debug: [_UIKeyboardArbiter] Updating scene to com.apple.appleseed.FeedbackAssistant level 3.000000
+2018-11-28 18:10:26 +0000: Debug: [<_UIKeyboardArbiterHandle: 0x2831259e0; PID 359: com.apple.appleseed.FeedbackAssistant <com.apple.appleseed.FeedbackAssistant>; hosting PIDs {(
+)}; level 3.000000; active YES [wants YES]; suppression 0>] signalKeyboardChanged:onCompletion:: <<_UIKeyboardChangedInformation: 0x2827f7960>; animation fence <BKSAnimationFenceHandle: 0x281a67800; fenceName: 76; handleName: 52-11d; usable: YES; trace: (52:44213:send_cp secCode) from (359:ad17:send_cp copy) from (359:ad17:send_cp copy) from (359:ad17:send_cp copy) from (359:ad17:send_cp xpcCode) from (56:59517:send_cp make) from (56:59517:receive init)>; position {{0, 0}, {0, 0}} (with IAV same); on screen NO>
+2018-11-28 18:10:26 +0000: Debug: [<_UIKeyboardArbiterHandle: 0x28315cf30; PID 52: com.apple.springboard <com.apple.springboard>; hosting PIDs {(
+    318,
+    319,
+    317
+)}; level 0.000000; active NO [wants YES]; suppression 0>] requested process assertion (count=1)
+2018-11-28 18:10:26 +0000: Debug: [<_UIKeyboardArbiterHandle: 0x2831253b0; PID 318: com.apple.AppPredictionWidget.extension <(null)>; hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0>] requested process assertion (count=1)
+2018-11-28 18:10:26 +0000: Debug: [<_UIKeyboardArbiterHandle: 0x283125560; PID 317: com.apple.UpNextWidget.extension <(null)>; hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0>] requested process assertion (count=1)
+2018-11-28 18:10:26 +0000: Debug: [<_UIKeyboardArbiterHandle: 0x283125170; PID 319: com.apple.ScreenTimeUI.ScreenTimeWidget <(null)>; hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0>] requested process assertion (count=1)
+2018-11-28 18:10:26 +0000: Debug: [<_UIKeyboardArbiterHandle: 0x28313def0; PID 349: (null) <(null)>; hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0>] requested process assertion (count=1)
+2018-11-28 18:10:26 +0000: Debug: [<_UIKeyboardArbiterHandle: 0x28315cf30; PID 52: com.apple.springboard <com.apple.springboard>; hosting PIDs {(
+    318,
+    319,
+    317
+)}; level 0.000000; active NO [wants YES]; suppression 0>] requested process assertion (count=2)
+2018-11-28 18:10:26 +0000: Debug: [<_UIKeyboardArbiterHandle: 0x2831253b0; PID 318: com.apple.AppPredictionWidget.extension <(null)>; hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0>] requested process assertion (count=2)
+2018-11-28 18:10:26 +0000: Debug: [<_UIKeyboardArbiterHandle: 0x283125560; PID 317: com.apple.UpNextWidget.extension <(null)>; hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0>] requested process assertion (count=2)
+2018-11-28 18:10:26 +0000: Debug: [<_UIKeyboardArbiterHandle: 0x283125170; PID 319: com.apple.ScreenTimeUI.ScreenTimeWidget <(null)>; hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0>] requested process assertion (count=2)
+2018-11-28 18:10:26 +0000: Debug: [<_UIKeyboardArbiterHandle: 0x28313def0; PID 349: (null) <(null)>; hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0>] requested process assertion (count=2)
+2018-11-28 18:10:26 +0000: Debug: [<_UIKeyboardArbiterHandle: 0x2831259e0; PID 359: com.apple.appleseed.FeedbackAssistant <com.apple.appleseed.FeedbackAssistant>; hosting PIDs {(
+)}; level 3.000000; active YES [wants YES]; suppression 0>] requested process assertion (count=1)
+2018-11-28 18:10:26 +0000: Debug: [<_UIKeyboardArbiterHandle: 0x2831253b0; PID 318: com.apple.AppPredictionWidget.extension <(null)>; hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0>] released process assertion (count=1)
+2018-11-28 18:10:26 +0000: Debug: [<_UIKeyboardArbiterHandle: 0x283125560; PID 317: com.apple.UpNextWidget.extension <(null)>; hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0>] released process assertion (count=1)
+2018-11-28 18:10:26 +0000: Debug: [<_UIKeyboardArbiterHandle: 0x283125170; PID 319: com.apple.ScreenTimeUI.ScreenTimeWidget <(null)>; hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0>] released process assertion (count=1)
+2018-11-28 18:10:26 +0000: Debug: [<_UIKeyboardArbiterHandle: 0x28315cf30; PID 52: com.apple.springboard <com.apple.springboard>; hosting PIDs {(
+    318,
+    319,
+    317
+)}; level 0.000000; active NO [wants YES]; suppression 0>] took process assertion
+2018-11-28 18:10:26 +0000: Debug: [<_UIKeyboardArbiterHandle: 0x2831253b0; PID 318: com.apple.AppPredictionWidget.extension <(null)>; hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0>] took process assertion
+2018-11-28 18:10:26 +0000: Debug: [<_UIKeyboardArbiterHandle: 0x283125560; PID 317: com.apple.UpNextWidget.extension <(null)>; hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0>] took process assertion
+2018-11-28 18:10:26 +0000: Debug: [<_UIKeyboardArbiterHandle: 0x283125170; PID 319: com.apple.ScreenTimeUI.ScreenTimeWidget <(null)>; hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0>] took process assertion
+2018-11-28 18:10:26 +0000: Error: [<_UIKeyboardArbiterHandle: 0x28313def0; PID 349: (null) <(null)>; hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0>] could not take process assertion
+2018-11-28 18:10:26 +0000: Debug: [<_UIKeyboardArbiterHandle: 0x2831253b0; PID 318: com.apple.AppPredictionWidget.extension <(null)>; hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0>] released process assertion (count=0)
+2018-11-28 18:10:26 +0000: Debug: [<_UIKeyboardArbiterHandle: 0x2831259e0; PID 359: com.apple.appleseed.FeedbackAssistant <com.apple.appleseed.FeedbackAssistant>; hosting PIDs {(
+)}; level 3.000000; active YES [wants YES]; suppression 0>] took process assertion
+2018-11-28 18:10:26 +0000: Debug: [<_UIKeyboardArbiterHandle: 0x283125560; PID 317: com.apple.UpNextWidget.extension <(null)>; hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0>] released process assertion (count=0)
+2018-11-28 18:10:26 +0000: Debug: [<_UIKeyboardArbiterHandle: 0x283125170; PID 319: com.apple.ScreenTimeUI.ScreenTimeWidget <(null)>; hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0>] released process assertion (count=0)
+2018-11-28 18:10:26 +0000: Debug: [<_UIKeyboardArbiterHandle: 0x28313def0; PID 349: (null) <(null)>; hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0>] released process assertion (count=1)
+2018-11-28 18:10:26 +0000: Debug: [<_UIKeyboardArbiterHandle: 0x28313def0; PID 349: (null) <(null)>; hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0>] released process assertion (count=0)
+2018-11-28 18:10:26 +0000: Debug: [<_UIKeyboardArbiterHandle: 0x28315cf30; PID 52: com.apple.springboard <com.apple.springboard>; hosting PIDs {(
+    318,
+    319,
+    317
+)}; level 0.000000; active NO [wants YES]; suppression 0>] released process assertion (count=1)
+2018-11-28 18:10:26 +0000: Debug: [_UIKeyboardArbiter] Received new connection [<_UIKeyboardArbiterHandle: 0x28313f3c0; PID 230: (null) <(null)>; hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0>]
+2018-11-28 18:10:26 +0000: Debug: [<_UIKeyboardArbiterHandle: 0x28313f3c0; PID 230: (null) <(null)>; hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0>] startArbitrationWithExpectedState:hostingPIDs:usingFence:withSuppression:onConnected:: (null), (
+)
+2018-11-28 18:10:26 +0000: Debug: [<_UIKeyboardArbiterHandle: 0x2831259e0; PID 359: com.apple.appleseed.FeedbackAssistant <com.apple.appleseed.FeedbackAssistant>; hosting PIDs {(
+)}; level 3.000000; active YES [wants YES]; suppression 0>] requested process assertion (count=2)
+2018-11-28 18:10:26 +0000: Info: HW kbd: currently com.apple.appleseed.FeedbackAssistant (com.apple.appleseed.FeedbackAssistant < (null))
+2018-11-28 18:10:26 +0000: Debug: [<_UIKeyboardArbiterHandle: 0x2831259e0; PID 359: com.apple.appleseed.FeedbackAssistant <com.apple.appleseed.FeedbackAssistant>; hosting PIDs {(
+)}; level 3.000000; active YES [wants YES]; suppression 0>] released process assertion (count=1)
+2018-11-28 18:10:26 +0000: Debug: [<_UIKeyboardArbiterHandle: 0x2831259e0; PID 359: com.apple.appleseed.FeedbackAssistant <com.apple.appleseed.FeedbackAssistant>; hosting PIDs {(
+)}; level 3.000000; active YES [wants YES]; suppression 0>] released process assertion (count=0)
+2018-11-28 18:10:26 +0000:
+	<_UIKeyboardArbiterHandle: 0x28313ff00; PID 350: com.apple.UIKit.ShareUI <(null)> (suspended); hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0>:
+	 -> State: Inactive  
+		 Process: Suspended
+	<_UIKeyboardArbiter: 0x282d01780; <<_UIKeyboardArbiter_ForSpringBoard: 0x28032d560>; workspace = <SBUIWorkspace: 0x2816e4280; identifier: com.apple.UIKit.KeyboardManagement.hosted> {
+    clientQueue = <FBSSerialQueue: 0x2827636c0; dispatchQueue: com.apple.UIKit.keyboard-arbiter>;
+    scenes = {
+        <SBUIScene: 0x28196a680; identifier: com.apple.UIKit.remote-keyboard> {
+            layers = {
+                <FBSCAContextSceneLayer: 0x281a64e40; contextID: 0x7ea2d60d (2124600845); level: 0.0>;
+            }
+            settings = <FBSSceneSettings: 0x2828d8e00> {
+                displayConfiguration = "<FBSDisplayConfiguration: 0x283a6c2a0; Main; mode: "375x667@2x 60Hz p3 SDR">";
+                frame = {{0, 0}, {375, 667}};
+                level = 15.0;
+                interfaceOrientation = unknown (0);
+                backgrounded = YES;
+            };
+            clientSettings = <FBSSceneClientSettings: 0x280f5c930> {
+                preferredLevel = 3.0;
+                preferredInterfaceOrientation = unknown (0);
+                preferredSceneHostIdentifier = com.apple.appleseed.FeedbackAssistant;
+            };
+        };
+    }
+}; scene = <SBUIScene: 0x28196a680; identifier: com.apple.UIKit.remote-keyboard> {
+    layers = {
+        <FBSCAContextSceneLayer: 0x281a64e40; contextID: 0x7ea2d60d (2124600845); level: 0.0>;
+    }
+    settings = <FBSSceneSettings: 0x2828d8e00> {
+        displayConfiguration = "<FBSDisplayConfiguration: 0x283a6c2a0; Main; mode: "375x667@2x 60Hz p3 SDR">";
+        frame = {{0, 0}, {375, 667}};
+        level = 15.0;
+        interfaceOrientation = unknown (0);
+        backgrounded = YES;
+    };
+    clientSettings = <FBSSceneClientSettings: 0x280f5c930> {
+        preferredLevel = 3.0;
+        preferredInterfaceOrientation = unknown (0);
+        preferredSceneHostIdentifier = com.apple.appleseed.FeedbackAssistant;
+    };
+}>;
+disabler = (null);
+current state = (null);
+active handle = (null);
+handles = (
+    "<_UIKeyboardArbiterHandle: 0x28315cf30; PID 52: com.apple.springboard <com.apple.springboard>; hosting PIDs {(\n    318,\n    319,\n    317\n)}; level 0.000000; active NO [wants YES]; suppression 0>",
+    "<_UIKeyboardArbiterHandle: 0x2831253b0; PID 318: com.apple.AppPredictionWidget.extension <(null)>; hosting PIDs {(\n)}; level 0.000000; active NO [wants NO]; suppression 0>",
+    "<_UIKeyboardArbiterHandle: 0x283125560; PID 317: com.apple.UpNextWidget.extension <(null)>; hosting PIDs {(\n)}; level 0.000000; active NO [wants NO]; suppression 0>",
+    "<_UIKeyboardArbiterHandle: 0x283125170; PID 319: com.apple.ScreenTimeUI.ScreenTimeWidget <(null)>; hosting PIDs {(\n)}; level 0.000000; active NO [wants NO]; suppression 0>",
+    "<_UIKeyboardArbiterHandle: 0x28313def0; PID 349: (null) <(null)>; hosting PIDs {(\n)}; level 0.000000; active NO [wants NO]; suppression 0>",
+    "<_UIKeyboardArbiterHandle: 0x28313ff00; PID 350: com.apple.UIKit.ShareUI <(null)> (suspended); hosting PIDs {(\n)}; level 0.000000; active NO [wants NO]; suppression 0>",
+    "<_UIKeyboardArbiterHandle: 0x2831259e0; PID 359: com.apple.appleseed.FeedbackAssistant <com.apple.appleseed.FeedbackAssistant>; hosting PIDs {(\n)}; level 3.000000; active YES [wants YES]; suppression 0>"
+)>:
+	 -> State: Inactive  
+	<_UIKeyboardArbiterHandle: 0x2831253b0; PID 318: com.apple.AppPredictionWidget.extension <(null)>; hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0>:
+	 -> State: Inactive  
+		 UIApp.interfaceOrientation: 1
+		 automaticAppearance: en YES / int YES
+		 effectsWindow: UITextEffectsWindowHosted
+		 keyboardWindow.frame: {{0, 0}, {375, 667}}
+		 placementKeyboard: UIInputViewSetPlacementOffScreenDown
+		 keyboardWindow: UIRemoteKeyboardWindowHosted
+		 effectsHosting: 1
+		 placementEffects: UIInputViewSetPlacementOffScreenDown
+	<_UIKeyboardArbiterHandle: 0x283125560; PID 317: com.apple.UpNextWidget.extension <(null)>; hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0>:
+	 -> State: Inactive  
+		 UIApp.interfaceOrientation: 1
+		 automaticAppearance: en YES / int YES
+		 effectsWindow: UITextEffectsWindowHosted
+		 keyboardWindow.frame: {{0, 0}, {375, 667}}
+		 placementKeyboard: UIInputViewSetPlacementOffScreenDown
+		 keyboardWindow: UIRemoteKeyboardWindowHosted
+		 effectsHosting: 1
+		 placementEffects: UIInputViewSetPlacementOffScreenDown
+	<_UIKeyboardArbiterHandle: 0x283125170; PID 319: com.apple.ScreenTimeUI.ScreenTimeWidget <(null)>; hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0>:
+	 -> State: Inactive  
+		 UIApp.interfaceOrientation: 1
+		 automaticAppearance: en YES / int YES
+		 effectsWindow: UITextEffectsWindowHosted
+		 keyboardWindow.frame: {{0, 0}, {375, 667}}
+		 placementKeyboard: UIInputViewSetPlacementOffScreenDown
+		 keyboardWindow: UIRemoteKeyboardWindowHosted
+		 effectsHosting: 1
+		 placementEffects: UIInputViewSetPlacementOffScreenDown
+	<_UIKeyboardArbiterHandle: 0x28313def0; PID 349: (null) <(null)>; hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0>:
+	 -> State: Inactive  
+		 Special: druid
+	<_UIKeyboardArbiterHandle: 0x28315cf30; PID 52: com.apple.springboard <com.apple.springboard>; hosting PIDs {(
+    318,
+    319,
+    317
+)}; level 0.000000; active NO [wants YES]; suppression 0>:
+	 -> State: Inactive  
+		 rotateVC: SBMainSwitcherViewController
+		 rotateVC.supportedInterfaceOrientations: 2
+		 rotateWindow.frame: {{0, 0}, {375, 667}}
+		 rotateWindow.interfaceOrientation: 1
+		 automaticAppearance: en YES / int YES
+		 UIApp.interfaceOrientation: 1
+		 keyWindow: SBMainSwitcherWindow
+		 keyboardWindow.frame: {{0, 0}, {375, 667}}
+		 keyWindow.interfaceOrientation: 1
+		 rotateWindow: SBMainSwitcherWindow
+		 placementKeyboard: UIInputViewSetPlacementOffScreenDown
+		 keyWindow.frame: {{0, 0}, {375, 667}}
+		 placementEffects: UIInputViewSetPlacementOffScreenDown
+		 rotateVC.interfaceOrientation: 1
+	<_UIKeyboardArbiterHandle: 0x2831259e0; PID 359: com.apple.appleseed.FeedbackAssistant <com.apple.appleseed.FeedbackAssistant>; hosting PIDs {(
+)}; level 3.000000; active YES [wants YES]; suppression 0>:
+	 -> State: Inactive HW-KBD-focus CMD-KBD-focus
+		 placementKeyboard: UIInputViewSetPlacementOffScreenDown
+		 keyWindow: UIWindow
+		 currentKeyboard: small-letters-small-display
+		 UIApp.interfaceOrientation: 1
+		 rotateWindow.interfaceOrientation: 1
+		 rotateVC.supportedInterfaceOrientations: 6
+		 rotateWindow: UIWindow
+		 keyboardWindow.frame: {{0, 0}, {375, 667}}
+		 keyWindow.frame: {{0, 0}, {375, 667}}
+		 automaticAppearance: en YES / int YES
+		 inputViews.keyboard: UIKeyboardAutomatic
+		 keyWindow.interfaceOrientation: 1
+		 rotateWindow.frame: {{0, 0}, {375, 667}}
+		 inputViews.inputView: _UIKBCompatInputView
+		 inputViews.inputViewController: UICompatibilityInputViewController
+		 rotateVC.interfaceOrientation: 1
+		 rotateVC: FBALoginFlowViewController
+		 placementEffects: UIInputViewSetPlacementOffScreenDown
+2018-11-28 18:10:26 +0000: Debug: [<_UIKeyboardArbiterHandle: 0x28315cf30; PID 52: com.apple.springboard <com.apple.springboard>; hosting PIDs {(
+    318,
+    319,
+    317
+)}; level 0.000000; active NO [wants YES]; suppression 0>] released process assertion (count=0)
+2018-11-28 18:10:26 +0000: Debug: [<_UIKeyboardArbiterHandle: 0x28315cf30; PID 52: com.apple.springboard <com.apple.springboard>; hosting PIDs {(
+    318,
+    319,
+    317
+)}; level 0.000000; active NO [wants YES]; suppression 0>] setWindowContextID:sceneIdentifier:forKeyboard:withLevel: sceneID: com.apple.springboard; 2030026911/YES/0.000000
+2018-11-28 18:10:26 +0000: Error: [_UIKeyboardArbiter] Rejecting attach for <_UIKeyboardArbiterHandle: 0x28315cf30; PID 52: com.apple.springboard <com.apple.springboard>; hosting PIDs {(
+    318,
+    319,
+    317
+)}; level 0.000000; active NO [wants YES]; suppression 0> (currently (null))
+2018-11-28 18:10:26 +0000: Debug: [_UIKeyboardArbiter] Updating scene to com.apple.appleseed.FeedbackAssistant level 3.000000
+2018-11-28 18:10:26 +0000: Debug: [<_UIKeyboardArbiterHandle: 0x2831259e0; PID 359: com.apple.appleseed.FeedbackAssistant <com.apple.appleseed.FeedbackAssistant>; hosting PIDs {(
+)}; level 3.000000; active YES [wants YES]; suppression 0>] setWindowContextID:sceneIdentifier:forKeyboard:withLevel: sceneID: com.apple.appleseed.FeedbackAssistant; 2124600845/NO/3.000000
+2018-11-28 18:10:26 +0000: Debug: [_UIKeyboardArbiter] Detaching [<_UIKeyboardArbiterHandle: 0x2831259e0; PID 359: com.apple.appleseed.FeedbackAssistant <com.apple.appleseed.FeedbackAssistant>; hosting PIDs {(
+)}; level 3.000000; active YES [wants NO]; suppression 0>] <FBSCAContextSceneLayer: 0x281a64e40; contextID: 0x7ea2d60d (2124600845); level: 0.0>
+2018-11-28 18:10:26 +0000: Info: HW kbd: currently com.apple.appleseed.FeedbackAssistant ((null) < (null))
+2018-11-28 18:10:26 +0000: Debug: [_UIKeyboardArbiter] Updating scene to (null) level 2.000000
+2018-11-28 18:10:26 +0000: Error: HW kbd: Failed to set (null) as keyboard focus
+2018-11-28 18:10:26 +0000: Debug: [<_UIKeyboardArbiterHandle: 0x2831259e0; PID 359: com.apple.appleseed.FeedbackAssistant <com.apple.appleseed.FeedbackAssistant>; hosting PIDs {(
+)}; level 3.000000; active NO [wants NO]; suppression 0>] setWindowContextID:sceneIdentifier:forKeyboard:withLevel: sceneID: com.apple.appleseed.FeedbackAssistant; 0/NO/3.000000
+2018-11-28 18:10:26 +0000: Debug: [<_UIKeyboardArbiterHandle: 0x2831259e0; PID 359: com.apple.appleseed.FeedbackAssistant <com.apple.appleseed.FeedbackAssistant>; hosting PIDs {(
+)}; level 3.000000; active NO [wants NO]; suppression 0>] Releasing: <FBSCAContextSceneLayer: 0x281a64e40; contextID: 0x7ea2d60d (2124600845); level: 0.0>
+2018-11-28 18:10:26 +0000: Debug: [_UIKeyboardArbiter] Updating scene to (null) level 2.000000
+2018-11-28 18:10:28 +0000: Debug: [<_UIKeyboardArbiterHandle: 0x2831259e0; PID 359: com.apple.appleseed.FeedbackAssistant <(null)>; hosting PIDs {(
+)}; level 3.000000; active NO [wants NO]; suppression 0>] setWindowContextID:sceneIdentifier:forKeyboard:withLevel: sceneID: com.apple.appleseed.FeedbackAssistant; 0/NO/3.000000
+2018-11-28 18:10:28 +0000: Debug: [_UIKeyboardArbiter] Updating scene to (null) level 2.000000
+2018-11-28 18:10:28 +0000: Debug: [<_UIKeyboardArbiterHandle: 0x2831259e0; PID 359: com.apple.appleseed.FeedbackAssistant <(null)>; hosting PIDs {(
+)}; level 3.000000; active NO [wants NO]; suppression 0>] signalKeyboardChanged:onCompletion:: <<_UIKeyboardChangedInformation: 0x282777480>; animation fence <BKSAnimationFenceHandle: 0x281a69740; fenceName: 77; handleName: 52-123; usable: YES; trace: (52:4421b:send_cp secCode) from (359:1310f:send_cp copy) from (359:1310f:send_cp copy) from (359:1310f:send_cp copy) from (359:1310f:send_cp xpcCode) from (56:58447:send_cp make) from (56:58447:receive init)>; position {{0, 0}, {375, 216}} (with IAV same); on screen YES>
+2018-11-28 18:10:28 +0000: Debug: [<_UIKeyboardArbiterHandle: 0x28315cf30; PID 52: com.apple.springboard <com.apple.springboard>; hosting PIDs {(
+    318,
+    319,
+    317
+)}; level 0.000000; active NO [wants YES]; suppression 0>] requested process assertion (count=1)
+2018-11-28 18:10:28 +0000: Debug: [<_UIKeyboardArbiterHandle: 0x2831253b0; PID 318: com.apple.AppPredictionWidget.extension <(null)>; hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0>] requested process assertion (count=1)
+2018-11-28 18:10:28 +0000: Debug: [<_UIKeyboardArbiterHandle: 0x283125560; PID 317: com.apple.UpNextWidget.extension <(null)>; hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0>] requested process assertion (count=1)
+2018-11-28 18:10:28 +0000: Debug: [<_UIKeyboardArbiterHandle: 0x283125170; PID 319: com.apple.ScreenTimeUI.ScreenTimeWidget <(null)>; hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0>] requested process assertion (count=1)
+2018-11-28 18:10:28 +0000: Debug: [<_UIKeyboardArbiterHandle: 0x28313def0; PID 349: (null) <(null)>; hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0>] requested process assertion (count=1)
+2018-11-28 18:10:28 +0000: Debug: [<_UIKeyboardArbiterHandle: 0x28313f3c0; PID 230: (null) <(null)>; hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0>] requested process assertion (count=1)
+2018-11-28 18:10:28 +0000: Debug: [<_UIKeyboardArbiterHandle: 0x28315cf30; PID 52: com.apple.springboard <com.apple.springboard>; hosting PIDs {(
+    318,
+    319,
+    317
+)}; level 0.000000; active NO [wants YES]; suppression 0>] requested process assertion (count=2)
+2018-11-28 18:10:28 +0000: Debug: [<_UIKeyboardArbiterHandle: 0x2831253b0; PID 318: com.apple.AppPredictionWidget.extension <(null)>; hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0>] requested process assertion (count=2)
+2018-11-28 18:10:28 +0000: Debug: [<_UIKeyboardArbiterHandle: 0x283125560; PID 317: com.apple.UpNextWidget.extension <(null)>; hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0>] requested process assertion (count=2)
+2018-11-28 18:10:28 +0000: Debug: [<_UIKeyboardArbiterHandle: 0x283125170; PID 319: com.apple.ScreenTimeUI.ScreenTimeWidget <(null)>; hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0>] requested process assertion (count=2)
+2018-11-28 18:10:28 +0000: Debug: [<_UIKeyboardArbiterHandle: 0x28313def0; PID 349: (null) <(null)>; hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0>] requested process assertion (count=2)
+2018-11-28 18:10:28 +0000: Debug: [<_UIKeyboardArbiterHandle: 0x2831259e0; PID 359: com.apple.appleseed.FeedbackAssistant <(null)>; hosting PIDs {(
+)}; level 3.000000; active NO [wants NO]; suppression 0>] requested process assertion (count=1)
+2018-11-28 18:10:28 +0000: Debug: [<_UIKeyboardArbiterHandle: 0x28313f3c0; PID 230: (null) <(null)>; hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0>] requested process assertion (count=2)
+2018-11-28 18:10:28 +0000: Debug: [<_UIKeyboardArbiterHandle: 0x2831259e0; PID 359: com.apple.appleseed.FeedbackAssistant <(null)>; hosting PIDs {(
+)}; level 3.000000; active NO [wants NO]; suppression 0>] setWindowContextID:sceneIdentifier:forKeyboard:withLevel: sceneID: com.apple.appleseed.FeedbackAssistant; -1208232678/YES/3.000000
+2018-11-28 18:10:28 +0000: Debug: [<_UIKeyboardArbiterHandle: 0x2831259e0; PID 359: com.apple.appleseed.FeedbackAssistant <(null)>; hosting PIDs {(
+)}; level 3.000000; active NO [wants YES]; suppression 0>] Created: <FBSCAContextSceneLayer: 0x281b95a00; contextID: 0xb7fbd51a (3086734618); level: 0.0>
+2018-11-28 18:10:28 +0000: Debug: [_UIKeyboardArbiter] Attaching [<_UIKeyboardArbiterHandle: 0x2831259e0; PID 359: com.apple.appleseed.FeedbackAssistant <com.apple.appleseed.FeedbackAssistant>; hosting PIDs {(
+)}; level 3.000000; active NO [wants YES]; suppression 0>] <FBSCAContextSceneLayer: 0x281b95a00; contextID: 0xb7fbd51a (3086734618); level: 0.0>
+2018-11-28 18:10:28 +0000: Info: HW kbd: currently (null) (com.apple.appleseed.FeedbackAssistant < (null))
+2018-11-28 18:10:28 +0000: Debug: [_UIKeyboardArbiter] Updating scene to com.apple.appleseed.FeedbackAssistant level 3.000000
+2018-11-28 18:10:28 +0000: Debug: [<_UIKeyboardArbiterHandle: 0x2831253b0; PID 318: com.apple.AppPredictionWidget.extension <(null)>; hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0>] released process assertion (count=1)
+2018-11-28 18:10:28 +0000: Debug: [<_UIKeyboardArbiterHandle: 0x28315cf30; PID 52: com.apple.springboard <com.apple.springboard>; hosting PIDs {(
+    318,
+    319,
+    317
+)}; level 0.000000; active NO [wants YES]; suppression 0>] took process assertion
+2018-11-28 18:10:28 +0000: Debug: [<_UIKeyboardArbiterHandle: 0x2831253b0; PID 318: com.apple.AppPredictionWidget.extension <(null)>; hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0>] took process assertion
+2018-11-28 18:10:28 +0000: Debug: [<_UIKeyboardArbiterHandle: 0x283125560; PID 317: com.apple.UpNextWidget.extension <(null)>; hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0>] took process assertion
+2018-11-28 18:10:28 +0000: Debug: [<_UIKeyboardArbiterHandle: 0x283125170; PID 319: com.apple.ScreenTimeUI.ScreenTimeWidget <(null)>; hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0>] took process assertion
+2018-11-28 18:10:28 +0000: Error: [<_UIKeyboardArbiterHandle: 0x28313def0; PID 349: (null) <(null)>; hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0>] could not take process assertion
+2018-11-28 18:10:28 +0000: Error: [<_UIKeyboardArbiterHandle: 0x28313f3c0; PID 230: (null) <(null)>; hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0>] could not take process assertion
+2018-11-28 18:10:28 +0000: Debug: [<_UIKeyboardArbiterHandle: 0x2831259e0; PID 359: com.apple.appleseed.FeedbackAssistant <(null)>; hosting PIDs {(
+)}; level 3.000000; active NO [wants NO]; suppression 0>] took process assertion
+2018-11-28 18:10:28 +0000: Debug: [<_UIKeyboardArbiterHandle: 0x2831253b0; PID 318: com.apple.AppPredictionWidget.extension <(null)>; hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0>] released process assertion (count=0)
+2018-11-28 18:10:28 +0000: Info: HW kbd: Keyboard set successfully: com.apple.appleseed.FeedbackAssistant
+2018-11-28 18:10:28 +0000: Debug: [<_UIKeyboardArbiterHandle: 0x283125560; PID 317: com.apple.UpNextWidget.extension <(null)>; hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0>] released process assertion (count=1)
+2018-11-28 18:10:28 +0000: Debug: [<_UIKeyboardArbiterHandle: 0x2831259e0; PID 359: com.apple.appleseed.FeedbackAssistant <com.apple.appleseed.FeedbackAssistant>; hosting PIDs {(
+)}; level 3.000000; active YES [wants YES]; suppression 0>] applicationShouldFocusWithBundle:onCompletion: <(null)>
+2018-11-28 18:10:28 +0000: Debug: [<_UIKeyboardArbiterHandle: 0x28313f3c0; PID 230: (null) <(null)>; hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0>] requested process assertion (count=3)
+2018-11-28 18:10:28 +0000: Info: HW kbd: currently com.apple.appleseed.FeedbackAssistant (com.apple.appleseed.FeedbackAssistant < com.apple.appleseed.FeedbackAssistant)
+2018-11-28 18:10:28 +0000: Debug: [<_UIKeyboardArbiterHandle: 0x28315cf30; PID 52: com.apple.springboard <com.apple.springboard>; hosting PIDs {(
+    318,
+    319,
+    317
+)}; level 0.000000; active NO [wants YES]; suppression 0>] setWindowContextID:sceneIdentifier:forKeyboard:withLevel: sceneID: com.apple.springboard; 2030026911/YES/0.000000
+2018-11-28 18:10:28 +0000: Error: [_UIKeyboardArbiter] Rejecting attach for <_UIKeyboardArbiterHandle: 0x28315cf30; PID 52: com.apple.springboard <com.apple.springboard>; hosting PIDs {(
+    318,
+    319,
+    317
+)}; level 0.000000; active NO [wants YES]; suppression 0> (currently <_UIKeyboardArbiterHandle: 0x2831259e0; PID 359: com.apple.appleseed.FeedbackAssistant <com.apple.appleseed.FeedbackAssistant>; hosting PIDs {(
+)}; level 3.000000; active YES [wants YES]; suppression 0>)
+2018-11-28 18:10:28 +0000: Debug: [_UIKeyboardArbiter] Updating scene to com.apple.appleseed.FeedbackAssistant level 3.000000
+2018-11-28 18:10:28 +0000: Debug: [<_UIKeyboardArbiterHandle: 0x283125170; PID 319: com.apple.ScreenTimeUI.ScreenTimeWidget <(null)>; hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0>] released process assertion (count=1)
+2018-11-28 18:10:28 +0000: Debug: [<_UIKeyboardArbiterHandle: 0x28313def0; PID 349: (null) <(null)>; hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0>] released process assertion (count=1)
+2018-11-28 18:10:28 +0000: Debug: [<_UIKeyboardArbiterHandle: 0x28315cf30; PID 52: com.apple.springboard <com.apple.springboard>; hosting PIDs {(
+    318,
+    319,
+    317
+)}; level 0.000000; active NO [wants YES]; suppression 0>] released process assertion (count=1)
+2018-11-28 18:10:28 +0000: Debug: [<_UIKeyboardArbiterHandle: 0x283125560; PID 317: com.apple.UpNextWidget.extension <(null)>; hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0>] released process assertion (count=0)
+2018-11-28 18:10:28 +0000: Debug: [<_UIKeyboardArbiterHandle: 0x2831259e0; PID 359: com.apple.appleseed.FeedbackAssistant <com.apple.appleseed.FeedbackAssistant>; hosting PIDs {(
+)}; level 3.000000; active YES [wants YES]; suppression 0>] released process assertion (count=0)
+2018-11-28 18:10:28 +0000: Debug: [<_UIKeyboardArbiterHandle: 0x283125170; PID 319: com.apple.ScreenTimeUI.ScreenTimeWidget <(null)>; hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0>] released process assertion (count=0)
+2018-11-28 18:10:28 +0000: Debug: [<_UIKeyboardArbiterHandle: 0x28313def0; PID 349: (null) <(null)>; hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0>] released process assertion (count=0)
+2018-11-28 18:10:28 +0000: Debug: [<_UIKeyboardArbiterHandle: 0x28315cf30; PID 52: com.apple.springboard <com.apple.springboard>; hosting PIDs {(
+    318,
+    319,
+    317
+)}; level 0.000000; active NO [wants YES]; suppression 0>] released process assertion (count=0)
+2018-11-28 18:10:28 +0000: Debug: [<_UIKeyboardArbiterHandle: 0x28313f3c0; PID 230: (null) <(null)>; hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0>] released process assertion (count=2)
+2018-11-28 18:10:28 +0000:
+	<_UIKeyboardArbiterHandle: 0x28313ff00; PID 350: com.apple.UIKit.ShareUI <(null)> (suspended); hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0>:
+	 -> State: Inactive  
+		 Process: Suspended
+	<_UIKeyboardArbiterHandle: 0x2831253b0; PID 318: com.apple.AppPredictionWidget.extension <(null)>; hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0>:
+	 -> State: Inactive  
+		 UIApp.interfaceOrientation: 1
+		 automaticAppearance: en YES / int YES
+		 keyboardWindow.frame: {{0, 0}, {375, 667}}
+		 inputViews.inputViewController: UICompatibilityInputViewController
+		 effectsWindow: UITextEffectsWindowHosted
+		 placementKeyboard: UIInputViewSetPlacementOnScreen
+		 effectsHosting: 1
+		 keyboardWindow: UIRemoteKeyboardWindowHosted
+		 inputViews.inputView: _UIRemoteKeyboardPlaceholderView
+		 placementEffects: UIInputViewSetPlacementOnScreen
+	<_UIKeyboardArbiter: 0x282d01780; <<_UIKeyboardArbiter_ForSpringBoard: 0x28032d560>; workspace = <SBUIWorkspace: 0x2816e4280; identifier: com.apple.UIKit.KeyboardManagement.hosted> {
+    clientQueue = <FBSSerialQueue: 0x2827636c0; dispatchQueue: com.apple.UIKit.keyboard-arbiter>;
+    scenes = {
+        <SBUIScene: 0x28196a680; identifier: com.apple.UIKit.remote-keyboard> {
+            settings = <FBSSceneSettings: 0x2828fbcd0> {
+                displayConfiguration = "<FBSDisplayConfiguration: 0x283a6c2a0; Main; mode: "375x667@2x 60Hz p3 SDR">";
+                frame = {{0, 0}, {375, 667}};
+                level = 2.0;
+                interfaceOrientation = unknown (0);
+                backgrounded = YES;
+            };
+            clientSettings = <FBSSceneClientSettings: 0x280c96880> {
+                preferredLevel = 3.0;
+                preferredInterfaceOrientation = unknown (0);
+                preferredSceneHostIdentifier = com.apple.appleseed.FeedbackAssistant;
+            };
+        };
+    }
+}; scene = <SBUIScene: 0x28196a680; identifier: com.apple.UIKit.remote-keyboard> {
+    settings = <FBSSceneSettings: 0x2828fbcd0> {
+        displayConfiguration = "<FBSDisplayConfiguration: 0x283a6c2a0; Main; mode: "375x667@2x 60Hz p3 SDR">";
+        frame = {{0, 0}, {375, 667}};
+        level = 2.0;
+        interfaceOrientation = unknown (0);
+        backgrounded = YES;
+    };
+    clientSettings = <FBSSceneClientSettings: 0x280c96880> {
+        preferredLevel = 3.0;
+        preferredInterfaceOrientation = unknown (0);
+        preferredSceneHostIdentifier = com.apple.appleseed.FeedbackAssistant;
+    };
+}>;
+disabler = (null);
+current state = <<_UIKeyboardChangedInformation: 0x282775f20>; animation fence (null); position {{0, 0}, {375, 216}} (with IAV same); on screen YES>;
+active handle = <_UIKeyboardArbiterHandle: 0x2831259e0; PID 359: com.apple.appleseed.FeedbackAssistant <com.apple.appleseed.FeedbackAssistant>; hosting PIDs {(
+)}; level 3.000000; active YES [wants YES]; suppression 0>;
+handles = (
+    "<_UIKeyboardArbiterHandle: 0x28315cf30; PID 52: com.apple.springboard <com.apple.springboard>; hosting PIDs {(\n    318,\n    319,\n    317\n)}; level 0.000000; active NO [wants YES]; suppression 0>",
+    "<_UIKeyboardArbiterHandle: 0x2831253b0; PID 318: com.apple.AppPredictionWidget.extension <(null)>; hosting PIDs {(\n)}; level 0.000000; active NO [wants NO]; suppression 0>",
+    "<_UIKeyboardArbiterHandle: 0x283125560; PID 317: com.apple.UpNextWidget.extension <(null)>; hosting PIDs {(\n)}; level 0.000000; active NO [wants NO]; suppression 0>",
+    "<_UIKeyboardArbiterHandle: 0x283125170; PID 319: com.apple.ScreenTimeUI.ScreenTimeWidget <(null)>; hosting PIDs {(\n)}; level 0.000000; active NO [wants NO]; suppression 0>",
+    "<_UIKeyboardArbiterHandle: 0x28313def0; PID 349: (null) <(null)>; hosting PIDs {(\n)}; level 0.000000; active NO [wants NO]; suppression 0>",
+    "<_UIKeyboardArbiterHandle: 0x28313ff00; PID 350: com.apple.UIKit.ShareUI <(null)> (suspended); hosting PIDs {(\n)}; level 0.000000; active NO [wants NO]; suppression 0>",
+    "<_UIKeyboardArbiterHandle: 0x2831259e0; PID 359: com.apple.appleseed.FeedbackAssistant <com.apple.appleseed.FeedbackAssistant>; hosting PIDs {(\n)}; level 3.000000; active YES [wants YES]; suppression 0>",
+    "<_UIKeyboardArbiterHandle: 0x28313f3c0; PID 230: (null) <(null)>; hosting PIDs {(\n)}; level 0.000000; active NO [wants NO]; suppression 0>"
+)>:
+	 -> State: Inactive  
+	<_UIKeyboardArbiterHandle: 0x283125560; PID 317: com.apple.UpNextWidget.extension <(null)>; hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0>:
+	 -> State: Inactive  
+		 UIApp.interfaceOrientation: 1
+		 automaticAppearance: en YES / int YES
+		 keyboardWindow.frame: {{0, 0}, {375, 667}}
+		 inputViews.inputViewController: UICompatibilityInputViewController
+		 effectsWindow: UITextEffectsWindowHosted
+		 placementKeyboard: UIInputViewSetPlacementOnScreen
+		 effectsHosting: 1
+		 keyboardWindow: UIRemoteKeyboardWindowHosted
+		 inputViews.inputView: _UIRemoteKeyboardPlaceholderView
+		 placementEffects: UIInputViewSetPlacementOnScreen
+	<_UIKeyboardArbiterHandle: 0x2831259e0; PID 359: com.apple.appleseed.FeedbackAssistant <(null)>; hosting PIDs {(
+)}; level 3.000000; active NO [wants NO]; suppression 0>:
+	 -> State: Active  
+		 placementEffects: UIInputViewSetPlacementOnScreen
+		 keyWindowFirstResponder: UITextField
+		 keyWindow: UIWindow
+		 keyboardResponder: UITextField
+		 keyWindowFirstResponderRequiresKeyboard: 1
+		 currentKeyboard: small-letters-small-display
+		 keyboardResponderRequiresKeyboard: 1
+		 UIApp.interfaceOrientation: 1
+		 rotateWindow.interfaceOrientation: 1
+		 rotateVC.supportedInterfaceOrientations: 6
+		 rotateWindow: UIWindow
+		 keyboardWindow.frame: {{0, 0}, {375, 667}}
+		 keyWindow.frame: {{0, 0}, {375, 667}}
+		 automaticAppearance: en YES / int YES
+		 inputViews.keyboard: UIKeyboardAutomatic
+		 keyWindow.interfaceOrientation: 1
+		 rotateWindow.frame: {{0, 0}, {375, 667}}
+		 inputViews.inputView: _UIKBCompatInputView
+		 inputViews.inputViewController: UICompatibilityInputViewController
+		 rotateVC: FBALoginFlowViewController
+		 rotateVC.interfaceOrientation: 1
+		 placementKeyboard: UIInputViewSetPlacementOnScreen
+	<_UIKeyboardArbiterHandle: 0x283125170; PID 319: com.apple.ScreenTimeUI.ScreenTimeWidget <(null)>; hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0>:
+	 -> State: Inactive  
+		 UIApp.interfaceOrientation: 1
+		 automaticAppearance: en YES / int YES
+		 keyboardWindow.frame: {{0, 0}, {375, 667}}
+		 inputViews.inputViewController: UICompatibilityInputViewController
+		 effectsWindow: UITextEffectsWindowHosted
+		 placementKeyboard: UIInputViewSetPlacementOnScreen
+		 effectsHosting: 1
+		 keyboardWindow: UIRemoteKeyboardWindowHosted
+		 inputViews.inputView: _UIRemoteKeyboardPlaceholderView
+		 placementEffects: UIInputViewSetPlacementOnScreen
+	<_UIKeyboardArbiterHandle: 0x28313def0; PID 349: (null) <(null)>; hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0>:
+	 -> State: Inactive  
+		 Special: druid
+	<_UIKeyboardArbiterHandle: 0x28315cf30; PID 52: com.apple.springboard <com.apple.springboard>; hosting PIDs {(
+    318,
+    319,
+    317
+)}; level 0.000000; active NO [wants YES]; suppression 0>:
+	 -> State: Inactive  
+		 placementKeyboard: UIInputViewSetPlacementOnScreen
+		 keyWindow: SBMainSwitcherWindow
+		 UIApp.interfaceOrientation: 1
+		 rotateWindow.interfaceOrientation: 1
+		 rotateVC.supportedInterfaceOrientations: 2
+		 rotateWindow: SBMainSwitcherWindow
+		 keyboardWindow.frame: {{0, 0}, {375, 667}}
+		 keyWindow.frame: {{0, 0}, {375, 667}}
+		 automaticAppearance: en YES / int YES
+		 keyWindow.interfaceOrientation: 1
+		 inputViews.inputView: _UIRemoteKeyboardPlaceholderView
+		 rotateWindow.frame: {{0, 0}, {375, 667}}
+		 inputViews.inputViewController: UICompatibilityInputViewController
+		 rotateVC.interfaceOrientation: 1
+		 rotateVC: SBMainSwitcherViewController
+		 placementEffects: UIInputViewSetPlacementOnScreen
+	<_UIKeyboardArbiterHandle: 0x28313f3c0; PID 230: (null) <(null)>; hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0>:
+	 -> State: Inactive  CMD-KBD-focus
+		 UIApp.interfaceOrientation: 1
+		 automaticAppearance: en YES / int YES
+		 keyWindow: HNDIgnoredWindow
+		 inputViews.inputViewController: UICompatibilityInputViewController
+		 keyWindow.interfaceOrientation: 1
+		 keyWindow.frame: {{0, 0}, {375, 667}}
+		 placementEffects: UIInputViewSetPlacementOnScreen
+		 inputViews.inputView: _UIRemoteKeyboardPlaceholderView
+2018-11-28 18:10:28 +0000: Debug: [<_UIKeyboardArbiterHandle: 0x28313f3c0; PID 230: (null) <(null)>; hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0>] released process assertion (count=1)
+2018-11-28 18:10:29 +0000: Debug: [<_UIKeyboardArbiterHandle: 0x2831259e0; PID 359: com.apple.appleseed.FeedbackAssistant <com.apple.appleseed.FeedbackAssistant>; hosting PIDs {(
+)}; level 3.000000; active YES [wants YES]; suppression 0>] setWindowContextID:sceneIdentifier:forKeyboard:withLevel: sceneID: com.apple.appleseed.FeedbackAssistant; -1208232678/YES/3.000000
+2018-11-28 18:10:29 +0000: Debug: [_UIKeyboardArbiter] Updating scene to com.apple.appleseed.FeedbackAssistant level 3.000000
+2018-11-28 18:10:29 +0000: Debug: [<_UIKeyboardArbiterHandle: 0x2831259e0; PID 359: com.apple.appleseed.FeedbackAssistant <com.apple.appleseed.FeedbackAssistant>; hosting PIDs {(
+)}; level 3.000000; active YES [wants YES]; suppression 0>] signalKeyboardChangeComplete
+2018-11-28 18:10:29 +0000: Debug: [<_UIKeyboardArbiterHandle: 0x28315cf30; PID 52: com.apple.springboard <com.apple.springboard>; hosting PIDs {(
+    318,
+    319,
+    317
+)}; level 0.000000; active NO [wants YES]; suppression 0>] requested process assertion (count=1)
+2018-11-28 18:10:29 +0000: Debug: [<_UIKeyboardArbiterHandle: 0x2831253b0; PID 318: com.apple.AppPredictionWidget.extension <(null)>; hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0>] requested process assertion (count=1)
+2018-11-28 18:10:29 +0000: Debug: [<_UIKeyboardArbiterHandle: 0x283125560; PID 317: com.apple.UpNextWidget.extension <(null)>; hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0>] requested process assertion (count=1)
+2018-11-28 18:10:29 +0000: Debug: [<_UIKeyboardArbiterHandle: 0x283125170; PID 319: com.apple.ScreenTimeUI.ScreenTimeWidget <(null)>; hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0>] requested process assertion (count=1)
+2018-11-28 18:10:29 +0000: Debug: [<_UIKeyboardArbiterHandle: 0x28313def0; PID 349: (null) <(null)>; hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0>] requested process assertion (count=1)
+2018-11-28 18:10:29 +0000: Debug: [<_UIKeyboardArbiterHandle: 0x28313f3c0; PID 230: (null) <(null)>; hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0>] requested process assertion (count=2)
+2018-11-28 18:10:29 +0000: Debug: [<_UIKeyboardArbiterHandle: 0x28315cf30; PID 52: com.apple.springboard <com.apple.springboard>; hosting PIDs {(
+    318,
+    319,
+    317
+)}; level 0.000000; active NO [wants YES]; suppression 0>] took process assertion
+2018-11-28 18:10:29 +0000: Debug: [<_UIKeyboardArbiterHandle: 0x2831253b0; PID 318: com.apple.AppPredictionWidget.extension <(null)>; hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0>] took process assertion
+2018-11-28 18:10:29 +0000: Debug: [<_UIKeyboardArbiterHandle: 0x283125560; PID 317: com.apple.UpNextWidget.extension <(null)>; hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0>] took process assertion
+2018-11-28 18:10:29 +0000: Debug: [<_UIKeyboardArbiterHandle: 0x283125170; PID 319: com.apple.ScreenTimeUI.ScreenTimeWidget <(null)>; hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0>] took process assertion
+2018-11-28 18:10:29 +0000: Error: [<_UIKeyboardArbiterHandle: 0x28313def0; PID 349: (null) <(null)>; hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0>] could not take process assertion
+2018-11-28 18:10:29 +0000: Debug: [<_UIKeyboardArbiterHandle: 0x28315cf30; PID 52: com.apple.springboard <com.apple.springboard>; hosting PIDs {(
+    318,
+    319,
+    317
+)}; level 0.000000; active NO [wants YES]; suppression 0>] released process assertion (count=0)
+2018-11-28 18:10:29 +0000: Debug: [<_UIKeyboardArbiterHandle: 0x2831253b0; PID 318: com.apple.AppPredictionWidget.extension <(null)>; hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0>] released process assertion (count=0)
+2018-11-28 18:10:29 +0000: Debug: [<_UIKeyboardArbiterHandle: 0x283125560; PID 317: com.apple.UpNextWidget.extension <(null)>; hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0>] released process assertion (count=0)
+2018-11-28 18:10:29 +0000: Debug: [<_UIKeyboardArbiterHandle: 0x283125170; PID 319: com.apple.ScreenTimeUI.ScreenTimeWidget <(null)>; hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0>] released process assertion (count=0)
+2018-11-28 18:10:29 +0000: Debug: [<_UIKeyboardArbiterHandle: 0x28313def0; PID 349: (null) <(null)>; hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0>] released process assertion (count=0)
+2018-11-28 18:10:29 +0000: Debug: [<_UIKeyboardArbiterHandle: 0x28313f3c0; PID 230: (null) <(null)>; hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0>] released process assertion (count=1)
+2018-11-28 18:10:34 +0000: Error: [<_UIKeyboardArbiterHandle: 0x28313f3c0; PID 230: (null) <(null)>; hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0>] timed out with 1 assertions remaining, disconnecting
+2018-11-28 18:10:34 +0000: Debug: [_UIKeyboardArbiter] Lost connection [<_UIKeyboardArbiterHandle: 0x28313f3c0; PID 230: (null) <(null)>; hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0>]
+2018-11-28 18:10:34 +0000: Error: -[_UIKeyboardArbiter runOperations:onHandler:]_block_invoke Failed to access <_UIKeyboardArbiterHandle: 0x28313f3c0; PID 230: (null) <(null)>; hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0> remote service: Error Domain=NSCocoaErrorDomain Code=4099 "The connection from pid 230 was invalidated from this process." UserInfo={NSDebugDescription=The connection from pid 230 was invalidated from this process.}
+2018-11-28 18:10:34 +0000: Info: HW kbd: currently com.apple.appleseed.FeedbackAssistant (com.apple.appleseed.FeedbackAssistant < com.apple.appleseed.FeedbackAssistant)
+2018-11-28 18:10:34 +0000: Debug: [<_UIKeyboardArbiterHandle: 0x28313f3c0; PID 230: (null) <(null)>; hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0>] invalidate
+2018-11-28 18:10:34 +0000: Debug: [<_UIKeyboardArbiterHandle: 0x28313f3c0; PID 230: (null) <(null)>; hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0>] setWindowContextID:sceneIdentifier:forKeyboard:withLevel: sceneID: (null); 0/NO/0.000000
+2018-11-28 18:10:34 +0000: Debug: [_UIKeyboardArbiter] Updating scene to com.apple.appleseed.FeedbackAssistant level 3.000000
+2018-11-28 18:10:38 +0000: Debug: [<_UIKeyboardArbiterHandle: 0x2831259e0; PID 359: com.apple.appleseed.FeedbackAssistant <com.apple.appleseed.FeedbackAssistant>; hosting PIDs {(
+)}; level 3.000000; active YES [wants YES]; suppression 0>] signalKeyboardChanged:onCompletion:: <<_UIKeyboardChangedInformation: 0x282746f40>; animation fence <BKSAnimationFenceHandle: 0x281624400; fenceName: 78; handleName: 52-127; usable: YES; trace: (52:43417:send_cp secCode) from (359:12f0f:send_cp copy) from (359:12f0f:send_cp copy) from (359:12f0f:send_cp copy) from (359:12f0f:send_cp xpcCode) from (56:5c15f:send_cp make) from (56:5c15f:receive init)>; position {{0, 0}, {0, 0}} (with IAV same); on screen NO>
+2018-11-28 18:10:38 +0000: Debug: [<_UIKeyboardArbiterHandle: 0x28315cf30; PID 52: com.apple.springboard <com.apple.springboard>; hosting PIDs {(
+    318,
+    319,
+    317
+)}; level 0.000000; active NO [wants YES]; suppression 0>] requested process assertion (count=1)
+2018-11-28 18:10:38 +0000: Debug: [<_UIKeyboardArbiterHandle: 0x2831253b0; PID 318: com.apple.AppPredictionWidget.extension <(null)>; hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0>] requested process assertion (count=1)
+2018-11-28 18:10:38 +0000: Debug: [<_UIKeyboardArbiterHandle: 0x283125560; PID 317: com.apple.UpNextWidget.extension <(null)>; hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0>] requested process assertion (count=1)
+2018-11-28 18:10:38 +0000: Debug: [<_UIKeyboardArbiterHandle: 0x283125170; PID 319: com.apple.ScreenTimeUI.ScreenTimeWidget <(null)>; hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0>] requested process assertion (count=1)
+2018-11-28 18:10:38 +0000: Debug: [<_UIKeyboardArbiterHandle: 0x28313def0; PID 349: (null) <(null)>; hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0>] requested process assertion (count=1)
+2018-11-28 18:10:38 +0000: Debug: [<_UIKeyboardArbiterHandle: 0x28315cf30; PID 52: com.apple.springboard <com.apple.springboard>; hosting PIDs {(
+    318,
+    319,
+    317
+)}; level 0.000000; active NO [wants YES]; suppression 0>] requested process assertion (count=2)
+2018-11-28 18:10:38 +0000: Debug: [<_UIKeyboardArbiterHandle: 0x2831253b0; PID 318: com.apple.AppPredictionWidget.extension <(null)>; hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0>] requested process assertion (count=2)
+2018-11-28 18:10:38 +0000: Debug: [<_UIKeyboardArbiterHandle: 0x283125560; PID 317: com.apple.UpNextWidget.extension <(null)>; hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0>] requested process assertion (count=2)
+2018-11-28 18:10:38 +0000: Debug: [<_UIKeyboardArbiterHandle: 0x283125170; PID 319: com.apple.ScreenTimeUI.ScreenTimeWidget <(null)>; hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0>] requested process assertion (count=2)
+2018-11-28 18:10:38 +0000: Debug: [<_UIKeyboardArbiterHandle: 0x28313def0; PID 349: (null) <(null)>; hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0>] requested process assertion (count=2)
+2018-11-28 18:10:38 +0000: Debug: [<_UIKeyboardArbiterHandle: 0x2831259e0; PID 359: com.apple.appleseed.FeedbackAssistant <com.apple.appleseed.FeedbackAssistant>; hosting PIDs {(
+)}; level 3.000000; active YES [wants YES]; suppression 0>] requested process assertion (count=1)
+2018-11-28 18:10:38 +0000: Debug: [<_UIKeyboardArbiterHandle: 0x2831253b0; PID 318: com.apple.AppPredictionWidget.extension <(null)>; hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0>] released process assertion (count=1)
+2018-11-28 18:10:38 +0000: Debug: [<_UIKeyboardArbiterHandle: 0x283125560; PID 317: com.apple.UpNextWidget.extension <(null)>; hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0>] released process assertion (count=1)
+2018-11-28 18:10:38 +0000: Debug: [<_UIKeyboardArbiterHandle: 0x28315cf30; PID 52: com.apple.springboard <com.apple.springboard>; hosting PIDs {(
+    318,
+    319,
+    317
+)}; level 0.000000; active NO [wants YES]; suppression 0>] took process assertion
+2018-11-28 18:10:38 +0000: Debug: [<_UIKeyboardArbiterHandle: 0x2831253b0; PID 318: com.apple.AppPredictionWidget.extension <(null)>; hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0>] took process assertion
+2018-11-28 18:10:38 +0000: Debug: [<_UIKeyboardArbiterHandle: 0x283125560; PID 317: com.apple.UpNextWidget.extension <(null)>; hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0>] took process assertion
+2018-11-28 18:10:38 +0000: Debug: [<_UIKeyboardArbiterHandle: 0x283125170; PID 319: com.apple.ScreenTimeUI.ScreenTimeWidget <(null)>; hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0>] took process assertion
+2018-11-28 18:10:38 +0000: Error: [<_UIKeyboardArbiterHandle: 0x28313def0; PID 349: (null) <(null)>; hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0>] could not take process assertion
+2018-11-28 18:10:38 +0000: Debug: [<_UIKeyboardArbiterHandle: 0x283125560; PID 317: com.apple.UpNextWidget.extension <(null)>; hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0>] released process assertion (count=0)
+2018-11-28 18:10:38 +0000: Debug: [<_UIKeyboardArbiterHandle: 0x2831259e0; PID 359: com.apple.appleseed.FeedbackAssistant <com.apple.appleseed.FeedbackAssistant>; hosting PIDs {(
+)}; level 3.000000; active YES [wants YES]; suppression 0>] took process assertion
+2018-11-28 18:10:38 +0000: Debug: [<_UIKeyboardArbiterHandle: 0x2831253b0; PID 318: com.apple.AppPredictionWidget.extension <(null)>; hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0>] released process assertion (count=0)
+2018-11-28 18:10:38 +0000: Debug: [<_UIKeyboardArbiterHandle: 0x283125170; PID 319: com.apple.ScreenTimeUI.ScreenTimeWidget <(null)>; hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0>] released process assertion (count=1)
+2018-11-28 18:10:38 +0000: Debug: [<_UIKeyboardArbiterHandle: 0x28313def0; PID 349: (null) <(null)>; hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0>] released process assertion (count=1)
+2018-11-28 18:10:38 +0000: Debug: [<_UIKeyboardArbiterHandle: 0x283125170; PID 319: com.apple.ScreenTimeUI.ScreenTimeWidget <(null)>; hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0>] released process assertion (count=0)
+2018-11-28 18:10:38 +0000: Debug: [<_UIKeyboardArbiterHandle: 0x28313def0; PID 349: (null) <(null)>; hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0>] released process assertion (count=0)
+2018-11-28 18:10:38 +0000: Debug: [<_UIKeyboardArbiterHandle: 0x28315cf30; PID 52: com.apple.springboard <com.apple.springboard>; hosting PIDs {(
+    318,
+    319,
+    317
+)}; level 0.000000; active NO [wants YES]; suppression 0>] released process assertion (count=1)
+2018-11-28 18:10:38 +0000: Debug: [<_UIKeyboardArbiterHandle: 0x2831259e0; PID 359: com.apple.appleseed.FeedbackAssistant <com.apple.appleseed.FeedbackAssistant>; hosting PIDs {(
+)}; level 3.000000; active YES [wants YES]; suppression 0>] released process assertion (count=0)
+2018-11-28 18:10:38 +0000:
+	<_UIKeyboardArbiterHandle: 0x28313ff00; PID 350: com.apple.UIKit.ShareUI <(null)> (suspended); hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0>:
+	 -> State: Inactive  
+		 Process: Suspended
+	<_UIKeyboardArbiter: 0x282d01780; <<_UIKeyboardArbiter_ForSpringBoard: 0x28032d560>; workspace = <SBUIWorkspace: 0x2816e4280; identifier: com.apple.UIKit.KeyboardManagement.hosted> {
+    clientQueue = <FBSSerialQueue: 0x2827636c0; dispatchQueue: com.apple.UIKit.keyboard-arbiter>;
+    scenes = {
+        <SBUIScene: 0x28196a680; identifier: com.apple.UIKit.remote-keyboard> {
+            layers = {
+                <FBSCAContextSceneLayer: 0x281b95a00; contextID: 0xb7fbd51a (3086734618); level: 0.0>;
+            }
+            settings = <FBSSceneSettings: 0x282875810> {
+                displayConfiguration = "<FBSDisplayConfiguration: 0x283a6c2a0; Main; mode: "375x667@2x 60Hz p3 SDR">";
+                frame = {{0, 0}, {375, 667}};
+                level = 15.0;
+                interfaceOrientation = unknown (0);
+                backgrounded = YES;
+            };
+            clientSettings = <FBSSceneClientSettings: 0x280de8600> {
+                preferredLevel = 3.0;
+                preferredInterfaceOrientation = unknown (0);
+                preferredSceneHostIdentifier = com.apple.appleseed.FeedbackAssistant;
+            };
+        };
+    }
+}; scene = <SBUIScene: 0x28196a680; identifier: com.apple.UIKit.remote-keyboard> {
+    layers = {
+        <FBSCAContextSceneLayer: 0x281b95a00; contextID: 0xb7fbd51a (3086734618); level: 0.0>;
+    }
+    settings = <FBSSceneSettings: 0x282875810> {
+        displayConfiguration = "<FBSDisplayConfiguration: 0x283a6c2a0; Main; mode: "375x667@2x 60Hz p3 SDR">";
+        frame = {{0, 0}, {375, 667}};
+        level = 15.0;
+        interfaceOrientation = unknown (0);
+        backgrounded = YES;
+    };
+    clientSettings = <FBSSceneClientSettings: 0x280de8600> {
+        preferredLevel = 3.0;
+        preferredInterfaceOrientation = unknown (0);
+        preferredSceneHostIdentifier = com.apple.appleseed.FeedbackAssistant;
+    };
+}>;
+disabler = (null);
+current state = (null);
+active handle = (null);
+handles = (
+    "<_UIKeyboardArbiterHandle: 0x28315cf30; PID 52: com.apple.springboard <com.apple.springboard>; hosting PIDs {(\n    318,\n    319,\n    317\n)}; level 0.000000; active NO [wants YES]; suppression 0>",
+    "<_UIKeyboardArbiterHandle: 0x2831253b0; PID 318: com.apple.AppPredictionWidget.extension <(null)>; hosting PIDs {(\n)}; level 0.000000; active NO [wants NO]; suppression 0>",
+    "<_UIKeyboardArbiterHandle: 0x283125560; PID 317: com.apple.UpNextWidget.extension <(null)>; hosting PIDs {(\n)}; level 0.000000; active NO [wants NO]; suppression 0>",
+    "<_UIKeyboardArbiterHandle: 0x283125170; PID 319: com.apple.ScreenTimeUI.ScreenTimeWidget <(null)>; hosting PIDs {(\n)}; level 0.000000; active NO [wants NO]; suppression 0>",
+    "<_UIKeyboardArbiterHandle: 0x28313def0; PID 349: (null) <(null)>; hosting PIDs {(\n)}; level 0.000000; active NO [wants NO]; suppression 0>",
+    "<_UIKeyboardArbiterHandle: 0x28313ff00; PID 350: com.apple.UIKit.ShareUI <(null)> (suspended); hosting PIDs {(\n)}; level 0.000000; active NO [wants NO]; suppression 0>",
+    "<_UIKeyboardArbiterHandle: 0x2831259e0; PID 359: com.apple.appleseed.FeedbackAssistant <com.apple.appleseed.FeedbackAssistant>; hosting PIDs {(\n)}; level 3.000000; active YES [wants YES]; suppression 0>"
+)>:
+	 -> State: Inactive  
+	<_UIKeyboardArbiterHandle: 0x283125560; PID 317: com.apple.UpNextWidget.extension <(null)>; hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0>:
+	 -> State: Inactive  
+		 UIApp.interfaceOrientation: 1
+		 automaticAppearance: en YES / int YES
+		 effectsWindow: UITextEffectsWindowHosted
+		 keyboardWindow.frame: {{0, 0}, {375, 667}}
+		 placementKeyboard: UIInputViewSetPlacementOffScreenDown
+		 keyboardWindow: UIRemoteKeyboardWindowHosted
+		 effectsHosting: 1
+		 placementEffects: UIInputViewSetPlacementOffScreenDown
+	<_UIKeyboardArbiterHandle: 0x2831253b0; PID 318: com.apple.AppPredictionWidget.extension <(null)>; hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0>:
+	 -> State: Inactive  
+		 UIApp.interfaceOrientation: 1
+		 automaticAppearance: en YES / int YES
+		 effectsWindow: UITextEffectsWindowHosted
+		 keyboardWindow.frame: {{0, 0}, {375, 667}}
+		 placementKeyboard: UIInputViewSetPlacementOffScreenDown
+		 keyboardWindow: UIRemoteKeyboardWindowHosted
+		 effectsHosting: 1
+		 placementEffects: UIInputViewSetPlacementOffScreenDown
+	<_UIKeyboardArbiterHandle: 0x283125170; PID 319: com.apple.ScreenTimeUI.ScreenTimeWidget <(null)>; hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0>:
+	 -> State: Inactive  
+		 UIApp.interfaceOrientation: 1
+		 automaticAppearance: en YES / int YES
+		 effectsWindow: UITextEffectsWindowHosted
+		 keyboardWindow.frame: {{0, 0}, {375, 667}}
+		 placementKeyboard: UIInputViewSetPlacementOffScreenDown
+		 keyboardWindow: UIRemoteKeyboardWindowHosted
+		 effectsHosting: 1
+		 placementEffects: UIInputViewSetPlacementOffScreenDown
+	<_UIKeyboardArbiterHandle: 0x28313def0; PID 349: (null) <(null)>; hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0>:
+	 -> State: Inactive  
+		 Special: druid
+	<_UIKeyboardArbiterHandle: 0x28315cf30; PID 52: com.apple.springboard <com.apple.springboard>; hosting PIDs {(
+    318,
+    319,
+    317
+)}; level 0.000000; active NO [wants YES]; suppression 0>:
+	 -> State: Inactive  
+		 rotateVC: SBMainSwitcherViewController
+		 rotateVC.supportedInterfaceOrientations: 2
+		 rotateWindow.frame: {{0, 0}, {375, 667}}
+		 rotateWindow.interfaceOrientation: 1
+		 automaticAppearance: en YES / int YES
+		 UIApp.interfaceOrientation: 1
+		 keyWindow: SBMainSwitcherWindow
+		 keyboardWindow.frame: {{0, 0}, {375, 667}}
+		 keyWindow.interfaceOrientation: 1
+		 rotateWindow: SBMainSwitcherWindow
+		 placementKeyboard: UIInputViewSetPlacementOffScreenDown
+		 keyWindow.frame: {{0, 0}, {375, 667}}
+		 placementEffects: UIInputViewSetPlacementOffScreenDown
+		 rotateVC.interfaceOrientation: 1
+	<_UIKeyboardArbiterHandle: 0x2831259e0; PID 359: com.apple.appleseed.FeedbackAssistant <com.apple.appleseed.FeedbackAssistant>; hosting PIDs {(
+)}; level 3.000000; active YES [wants YES]; suppression 0>:
+	 -> State: Inactive HW-KBD-focus CMD-KBD-focus
+		 placementKeyboard: UIInputViewSetPlacementOffScreenDown
+		 keyWindow: UIWindow
+		 currentKeyboard: numbers-and-punctuation
+		 UIApp.interfaceOrientation: 1
+		 rotateWindow.interfaceOrientation: 1
+		 rotateVC.supportedInterfaceOrientations: 6
+		 rotateWindow: UIWindow
+		 keyboardWindow.frame: {{0, 0}, {375, 667}}
+		 keyWindow.frame: {{0, 0}, {375, 667}}
+		 automaticAppearance: en YES / int YES
+		 inputViews.keyboard: UIKeyboardAutomatic
+		 keyWindow.interfaceOrientation: 1
+		 rotateWindow.frame: {{0, 0}, {375, 667}}
+		 inputViews.inputView: _UIKBCompatInputView
+		 inputViews.inputViewController: UICompatibilityInputViewController
+		 rotateVC.interfaceOrientation: 1
+		 rotateVC: FBALoginFlowViewController
+		 placementEffects: UIInputViewSetPlacementOffScreenDown
+2018-11-28 18:10:38 +0000: Debug: [<_UIKeyboardArbiterHandle: 0x28315cf30; PID 52: com.apple.springboard <com.apple.springboard>; hosting PIDs {(
+    318,
+    319,
+    317
+)}; level 0.000000; active NO [wants YES]; suppression 0>] released process assertion (count=0)
+2018-11-28 18:10:39 +0000: Debug: [<_UIKeyboardArbiterHandle: 0x2831259e0; PID 359: com.apple.appleseed.FeedbackAssistant <com.apple.appleseed.FeedbackAssistant>; hosting PIDs {(
+)}; level 3.000000; active YES [wants YES]; suppression 0>] setWindowContextID:sceneIdentifier:forKeyboard:withLevel: sceneID: com.apple.appleseed.FeedbackAssistant; -1208232678/NO/3.000000
+2018-11-28 18:10:39 +0000: Debug: [_UIKeyboardArbiter] Detaching [<_UIKeyboardArbiterHandle: 0x2831259e0; PID 359: com.apple.appleseed.FeedbackAssistant <com.apple.appleseed.FeedbackAssistant>; hosting PIDs {(
+)}; level 3.000000; active YES [wants NO]; suppression 0>] <FBSCAContextSceneLayer: 0x281b95a00; contextID: 0xb7fbd51a (3086734618); level: 0.0>
+2018-11-28 18:10:39 +0000: Info: HW kbd: currently com.apple.appleseed.FeedbackAssistant ((null) < com.apple.appleseed.FeedbackAssistant)
+2018-11-28 18:10:39 +0000: Debug: [_UIKeyboardArbiter] Updating scene to (null) level 2.000000
+2018-11-28 18:10:39 +0000: Debug: [<_UIKeyboardArbiterHandle: 0x28315cf30; PID 52: com.apple.springboard <com.apple.springboard>; hosting PIDs {(
+    318,
+    319,
+    317
+)}; level 0.000000; active NO [wants YES]; suppression 0>] setWindowContextID:sceneIdentifier:forKeyboard:withLevel: sceneID: com.apple.springboard; 2030026911/YES/0.000000
+2018-11-28 18:10:39 +0000: Error: [_UIKeyboardArbiter] Rejecting attach for <_UIKeyboardArbiterHandle: 0x28315cf30; PID 52: com.apple.springboard <com.apple.springboard>; hosting PIDs {(
+    318,
+    319,
+    317
+)}; level 0.000000; active NO [wants YES]; suppression 0> (currently (null))
+2018-11-28 18:10:39 +0000: Debug: [_UIKeyboardArbiter] Updating scene to (null) level 2.000000
+2018-11-28 18:10:39 +0000: Debug: [<_UIKeyboardArbiterHandle: 0x2831259e0; PID 359: com.apple.appleseed.FeedbackAssistant <com.apple.appleseed.FeedbackAssistant>; hosting PIDs {(
+)}; level 3.000000; active NO [wants NO]; suppression 0>] setWindowContextID:sceneIdentifier:forKeyboard:withLevel: sceneID: com.apple.appleseed.FeedbackAssistant; 0/NO/3.000000
+2018-11-28 18:10:39 +0000: Debug: [<_UIKeyboardArbiterHandle: 0x2831259e0; PID 359: com.apple.appleseed.FeedbackAssistant <com.apple.appleseed.FeedbackAssistant>; hosting PIDs {(
+)}; level 3.000000; active NO [wants NO]; suppression 0>] Releasing: <FBSCAContextSceneLayer: 0x281b95a00; contextID: 0xb7fbd51a (3086734618); level: 0.0>
+2018-11-28 18:10:39 +0000: Debug: [_UIKeyboardArbiter] Updating scene to (null) level 2.000000
+2018-11-28 18:10:42 +0000: Debug: [_UIKeyboardArbiter] Received new connection [<_UIKeyboardArbiterHandle: 0x283127f00; PID 360: com.apple.SafariViewService <(null)>; hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0>]
+2018-11-28 18:10:42 +0000: Debug: [<_UIKeyboardArbiterHandle: 0x283127f00; PID 360: com.apple.SafariViewService <(null)>; hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0>] startArbitrationWithExpectedState:hostingPIDs:usingFence:withSuppression:onConnected:: (null), (
+)
+2018-11-28 18:10:42 +0000: Debug: [<_UIKeyboardArbiterHandle: 0x2831259e0; PID 359: com.apple.appleseed.FeedbackAssistant <(null)>; hosting PIDs {(
+)}; level 3.000000; active NO [wants NO]; suppression 0>] requested process assertion (count=1)
+2018-11-28 18:10:42 +0000: Info: HW kbd: currently com.apple.appleseed.FeedbackAssistant ((null) < com.apple.SafariViewService)
+2018-11-28 18:10:42 +0000: Debug: [<_UIKeyboardArbiterHandle: 0x2831259e0; PID 359: com.apple.appleseed.FeedbackAssistant <(null)>; hosting PIDs {(
+)}; level 3.000000; active NO [wants NO]; suppression 0>] released process assertion (count=0)
+2018-11-28 18:10:42 +0000: Info: HW kbd: Keyboard set successfully: com.apple.SafariViewService
+2018-11-28 18:10:42 +0000: Debug: [<_UIKeyboardArbiterHandle: 0x2831259e0; PID 359: com.apple.appleseed.FeedbackAssistant <(null)>; hosting PIDs {(
+)}; level 3.000000; active NO [wants NO]; suppression 0>] took process assertion
+2018-11-28 18:10:42 +0000: Debug: [<_UIKeyboardArbiterHandle: 0x283127f00; PID 360: com.apple.SafariViewService <(null)> (suspended); hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0>] suspended
+2018-11-28 18:10:45 +0000: Debug: [<_UIKeyboardArbiterHandle: 0x2831259e0; PID 359: com.apple.appleseed.FeedbackAssistant <(null)>; hosting PIDs {(
+)}; level 3.000000; active NO [wants NO]; suppression 0>] applicationShouldFocusWithBundle:onCompletion: <(null)>
+2018-11-28 18:10:45 +0000: Info: HW kbd: currently com.apple.SafariViewService ((null) < com.apple.appleseed.FeedbackAssistant)
+2018-11-28 18:10:45 +0000: Info: HW kbd: Keyboard set successfully: com.apple.appleseed.FeedbackAssistant
+2018-11-28 18:10:45 +0000: Debug: [_UIKeyboardArbiter] Received new connection [<_UIKeyboardArbiterHandle: 0x28313f720; PID 230: (null) <(null)>; hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0>]
+2018-11-28 18:10:45 +0000: Debug: [<_UIKeyboardArbiterHandle: 0x28313f720; PID 230: (null) <(null)>; hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0>] startArbitrationWithExpectedState:hostingPIDs:usingFence:withSuppression:onConnected:: (null), (
+)
+2018-11-28 18:10:45 +0000: Debug: [<_UIKeyboardArbiterHandle: 0x2831259e0; PID 359: com.apple.appleseed.FeedbackAssistant <(null)>; hosting PIDs {(
+)}; level 3.000000; active NO [wants NO]; suppression 0>] requested process assertion (count=1)
+2018-11-28 18:10:45 +0000: Info: HW kbd: currently com.apple.appleseed.FeedbackAssistant ((null) < (null))
+2018-11-28 18:10:45 +0000: Debug: [<_UIKeyboardArbiterHandle: 0x2831259e0; PID 359: com.apple.appleseed.FeedbackAssistant <(null)>; hosting PIDs {(
+)}; level 3.000000; active NO [wants NO]; suppression 0>] released process assertion (count=0)
+2018-11-28 18:10:45 +0000: Error: HW kbd: Failed to set (null) as keyboard focus
+2018-11-28 18:10:45 +0000: Debug: [<_UIKeyboardArbiterHandle: 0x2831259e0; PID 359: com.apple.appleseed.FeedbackAssistant <(null)>; hosting PIDs {(
+)}; level 3.000000; active NO [wants NO]; suppression 0>] took process assertion
+2018-11-28 18:10:55 +0000: Debug: [<_UIKeyboardArbiterHandle: 0x2831259e0; PID 359: com.apple.appleseed.FeedbackAssistant <(null)>; hosting PIDs {(
+)}; level 3.000000; active NO [wants NO]; suppression 0>] applicationShouldFocusWithBundle:onCompletion: <(null)>
+2018-11-28 18:10:55 +0000: Debug: [<_UIKeyboardArbiterHandle: 0x28313f720; PID 230: (null) <(null)>; hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0>] requested process assertion (count=1)
+2018-11-28 18:10:55 +0000: Info: HW kbd: currently (null) ((null) < com.apple.appleseed.FeedbackAssistant)
+2018-11-28 18:10:55 +0000: Info: HW kbd: Keyboard set successfully: com.apple.appleseed.FeedbackAssistant
+2018-11-28 18:10:55 +0000: Error: [<_UIKeyboardArbiterHandle: 0x28313f720; PID 230: (null) <(null)>; hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0>] could not take process assertion
+2018-11-28 18:10:55 +0000: Debug: [<_UIKeyboardArbiterHandle: 0x28313f720; PID 230: (null) <(null)>; hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0>] released process assertion (count=0)
+2018-11-28 18:10:58 +0000: Debug: [_UIKeyboardArbiter] Received new connection [<_UIKeyboardArbiterHandle: 0x283124090; PID 372: com.apple.mobileslideshow.photo-picker <(null)>; hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0>]
+2018-11-28 18:10:58 +0000: Debug: [<_UIKeyboardArbiterHandle: 0x283124090; PID 372: com.apple.mobileslideshow.photo-picker <(null)>; hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0>] startArbitrationWithExpectedState:hostingPIDs:usingFence:withSuppression:onConnected:: (null), (
+)
+2018-11-28 18:10:58 +0000: Debug: [<_UIKeyboardArbiterHandle: 0x2831259e0; PID 359: com.apple.appleseed.FeedbackAssistant <(null)>; hosting PIDs {(
+)}; level 3.000000; active NO [wants NO]; suppression 0>] requested process assertion (count=1)
+2018-11-28 18:10:58 +0000: Info: HW kbd: currently com.apple.appleseed.FeedbackAssistant ((null) < com.apple.mobileslideshow.photo-picker)
+2018-11-28 18:10:58 +0000: Debug: [<_UIKeyboardArbiterHandle: 0x2831259e0; PID 359: com.apple.appleseed.FeedbackAssistant <(null)>; hosting PIDs {(
+)}; level 3.000000; active NO [wants NO]; suppression 0>] released process assertion (count=0)
+2018-11-28 18:10:58 +0000: Error: HW kbd: Failed to set com.apple.mobileslideshow.photo-picker as keyboard focus
+2018-11-28 18:10:58 +0000: Debug: [<_UIKeyboardArbiterHandle: 0x2831259e0; PID 359: com.apple.appleseed.FeedbackAssistant <(null)>; hosting PIDs {(
+)}; level 3.000000; active NO [wants NO]; suppression 0>] took process assertion
+2018-11-28 18:10:58 +0000: Debug: [<_UIKeyboardArbiterHandle: 0x2831259e0; PID 359: com.apple.appleseed.FeedbackAssistant <(null)>; hosting PIDs {(
+)}; level 3.000000; active NO [wants NO]; suppression 0>] setWindowHostingPID:active:: 372/YES
+2018-11-28 18:10:58 +0000: Debug: [<_UIKeyboardArbiterHandle: 0x2831259e0; PID 359: com.apple.appleseed.FeedbackAssistant <(null)>; hosting PIDs {(
+    372
+)}; level 3.000000; active NO [wants NO]; suppression 0>] setWindowContextID:sceneIdentifier:forKeyboard:withLevel: sceneID: com.apple.appleseed.FeedbackAssistant; 909107577/YES/3.000000
+2018-11-28 18:10:58 +0000: Debug: [<_UIKeyboardArbiterHandle: 0x2831259e0; PID 359: com.apple.appleseed.FeedbackAssistant <(null)>; hosting PIDs {(
+    372
+)}; level 3.000000; active NO [wants YES]; suppression 0>] Created: <FBSCAContextSceneLayer: 0x281b90180; contextID: 0x362fe179 (909107577); level: 0.0>
+2018-11-28 18:10:58 +0000: Error: [_UIKeyboardArbiter] Rejecting attach for <_UIKeyboardArbiterHandle: 0x2831259e0; PID 359: com.apple.appleseed.FeedbackAssistant <com.apple.appleseed.FeedbackAssistant>; hosting PIDs {(
+    372
+)}; level 3.000000; active NO [wants YES]; suppression 0> (currently (null))
+2018-11-28 18:10:58 +0000: Debug: [_UIKeyboardArbiter] Updating scene to (null) level 2.000000
+2018-11-28 18:10:58 +0000: Debug: [<_UIKeyboardArbiterHandle: 0x2831259e0; PID 359: com.apple.appleseed.FeedbackAssistant <com.apple.appleseed.FeedbackAssistant>; hosting PIDs {(
+    372
+)}; level 3.000000; active NO [wants YES]; suppression 0>] setWindowContextID:sceneIdentifier:forKeyboard:withLevel: sceneID: com.apple.appleseed.FeedbackAssistant; 909107577/YES/3.000000
+2018-11-28 18:10:58 +0000: Error: [_UIKeyboardArbiter] Rejecting attach for <_UIKeyboardArbiterHandle: 0x2831259e0; PID 359: com.apple.appleseed.FeedbackAssistant <com.apple.appleseed.FeedbackAssistant>; hosting PIDs {(
+    372
+)}; level 3.000000; active NO [wants YES]; suppression 0> (currently (null))
+2018-11-28 18:10:58 +0000: Debug: [_UIKeyboardArbiter] Updating scene to (null) level 2.000000
+2018-11-28 18:10:58 +0000: Debug: [<_UIKeyboardArbiterHandle: 0x2831259e0; PID 359: com.apple.appleseed.FeedbackAssistant <com.apple.appleseed.FeedbackAssistant>; hosting PIDs {(
+    372
+)}; level 3.000000; active NO [wants YES]; suppression 0>] setWindowContextID:sceneIdentifier:forKeyboard:withLevel: sceneID: com.apple.appleseed.FeedbackAssistant; 909107577/YES/3.000000
+2018-11-28 18:10:58 +0000: Error: [_UIKeyboardArbiter] Rejecting attach for <_UIKeyboardArbiterHandle: 0x2831259e0; PID 359: com.apple.appleseed.FeedbackAssistant <com.apple.appleseed.FeedbackAssistant>; hosting PIDs {(
+    372
+)}; level 3.000000; active NO [wants YES]; suppression 0> (currently (null))
+2018-11-28 18:10:58 +0000: Debug: [_UIKeyboardArbiter] Updating scene to (null) level 2.000000
+2018-11-28 18:10:59 +0000: Debug: [<_UIKeyboardArbiterHandle: 0x2831259e0; PID 359: com.apple.appleseed.FeedbackAssistant <com.apple.appleseed.FeedbackAssistant>; hosting PIDs {(
+    372
+)}; level 3.000000; active NO [wants YES]; suppression 0>] applicationShouldFocusWithBundle:onCompletion: <(null)>
+2018-11-28 18:10:59 +0000: Debug: [<_UIKeyboardArbiterHandle: 0x283124090; PID 372: com.apple.mobileslideshow.photo-picker <(null)>; hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0>] requested process assertion (count=1)
+2018-11-28 18:10:59 +0000: Info: HW kbd: currently (null) ((null) < com.apple.appleseed.FeedbackAssistant)
+2018-11-28 18:10:59 +0000: Debug: [<_UIKeyboardArbiterHandle: 0x283124090; PID 372: com.apple.mobileslideshow.photo-picker <(null)>; hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0>] took process assertion
+2018-11-28 18:10:59 +0000: Debug: [<_UIKeyboardArbiterHandle: 0x283124090; PID 372: com.apple.mobileslideshow.photo-picker <(null)>; hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0>] released process assertion (count=0)
+2018-11-28 18:10:59 +0000: Info: HW kbd: Keyboard set successfully: com.apple.appleseed.FeedbackAssistant
+2018-11-28 18:10:59 +0000: Debug: [<_UIKeyboardArbiterHandle: 0x2831259e0; PID 359: com.apple.appleseed.FeedbackAssistant <com.apple.appleseed.FeedbackAssistant>; hosting PIDs {(
+    372
+)}; level 3.000000; active NO [wants YES]; suppression 0>] setWindowContextID:sceneIdentifier:forKeyboard:withLevel: sceneID: com.apple.appleseed.FeedbackAssistant; 909107577/YES/3.000000
+2018-11-28 18:10:59 +0000: Error: [_UIKeyboardArbiter] Rejecting attach for <_UIKeyboardArbiterHandle: 0x2831259e0; PID 359: com.apple.appleseed.FeedbackAssistant <com.apple.appleseed.FeedbackAssistant>; hosting PIDs {(
+    372
+)}; level 3.000000; active NO [wants YES]; suppression 0> (currently (null))
+2018-11-28 18:10:59 +0000: Debug: [_UIKeyboardArbiter] Updating scene to (null) level 2.000000
+2018-11-28 18:10:59 +0000: Debug: [<_UIKeyboardArbiterHandle: 0x2831259e0; PID 359: com.apple.appleseed.FeedbackAssistant <com.apple.appleseed.FeedbackAssistant>; hosting PIDs {(
+    372
+)}; level 3.000000; active NO [wants YES]; suppression 0>] setWindowHostingPID:active:: 372/NO
+2018-11-28 18:11:02 +0000: Debug: [_UIKeyboardArbiter] Received new connection [<_UIKeyboardArbiterHandle: 0x283125b90; PID 373: (null) <(null)>; hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0>]
+2018-11-28 18:11:02 +0000: Debug: [<_UIKeyboardArbiterHandle: 0x283125b90; PID 373: (null) <(null)>; hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0>] retrieveMoreDebugInformationWithCompletion:
+	<_UIKeyboardArbiterHandle: 0x28313ff00; PID 350: com.apple.UIKit.ShareUI <(null)> (suspended); hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0>:
+	 -> State: Inactive  
+		 Process: Suspended
+	<_UIKeyboardArbiterHandle: 0x283127f00; PID 360: com.apple.SafariViewService <(null)> (suspended); hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0>:
+	 -> State: Inactive  
+		 Process: Suspended
+	<_UIKeyboardArbiter: 0x282d01780; <<_UIKeyboardArbiter_ForSpringBoard: 0x28032d560>; workspace = <SBUIWorkspace: 0x2816e4280; identifier: com.apple.UIKit.KeyboardManagement.hosted> {
+    clientQueue = <FBSSerialQueue: 0x2827636c0; dispatchQueue: com.apple.UIKit.keyboard-arbiter>;
+    scenes = {
+        <SBUIScene: 0x28196a680; identifier: com.apple.UIKit.remote-keyboard> {
+            settings = <FBSSceneSettings: 0x2828d8070> {
+                displayConfiguration = "<FBSDisplayConfiguration: 0x283a6c2a0; Main; mode: "375x667@2x 60Hz p3 SDR">";
+                frame = {{0, 0}, {375, 667}};
+                level = 2.0;
+                interfaceOrientation = unknown (0);
+                backgrounded = YES;
+            };
+            clientSettings = <FBSSceneClientSettings: 0x280c03180> {
+                preferredLevel = 2.0;
+                preferredInterfaceOrientation = unknown (0);
+                preferredSceneHostIdentifier = ;
+            };
+        };
+    }
+}; scene = <SBUIScene: 0x28196a680; identifier: com.apple.UIKit.remote-keyboard> {
+    settings = <FBSSceneSettings: 0x2828d8070> {
+        displayConfiguration = "<FBSDisplayConfiguration: 0x283a6c2a0; Main; mode: "375x667@2x 60Hz p3 SDR">";
+        frame = {{0, 0}, {375, 667}};
+        level = 2.0;
+        interfaceOrientation = unknown (0);
+        backgrounded = YES;
+    };
+    clientSettings = <FBSSceneClientSettings: 0x280c03180> {
+        preferredLevel = 2.0;
+        preferredInterfaceOrientation = unknown (0);
+        preferredSceneHostIdentifier = ;
+    };
+}>;
+disabler = (null);
+current state = (null);
+active handle = (null);
+handles = (
+    "<_UIKeyboardArbiterHandle: 0x28315cf30; PID 52: com.apple.springboard <com.apple.springboard>; hosting PIDs {(\n    318,\n    319,\n    317\n)}; level 0.000000; active NO [wants YES]; suppression 0>",
+    "<_UIKeyboardArbiterHandle: 0x2831253b0; PID 318: com.apple.AppPredictionWidget.extension <(null)>; hosting PIDs {(\n)}; level 0.000000; active NO [wants NO]; suppression 0>",
+    "<_UIKeyboardArbiterHandle: 0x283125560; PID 317: com.apple.UpNextWidget.extension <(null)>; hosting PIDs {(\n)}; level 0.000000; active NO [wants NO]; suppression 0>",
+    "<_UIKeyboardArbiterHandle: 0x283125170; PID 319: com.apple.ScreenTimeUI.ScreenTimeWidget <(null)>; hosting PIDs {(\n)}; level 0.000000; active NO [wants NO]; suppression 0>",
+    "<_UIKeyboardArbiterHandle: 0x28313def0; PID 349: (null) <(null)>; hosting PIDs {(\n)}; level 0.000000; active NO [wants NO]; suppression 0>",
+    "<_UIKeyboardArbiterHandle: 0x28313ff00; PID 350: com.apple.UIKit.ShareUI <(null)> (suspended); hosting PIDs {(\n)}; level 0.000000; active NO [wants NO]; suppression 0>",
+    "<_UIKeyboardArbiterHandle: 0x2831259e0; PID 359: com.apple.appleseed.FeedbackAssistant <com.apple.appleseed.FeedbackAssistant>; hosting PIDs {(\n)}; level 3.000000; active NO [wants YES]; suppression 0>",
+    "<_UIKeyboardArbiterHandle: 0x283127f00; PID 360: com.apple.SafariViewService <(null)> (suspended); hosting PIDs {(\n)}; level 0.000000; active NO [wants NO]; suppression 0>",
+    "<_UIKeyboardArbiterHandle: 0x28313f720; PID 230: (null) <(null)>; hosting PIDs {(\n)}; level 0.000000; active NO [wants NO]; suppression 0>",
+    "<_UIKeyboardArbiterHandle: 0x283124090; PID 372: com.apple.mobileslideshow.photo-picker <(null)>; hosting PIDs {(\n)}; level 0.000000; active NO [wants NO]; suppression 0>",
+    "<_UIKeyboardArbiterHandle: 0x283125b90; PID 373: (null) <(null)>; hosting PIDs {(\n)}; level 0.000000; active NO [wants NO]; suppression 0>"
+)>:
+	 -> State: Inactive  
+	<_UIKeyboardArbiterHandle: 0x28315cf30; PID 52: com.apple.springboard <com.apple.springboard>; hosting PIDs {(
+    318,
+    319,
+    317
+)}; level 0.000000; active NO [wants YES]; suppression 0>:
+	 -> State: Inactive  
+		 rotateVC: SBMainSwitcherViewController
+		 rotateVC.supportedInterfaceOrientations: 2
+		 rotateWindow.frame: {{0, 0}, {375, 667}}
+		 rotateWindow.interfaceOrientation: 1
+		 automaticAppearance: en YES / int YES
+		 UIApp.interfaceOrientation: 1
+		 keyWindow: SBMainSwitcherWindow
+		 keyboardWindow.frame: {{0, 0}, {375, 667}}
+		 keyWindow.interfaceOrientation: 1
+		 rotateWindow: SBMainSwitcherWindow
+		 placementKeyboard: UIInputViewSetPlacementOffScreenDown
+		 keyWindow.frame: {{0, 0}, {375, 667}}
+		 placementEffects: UIInputViewSetPlacementOffScreenDown
+		 rotateVC.interfaceOrientation: 1
+	<_UIKeyboardArbiterHandle: 0x2831253b0; PID 318: com.apple.AppPredictionWidget.extension <(null)>; hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0>:
+	 -> State: Inactive  
+		 UIApp.interfaceOrientation: 1
+		 automaticAppearance: en YES / int YES
+		 effectsWindow: UITextEffectsWindowHosted
+		 keyboardWindow.frame: {{0, 0}, {375, 667}}
+		 placementKeyboard: UIInputViewSetPlacementOffScreenDown
+		 keyboardWindow: UIRemoteKeyboardWindowHosted
+		 effectsHosting: 1
+		 placementEffects: UIInputViewSetPlacementOffScreenDown
+	<_UIKeyboardArbiterHandle: 0x283125560; PID 317: com.apple.UpNextWidget.extension <(null)>; hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0>:
+	 -> State: Inactive  
+		 UIApp.interfaceOrientation: 1
+		 automaticAppearance: en YES / int YES
+		 effectsWindow: UITextEffectsWindowHosted
+		 keyboardWindow.frame: {{0, 0}, {375, 667}}
+		 placementKeyboard: UIInputViewSetPlacementOffScreenDown
+		 keyboardWindow: UIRemoteKeyboardWindowHosted
+		 effectsHosting: 1
+		 placementEffects: UIInputViewSetPlacementOffScreenDown
+	<_UIKeyboardArbiterHandle: 0x283125170; PID 319: com.apple.ScreenTimeUI.ScreenTimeWidget <(null)>; hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0>:
+	 -> State: Inactive  
+		 UIApp.interfaceOrientation: 1
+		 automaticAppearance: en YES / int YES
+		 effectsWindow: UITextEffectsWindowHosted
+		 keyboardWindow.frame: {{0, 0}, {375, 667}}
+		 placementKeyboard: UIInputViewSetPlacementOffScreenDown
+		 keyboardWindow: UIRemoteKeyboardWindowHosted
+		 effectsHosting: 1
+		 placementEffects: UIInputViewSetPlacementOffScreenDown
+	<_UIKeyboardArbiterHandle: 0x2831259e0; PID 359: com.apple.appleseed.FeedbackAssistant <com.apple.appleseed.FeedbackAssistant>; hosting PIDs {(
+)}; level 3.000000; active NO [wants YES]; suppression 0>:
+	 -> State: Inactive  CMD-KBD-focus
+		 currentKeyboard: numbers-and-punctuation
+		 rotateVC: UISplitViewController
+		 rotateVC.supportedInterfaceOrientations: 26
+		 rotateWindow.frame: {{0, 0}, {375, 667}}
+		 rotateWindow.interfaceOrientation: 1
+		 automaticAppearance: en YES / int YES
+		 UIApp.interfaceOrientation: 1
+		 keyWindow: UIWindow
+		 keyboardWindow.frame: {{0, 0}, {375, 667}}
+		 keyWindow.interfaceOrientation: 1
+		 rotateWindow: UIWindow
+		 placementKeyboard: UIInputViewSetPlacementOffScreenDown
+		 keyWindow.frame: {{0, 0}, {375, 667}}
+		 placementEffects: UIInputViewSetPlacementOffScreenDown
+		 rotateVC.interfaceOrientation: 1
+	<_UIKeyboardArbiterHandle: 0x28313def0; PID 349: (null) <(null)>; hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0>:
+	 -> State: Inactive  
+		 Special: druid
+	<_UIKeyboardArbiterHandle: 0x283125b90; PID 373: (null) <(null)>; hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0>:
+	 -> State: Inactive  
+		 Special: kbdebug
+	<_UIKeyboardArbiterHandle: 0x283124090; PID 372: com.apple.mobileslideshow.photo-picker <(null)>; hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0>:
+	 -> State: Inactive  
+		 automaticAppearance: en YES / int YES
+		 UIApp.interfaceOrientation: 1
+		 placementEffects: UIInputViewSetPlacementInitialPosition
+	<_UIKeyboardArbiterHandle: 0x28313f720; PID 230: (null) <(null)>; hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0>:
+	 -> State: Inactive  
+		 keyWindow: HNDIgnoredWindow
+		 keyWindow.interfaceOrientation: 1
+		 keyWindow.frame: {{0, 0}, {375, 667}}
+		 automaticAppearance: en YES / int YES
+		 UIApp.interfaceOrientation: 1
+		 placementEffects: UIInputViewSetPlacementOffScreenDown

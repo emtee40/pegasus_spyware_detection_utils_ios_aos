@@ -1,0 +1,9 @@
+collecting logs at "/var/mobile/Library/Logs/CrashReporter/DiagnosticLogs/sysdiagnose/IN_PROGRESS_sysdiagnose_2018.11.28_12-10-54-0600_iPhone_OS_iPhone_16B92.tmp/brctl"
+- sending SIGINFO to cloudd
+- running launchctl print... failed
+- dumping daemon state... done
+- listing containers... done
+- collecting clouddocs logs... done
+- collecting cloudkit logs... done
+- reading defaults... done
+- collecting package extensions... done

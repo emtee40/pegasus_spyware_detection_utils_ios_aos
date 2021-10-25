@@ -1,0 +1,8 @@
+
+APPLYING PREDICATE (null)
+SDUnitLogGlob with glob '/var/mobile/Library/Logs/CrashReporter/panic-*.ips': found no matches
+
+APPLYING PREDICATE (null)
+SDUnitLogGlob with glob '/var/mobile/Library/Logs/CrashReporter/Retired/panic-*.ips': found no matches
+
+ENFORCING SIZE LIMIT OF 5 MB

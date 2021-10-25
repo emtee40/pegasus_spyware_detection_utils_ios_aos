@@ -1,0 +1,50 @@
+{"app_name":"Maps","timestamp":"2018-11-26 16:19:05.72 -0600","app_version":"1.0","slice_uuid":"f2256254-324c-3945-a776-a6d599a18549","adam_id":0,"build_version":"7.0","bundleID":"com.apple.Maps","share_with_app_devs":false,"is_first_party":true,"bug_type":"109","os_version":"iPhone OS 11.4.1 (15G77)","incident_id":"0D1E9AA1-671D-4C6D-AA98-017C20DF97C3","name":"Maps"}
+Incident Identifier: 0D1E9AA1-671D-4C6D-AA98-017C20DF97C3
+CrashReporter Key:   1d1562aeae7f4eb732cbcb3313bf606ccd14a987
+Hardware Model:      iPhone9,1
+Process:             Maps [240]
+Path:                /private/var/containers/Bundle/Application/C6D521D7-1CBE-4FC8-82E2-8209BE4BFFFB/Maps.app/Maps
+Identifier:          com.apple.Maps
+Version:             7.0 (1.0)
+Code Type:           ARM-64 (Native)
+Role:                Foreground
+Parent Process:      launchd [1]
+Coalition:           com.apple.Maps [371]
+
+
+Date/Time:           2018-11-26 16:19:05.4174 -0600
+Launch Time:         2018-11-26 16:18:45.3619 -0600
+OS Version:          iPhone OS 11.4.1 (15G77)
+Baseband Version:    3.70.00
+Report Version:      104
+
+Exception Type:  EXC_CRASH (SIGKILL)
+Exception Codes: 0x0000000000000000, 0x0000000000000000
+Exception Note:  EXC_CORPSE_NOTIFY
+Termination Reason: Namespace SPRINGBOARD, Code 0x8badf00d
+Termination Description: SPRINGBOARD, process-launch watchdog transgression: com.apple.Maps exhausted real (wall clock) time allowance of 20.00 seconds |  | ProcessVisibility: Unknown | ProcessState: Running | WatchdogEvent: process-launch | WatchdogVisibility: Foreground | WatchdogCPUStatistics: ( | "Elapsed total CPU time (seconds): 15.520 (user 15.520, system 0.000), 39% CPU", | "Elapsed application CPU time (seconds): 0.000, 0% CPU" | )
+Triggered by Thread:  0
+
+Filtered syslog:
+None found
+
+Thread 0 Crashed:
+0                                 	0x0000000101c251d8 0x101c24000 + 4568
+
+Thread 0 crashed with ARM Thread State (64-bit):
+    x0: 0x0000000000000000   x1: 0x0000000000000000   x2: 0x0000000000000000   x3: 0x0000000000000000
+    x4: 0x0000000000000000   x5: 0x0000000000000000   x6: 0x0000000000000000   x7: 0x0000000000000000
+    x8: 0x0000000000000000   x9: 0x0000000000000000  x10: 0x0000000000000000  x11: 0x0000000000000000
+   x12: 0x0000000000000000  x13: 0x0000000000000000  x14: 0x0000000000000000  x15: 0x0000000000000000
+   x16: 0x0000000000000000  x17: 0x0000000000000000  x18: 0x0000000000000000  x19: 0x0000000000000000
+   x20: 0x0000000000000000  x21: 0x0000000000000000  x22: 0x0000000000000000  x23: 0x0000000000000000
+   x24: 0x0000000000000000  x25: 0x0000000000000000  x26: 0x0000000000000000  x27: 0x0000000000000000
+   x28: 0x0000000000000000   fp: 0x0000000000000000   lr: 0x0000000000000000
+    sp: 0x000000016f32fb58   pc: 0x0000000101c251d8 cpsr: 0x00000000
+
+Binary Images:
+0x100ad0000 - 0x10126bfff  arm64  <f2256254324c3945a776a6d599a18549> 
+0x101c24000 - 0x101c5ffff  arm64  <b15e536a710732dabfafece44c5685e4> 
+
+EOF
+

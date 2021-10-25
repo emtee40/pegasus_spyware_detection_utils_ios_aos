@@ -1,0 +1,8 @@
+
+APPLYING PREDICATE SELF MATCHES "OPUS_.+.opx|PCM-.+.wav"
+/var/mobile/Library/Logs/CrashReporter/Assistant/SpeechLogs, File not found: SELF MATCHES "OPUS_.+.opx|PCM-.+.wav"
+
+APPLYING PREDICATE (null)
+SDUnitLogGlob with glob '/var/mobile/Library/Logs/CrashReporter/VoiceTrigger/audio/*.json': found no matches
+
+ENFORCING SIZE LIMIT OF 5 MB

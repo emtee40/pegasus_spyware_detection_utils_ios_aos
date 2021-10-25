@@ -1,0 +1,50 @@
+{"app_name":"Diagnostics","timestamp":"2018-11-26 16:20:11.75 -0600","app_version":"2.3","slice_uuid":"d18309a9-0e9a-3776-9c51-aa990b1fabf3","adam_id":0,"build_version":"1","bundleID":"com.apple.Diagnostics","share_with_app_devs":false,"is_first_party":true,"bug_type":"109","os_version":"iPhone OS 11.4.1 (15G77)","incident_id":"1B726455-FFD1-4C07-B3F4-0E0C997E2D75","name":"Diagnostics"}
+Incident Identifier: 1B726455-FFD1-4C07-B3F4-0E0C997E2D75
+CrashReporter Key:   1d1562aeae7f4eb732cbcb3313bf606ccd14a987
+Hardware Model:      iPhone9,1
+Process:             Diagnostics [247]
+Path:                /Applications/Diagnostics.app/Diagnostics
+Identifier:          com.apple.Diagnostics
+Version:             1 (2.3)
+Code Type:           ARM-64 (Native)
+Role:                Foreground
+Parent Process:      launchd [1]
+Coalition:           com.apple.Diagnostics [383]
+
+
+Date/Time:           2018-11-26 16:20:11.4136 -0600
+Launch Time:         2018-11-26 16:19:51.3361 -0600
+OS Version:          iPhone OS 11.4.1 (15G77)
+Baseband Version:    3.70.00
+Report Version:      104
+
+Exception Type:  EXC_CRASH (SIGKILL)
+Exception Codes: 0x0000000000000000, 0x0000000000000000
+Exception Note:  EXC_CORPSE_NOTIFY
+Termination Reason: Namespace SPRINGBOARD, Code 0x8badf00d
+Termination Description: SPRINGBOARD, process-launch watchdog transgression: com.apple.Diagnostics exhausted real (wall clock) time allowance of 20.00 seconds |  | ProcessVisibility: Unknown | ProcessState: Running | WatchdogEvent: process-launch | WatchdogVisibility: Foreground | WatchdogCPUStatistics: ( | "Elapsed total CPU time (seconds): 24.680 (user 24.680, system 0.000), 62% CPU", | "Elapsed application CPU time (seconds): 0.000, 0% CPU" | )
+Triggered by Thread:  0
+
+Filtered syslog:
+None found
+
+Thread 0 Crashed:
+0                                 	0x00000001028791d8 0x102878000 + 4568
+
+Thread 0 crashed with ARM Thread State (64-bit):
+    x0: 0x0000000000000000   x1: 0x0000000000000000   x2: 0x0000000000000000   x3: 0x0000000000000000
+    x4: 0x0000000000000000   x5: 0x0000000000000000   x6: 0x0000000000000000   x7: 0x0000000000000000
+    x8: 0x0000000000000000   x9: 0x0000000000000000  x10: 0x0000000000000000  x11: 0x0000000000000000
+   x12: 0x0000000000000000  x13: 0x0000000000000000  x14: 0x0000000000000000  x15: 0x0000000000000000
+   x16: 0x0000000000000000  x17: 0x0000000000000000  x18: 0x0000000000000000  x19: 0x0000000000000000
+   x20: 0x0000000000000000  x21: 0x0000000000000000  x22: 0x0000000000000000  x23: 0x0000000000000000
+   x24: 0x0000000000000000  x25: 0x0000000000000000  x26: 0x0000000000000000  x27: 0x0000000000000000
+   x28: 0x0000000000000000   fp: 0x0000000000000000   lr: 0x0000000000000000
+    sp: 0x000000016d987ba8   pc: 0x00000001028791d8 cpsr: 0x00000000
+
+Binary Images:
+0x102478000 - 0x10252bfff  arm64  <d18309a90e9a37769c51aa990b1fabf3> 
+0x102878000 - 0x1028b3fff  arm64  <b15e536a710732dabfafece44c5685e4> 
+
+EOF
+

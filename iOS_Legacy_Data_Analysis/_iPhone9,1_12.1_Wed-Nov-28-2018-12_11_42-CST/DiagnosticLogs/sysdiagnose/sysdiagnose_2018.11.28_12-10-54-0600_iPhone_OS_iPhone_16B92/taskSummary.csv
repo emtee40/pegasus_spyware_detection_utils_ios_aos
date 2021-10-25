@@ -1,0 +1,115 @@
+Command,Exit description,Execution Time,Intended Timeout
+
+Sequential group with total timeout 10.000000 sec
+"/usr/bin/tailspin save --no-symbolicate --reason sysdiagnose /var/mobile/Library/Logs/CrashReporter/DiagnosticLogs/sysdiagnose/IN_PROGRESS_sysdiagnose_2018.11.28_12-10-54-0600_iPhone_OS_iPhone_16B92/tailspin-trace.tailspin","exited with status 22",0.004418,10.000000
+"/usr/bin/tailspin info","exited with status 0",0.013819,10.000000
+
+"/usr/sbin/spindump -notarget 2 250 -noProcessingWhileSampling -noSymbolicate -file /var/mobile/Library/Logs/CrashReporter/DiagnosticLogs/sysdiagnose/IN_PROGRESS_sysdiagnose_2018.11.28_12-10-54-0600_iPhone_OS_iPhone_16B92/spindump-nosymbols.txt","exited with status 0",2.689293,15.000000
+
+Concurrent group with total timeout 15.000000 sec
+"/bin/ps axwww -o user,uid,pid,ppid,%cpu,%mem,pri,ni,vsz,rss,wchan,tt,stat,start,time,command","exited with status 0",0.044340,15.000000
+"/bin/ps axMwww -o ppid,%mem,pri,ni,vsz,rss,wchan,start,time,command","exited with status 0",0.044279,15.000000
+"(null)","exited with status 0",0.000000,15.000000
+"/usr/bin/vm_stat -c 25 0.2","exited with status 0",4.916050,15.000000
+"/usr/bin/taskinfo --threads --boosts","exited with status 0",0.037746,15.000000
+
+
+Concurrent group with total timeout 38.000000 sec
+"/sbin/mount","exited with status 0",0.019563,38.000000
+"/bin/df -H","exited with status 0",0.019277,38.000000
+"/usr/bin/kbdebug","exited with status 0",0.056107,38.000000
+"(null)","exited with status 0",0.000000,38.000000
+"(null)","exited with status 0",0.000000,38.000000
+"(null)","exited with status 0",0.000000,38.000000
+"(null)","exited with status 0",0.000000,38.000000
+"(null)","exited with status 0",0.000000,38.000000
+
+"/usr/libexec/smcDiagnose","exited with status 255",0.999212,15.000000
+"/usr/local/bin/powermetrics -i 1000 --sample-count 10 --show-all --show-initial-usage --handle-invalid-values","exited with status 0",0.000380,10.000000
+
+Concurrent group with total timeout 150.000000 sec
+"(null)","exited with status 0",0.000000,150.000000
+"(null)","exited with status 0",0.000000,150.000000
+"(null)","exited with status 0",0.000000,150.000000
+"(null)","exited with status 0",0.000000,150.000000
+"(null)","exited with status 0",0.000000,150.000000
+"(null)","exited with status 0",0.000000,150.000000
+"(null)","exited with status 0",0.000000,150.000000
+"(null)","exited with status 0",0.000000,150.000000
+"(null)","exited with status 0",0.000000,150.000000
+"(null)","exited with status 0",0.000000,150.000000
+"/usr/bin/killall -USR2 bluetoothd","exited with status 0",0.000180,150.000000
+"(null)","exited with status 0",0.000000,150.000000
+"(null)","exited with status 0",0.000000,150.000000
+"(null)","exited with status 0",0.000000,150.000000
+"(null)","exited with status 0",0.000000,150.000000
+"(null)","exited with status 0",0.000000,150.000000
+"(null)","exited with status 0",0.000000,150.000000
+"(null)","exited with status 0",0.000000,150.000000
+
+
+Concurrent group with total timeout 5.000000 sec
+"/usr/sbin/kextstat","exited with status 0",0.000186,5.000000
+"(null)","exited with status 0",0.000000,5.000000
+"(null)","exited with status 0",0.000000,5.000000
+
+"/usr/local/bin/cctool -d BT -c sysdiagnose-trigger","exited with status 0",0.000105,10.000000
+
+Concurrent group with total timeout 25.000000 sec
+"(null)","exited with status 0",0.000000,25.000000
+"(null)","exited with status 0",0.000000,25.000000
+"(null)","exited with status 0",0.000000,25.000000
+"(null)","exited with status 0",0.000000,25.000000
+"(null)","exited with status 0",0.000000,25.000000
+"/usr/libexec/pcsstatus capture output","exited with status 0",0.219039,25.000000
+"/usr/bin/hidutil dump","exited with status 0",0.226130,25.000000
+
+
+Sequential group with total timeout 30.000000 sec
+"/usr/sbin/ioreg -i -l -p IOService -w 0","exited with status 0",0.238192,30.000000
+"/usr/sbin/ioreg -i -l -p IOACPIPlane -w 0","exited with status 0",0.014649,30.000000
+"/usr/sbin/ioreg -i -l -p IOPower -w 0","exited with status 0",0.098480,30.000000
+"/usr/sbin/ioreg -i -l -p IODeviceTree -w 0","exited with status 0",0.051201,30.000000
+"/usr/sbin/ioreg -i -l -p IOUSB -w 0","exited with status 0",0.011143,30.000000
+"/usr/sbin/ioreg -i -l -p IOFireWire -w 0","exited with status 0",0.010864,30.000000
+"/usr/sbin/ioreg -a -w0 -x 0","exited with status 1",0.044582,30.000000
+
+
+Sequential group with total timeout 10.000000 sec
+"/System/Library/PrivateFrameworks/CoreSuggestions.framework/Tools/suggest_tool dbStats","exited with status 0",0.054141,10.000000
+"/System/Library/PrivateFrameworks/CoreSuggestions.framework/Tools/suggest_tool filesystemMetadata","exited with status 0",0.020414,10.000000
+"/System/Library/PrivateFrameworks/CoreSuggestions.framework/Tools/suggest_tool dbSchema","exited with status 0",0.038340,10.000000
+"/System/Library/PrivateFrameworks/CoreSuggestions.framework/Tools/suggest_tool assetVersion","exited with status 0",0.019218,10.000000
+"/System/Library/PrivateFrameworks/CoreSuggestions.framework/Tools/suggest_tool RTCGetDictionaryExtractions","exited with status 1",0.009884,10.000000
+"/System/Library/PrivateFrameworks/CoreSuggestions.framework/Tools/suggest_tool RTCGetDictionaryInteractions","exited with status 1",0.009530,10.000000
+"/System/Library/PrivateFrameworks/CoreSuggestions.framework/Tools/suggest_tool RTCGetDictionaryInteractionsSummary","exited with status 1",0.009788,10.000000
+
+"/usr/bin/brctl diagnose --sysdiagnose /var/mobile/Library/Logs/CrashReporter/DiagnosticLogs/sysdiagnose/IN_PROGRESS_sysdiagnose_2018.11.28_12-10-54-0600_iPhone_OS_iPhone_16B92.tmp/brctl","exited with status 0",0.057221,30.000000
+"/usr/bin/corebrightnessdiag nightshift-internal","exited with status 0",0.000095,5.000000
+
+Sequential group with total timeout 10.000000 sec
+"/usr/local/bin/asclient collectNetworkLogs","exited with status 0",0.000128,10.000000
+"/bin/sleep 2","exited with status 0",0.000100,10.000000
+"/usr/local/bin/asclient dump","exited with status 0",0.000089,10.000000
+
+"/usr/bin/abmlite logdump bb nocompress "bb log collection - for sysdiagnose"","exited with status 0",0.543867,5.000000
+
+Sequential group with total timeout 45.000000 sec
+"/usr/sbin/spindump -microstackshots_only -microstackshots_save -microstackshots_datastore /var/mobile/Library/Logs/CrashReporter/DiagnosticLogs/sysdiagnose/IN_PROGRESS_sysdiagnose_2018.11.28_12-10-54-0600_iPhone_OS_iPhone_16B92/microstackshots -microstackshots_starttime 1543169454 -microstackshots_endtime 1543428654","exited with status 0",0.020557,45.000000
+"(null)","exited with status 0",0.000000,45.000000
+"(null)","exited with status 0",0.000000,45.000000
+"(null)","exited with status 0",0.000000,45.000000
+"(null)","exited with status 0",0.000000,45.000000
+
+"/usr/bin/corebrightnessdiag nightshift-internal","exited with status 0",0.000162,5.000000
+"/usr/sbin/ckksctl status","exited with status 0",1.061628,3.000000
+"/bin/ls -lR /var/db/timezone","exited with status 0",0.000407,5.000000
+"/System/Library/Filesystems/apfs.fs/apfs_stats","exited with status 0",0.026614,3.000000
+
+Concurrent group with total timeout 35.000000 sec
+"/usr/bin/log config --status","exited with status 0",0.000450,35.000000
+"/bin/ls -lRsh /var/db/diagnostics","exited with status 0",0.000713,35.000000
+"/bin/ls -lRsh /var/db/uuidtext","exited with status 0",0.001146,35.000000
+
+
+Total tasks:45

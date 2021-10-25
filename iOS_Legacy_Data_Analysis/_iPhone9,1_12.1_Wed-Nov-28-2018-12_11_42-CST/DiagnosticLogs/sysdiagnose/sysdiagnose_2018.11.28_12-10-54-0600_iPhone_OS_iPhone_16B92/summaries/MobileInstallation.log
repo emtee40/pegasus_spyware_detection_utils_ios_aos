@@ -1,0 +1,12 @@
+
+APPLYING PREDICATE (null)
+
+APPLYING PREDICATE (null)
+SDUnitLogGlob with glob '/var/mobile/Library/Logs/MobileInstallation/mobile_installation.log.[01234]': found no matches
+
+APPLYING PREDICATE (null)
+
+ENFORCING SIZE LIMIT OF 5 MB
+/var/installd/Library/Logs/MobileInstallation/mobile_installation.log.0, Added
+/var/installd/Library/Logs/MobileInstallation/mobile_installation.log.1, Added
+/var/containers/Shared/SystemGroup/27FDFA0A-2366-4A40-B0BE-C67AA3B56395/Library/Logs/mobile_installation_helper.log.0, Added

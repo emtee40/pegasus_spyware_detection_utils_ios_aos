@@ -1,0 +1,16 @@
+com.apple.Preferences:
+{
+    DictationLanguagesEnabled =     {
+        "en_US" = 1;
+    };
+    DictationLanguagesLastUsed =     {
+        LastUsedDictationLangauge = "en_US";
+    };
+    KeyboardsCurrentAndNext =     (
+        "en_US@sw=QWERTY;hw=Automatic",
+        "en_US@sw=QWERTY;hw=Automatic"
+    );
+}
+GlobalPreferences:
+{
+}

@@ -1,0 +1,5 @@
+
+APPLYING PREDICATE (null)
+SDUnitLogGlob with glob '/var/mobile/Library/Logs/Bluetooth/bluetoothd-hci*.pklg': found no matches
+
+ENFORCING SIZE LIMIT OF 10 MB

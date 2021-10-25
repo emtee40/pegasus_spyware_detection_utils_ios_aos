@@ -1,0 +1,6 @@
+brctl: dumping
+    containers: <all>
+    from:        iPhone
+brctl: Unable to dump database; error: <NSError:0x15dd04fa0(BRCloudDocsErrorDomain:2) - {
+    NSDescription = "Logged out - iCloud Drive is not configured";
+}>

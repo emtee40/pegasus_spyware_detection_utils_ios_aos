@@ -1,0 +1,11 @@
+# --- Network Status
+
+    Primary IPv4         : en0 (Wi-Fi / 70C03ADB-F6FD-4209-9ABF-A0CD9C629E83)
+                         : 10.0.3.231
+    Primary IPv6         : None
+    DNS Addresses        : 216.177.160.237
+                         : 216.177.160.238
+                         : 216.177.160.239
+    Apple                : Reachable
+
+

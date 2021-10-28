@@ -1,0 +1,738 @@
+Nov 15 13:52:26 CCProfileMonitor::profileCallback Entered token:1
+Nov 15 13:52:27 CCProfileMonitor::setStreamEventHandler 
+Nov 15 13:52:27 CCProfileMonitor::setStreamEventHandler Registered for notification callback.
+Nov 15 13:52:27 CCProfileMonitor::setStreamEventHandler Woken up by notifyd.
+Nov 15 13:52:31 CCProfileMonitor::setStreamEventHandler Woken up by notifyd.
+Nov 15 13:52:31 CCProfileMonitor::setStreamEventHandler Woken up by notifyd.
+Nov 15 13:52:31 CCProfileMonitor::setStreamEventHandler Woken up by notifyd.
+Nov 15 13:52:31 CCProfileMonitor::setStreamEventHandler Woken up by notifyd.
+Nov 15 13:53:26 cleanCaptureDirectories /Library/Logs/CrashReporter/CoreCapture
+Nov 15 13:53:26 numberOfDirArrayEntriesMax: 50, numberOfDirArrayEntries 0
+Nov 15 13:53:26 cleanCaptureDirectories /Library/Logs/CoreCapture
+Nov 15 13:53:26 numberOfDirArrayEntriesMax: 50, numberOfDirArrayEntries 0
+Nov 15 13:53:26 cleanCaptureDirectories /Library/Logs/CrashReporter/CoreCapture
+Nov 15 13:53:26 numberOfDirArrayEntriesMax: 50, numberOfDirArrayEntries 0
+Nov 15 13:53:26 cleanCaptureDirectories /Library/Logs/CoreCapture
+Nov 15 13:53:26 numberOfDirArrayEntriesMax: 50, numberOfDirArrayEntries 0
+Nov 15 13:53:26 cleanCaptureDirectories /Library/Logs/CrashReporter/CoreCapture
+Nov 15 13:53:26 numberOfDirArrayEntriesMax: 50, numberOfDirArrayEntries 0
+Nov 15 13:53:26 cleanCaptureDirectories /Library/Logs/CoreCapture
+Nov 15 13:53:26 numberOfDirArrayEntriesMax: 50, numberOfDirArrayEntries 0
+Nov 15 13:53:26 cleanCaptureDirectories /Library/Logs/CrashReporter/CoreCapture
+Nov 15 13:53:26 numberOfDirArrayEntriesMax: 50, numberOfDirArrayEntries 0
+Nov 15 13:53:26 cleanCaptureDirectories /Library/Logs/CoreCapture
+Nov 15 13:53:26 numberOfDirArrayEntriesMax: 50, numberOfDirArrayEntries 0
+Nov 15 13:53:26 cleanCaptureDirectories /Library/Logs/CrashReporter/CoreCapture
+Nov 15 13:53:26 numberOfDirArrayEntriesMax: 50, numberOfDirArrayEntries 0
+Nov 15 13:53:26 cleanCaptureDirectories /Library/Logs/CoreCapture
+Nov 15 13:53:26 numberOfDirArrayEntriesMax: 50, numberOfDirArrayEntries 0
+Nov 15 13:53:26 cleanCaptureDirectories /Library/Logs/CrashReporter/CoreCapture
+Nov 15 13:53:26 numberOfDirArrayEntriesMax: 50, numberOfDirArrayEntries 0
+Nov 15 13:53:26 cleanCaptureDirectories /Library/Logs/CoreCapture
+Nov 15 13:53:26 numberOfDirArrayEntriesMax: 50, numberOfDirArrayEntries 0
+Nov 15 13:53:26 pruneDirectoryNDaysRead cap 7
+Nov 15 13:53:26 CCDaemon::shutdown is fired
+Nov 15 13:53:26 cleanCaptureDirectories /Library/Logs/CrashReporter/CoreCapture
+Nov 15 13:53:26 numberOfDirArrayEntriesMax: 50, numberOfDirArrayEntries 0
+Nov 15 13:53:26 cleanCaptureDirectories /Library/Logs/CoreCapture
+Nov 15 13:53:26 numberOfDirArrayEntriesMax: 50, numberOfDirArrayEntries 0
+Nov 15 13:53:26 cleanCaptureDirectories /Library/Logs/CrashReporter/CoreCapture
+Nov 15 13:53:26 numberOfDirArrayEntriesMax: 50, numberOfDirArrayEntries 0
+Nov 15 13:53:26 cleanCaptureDirectories /Library/Logs/CoreCapture
+Nov 15 13:53:26 numberOfDirArrayEntriesMax: 50, numberOfDirArrayEntries 0
+Nov 15 13:53:26 cleanCaptureDirectories /Library/Logs/CrashReporter/CoreCapture
+Nov 15 13:53:26 numberOfDirArrayEntriesMax: 50, numberOfDirArrayEntries 0
+Nov 15 13:53:26 cleanCaptureDirectories /Library/Logs/CoreCapture
+Nov 15 13:53:26 numberOfDirArrayEntriesMax: 50, numberOfDirArrayEntries 0
+Nov 15 13:53:26 cleanCaptureDirectories /Library/Logs/CrashReporter/CoreCapture
+Nov 15 13:53:26 numberOfDirArrayEntriesMax: 50, numberOfDirArrayEntries 0
+Nov 15 13:53:26 cleanCaptureDirectories /Library/Logs/CoreCapture
+Nov 15 13:53:26 numberOfDirArrayEntriesMax: 50, numberOfDirArrayEntries 0
+Nov 15 13:53:26 cleanCaptureDirectories /Library/Logs/CrashReporter/CoreCapture
+Nov 15 13:53:26 numberOfDirArrayEntriesMax: 50, numberOfDirArrayEntries 0
+Nov 15 13:53:26 cleanCaptureDirectories /Library/Logs/CoreCapture
+Nov 15 13:53:26 numberOfDirArrayEntriesMax: 50, numberOfDirArrayEntries 0
+Nov 15 13:53:26 cleanCaptureDirectories /Library/Logs/CrashReporter/CoreCapture
+Nov 15 13:53:26 numberOfDirArrayEntriesMax: 50, numberOfDirArrayEntries 0
+Nov 15 13:53:26 cleanCaptureDirectories /Library/Logs/CoreCapture
+Nov 15 13:53:26 numberOfDirArrayEntriesMax: 50, numberOfDirArrayEntries 0
+Nov 15 13:53:26 CCProfileMonitor::freeResources Entered
+Nov 15 13:53:26 CCProfileMonitor::freeResources done
+Nov 15 13:53:27 CCLogTap::profileRemoved, Owner: com.apple.driver.AppleBCMWLANCoreV3.0, Name: DriverLogs
+Nov 15 13:53:27 CCLogTap::profileRemoved, Owner: com.apple.iokit.IO80211Family, Name: ControlPath
+Nov 15 13:53:27 CCLogTap::profileRemoved, Owner: com.apple.driver.AppleBCMWLANCoreV3.0, Name: DatapathEvents
+Nov 15 13:53:27 CCDataTap::profileRemoved, Owner: com.apple.driver.AppleBCMWLANCoreV3.0, Name: StateSnapshots
+Nov 15 13:53:27 CCLogTap::profileRemoved, Owner: com.apple.iokit.IO80211Family, Name: OneStats
+Nov 15 13:53:27 CCIOReporterFormatter::refreshSubscriptionsFromStreamRegistry clearing out any previous subscriptions
+Nov 15 13:53:27 CCIOReporterFormatter::addRegistryChildToChannelDictionary  no CCIOReportRkey found in CCIOReporterLogStream
+Nov 15 13:53:27 CCIOReporterFormatter::refreshSubscriptionsFromStreamRegistry channelStreamArray empty
+Nov 15 13:53:27 CCLogTap::profileRemoved, Owner: com.apple.driver.AppleBCMWLANCoreV3.0, Name: FirmwareBusLogs
+Nov 15 13:53:52 CCProfileMonitor::profileCallback Entered token:1
+Nov 15 13:53:52 CCProfileMonitor::setStreamEventHandler 
+Nov 15 13:53:52 CCProfileMonitor::setStreamEventHandler Registered for notification callback.
+Nov 15 13:53:52 CCProfileMonitor::setStreamEventHandler Woken up by notifyd.
+Nov 15 13:53:52 CCProfileMonitor::setStreamEventHandler Woken up by notifyd.
+Nov 15 13:53:52 CCProfileMonitor::setStreamEventHandler Woken up by notifyd.
+Nov 15 13:53:52 CCProfileMonitor::setStreamEventHandler Woken up by notifyd.
+Nov 15 13:53:55 CCProfileMonitor::setStreamEventHandler Woken up by notifyd.
+Nov 15 13:53:55 CCProfileMonitor::setStreamEventHandler Woken up by notifyd.
+Nov 15 13:53:55 CCProfileMonitor::setStreamEventHandler Woken up by notifyd.
+Nov 15 13:53:55 CCProfileMonitor::setStreamEventHandler Woken up by notifyd.
+Nov 15 13:54:52 cleanCaptureDirectories /Library/Logs/CrashReporter/CoreCapture
+Nov 15 13:54:52 numberOfDirArrayEntriesMax: 50, numberOfDirArrayEntries 0
+Nov 15 13:54:52 cleanCaptureDirectories /Library/Logs/CoreCapture
+Nov 15 13:54:52 numberOfDirArrayEntriesMax: 50, numberOfDirArrayEntries 0
+Nov 15 13:54:52 cleanCaptureDirectories /Library/Logs/CrashReporter/CoreCapture
+Nov 15 13:54:52 numberOfDirArrayEntriesMax: 50, numberOfDirArrayEntries 0
+Nov 15 13:54:52 cleanCaptureDirectories /Library/Logs/CoreCapture
+Nov 15 13:54:52 numberOfDirArrayEntriesMax: 50, numberOfDirArrayEntries 0
+Nov 15 13:54:52 cleanCaptureDirectories /Library/Logs/CrashReporter/CoreCapture
+Nov 15 13:54:52 numberOfDirArrayEntriesMax: 50, numberOfDirArrayEntries 0
+Nov 15 13:54:52 cleanCaptureDirectories /Library/Logs/CoreCapture
+Nov 15 13:54:52 numberOfDirArrayEntriesMax: 50, numberOfDirArrayEntries 0
+Nov 15 13:54:52 cleanCaptureDirectories /Library/Logs/CrashReporter/CoreCapture
+Nov 15 13:54:52 numberOfDirArrayEntriesMax: 50, numberOfDirArrayEntries 0
+Nov 15 13:54:52 cleanCaptureDirectories /Library/Logs/CoreCapture
+Nov 15 13:54:52 numberOfDirArrayEntriesMax: 50, numberOfDirArrayEntries 0
+Nov 15 13:54:52 cleanCaptureDirectories /Library/Logs/CrashReporter/CoreCapture
+Nov 15 13:54:52 numberOfDirArrayEntriesMax: 50, numberOfDirArrayEntries 0
+Nov 15 13:54:52 cleanCaptureDirectories /Library/Logs/CoreCapture
+Nov 15 13:54:52 numberOfDirArrayEntriesMax: 50, numberOfDirArrayEntries 0
+Nov 15 13:54:52 cleanCaptureDirectories /Library/Logs/CrashReporter/CoreCapture
+Nov 15 13:54:52 numberOfDirArrayEntriesMax: 50, numberOfDirArrayEntries 0
+Nov 15 13:54:52 cleanCaptureDirectories /Library/Logs/CoreCapture
+Nov 15 13:54:52 numberOfDirArrayEntriesMax: 50, numberOfDirArrayEntries 0
+Nov 15 14:12:13 cleanCaptureDirectories /Library/Logs/CrashReporter/CoreCapture
+Nov 15 14:12:13 numberOfDirArrayEntriesMax: 50, numberOfDirArrayEntries 0
+Nov 15 14:12:13 cleanCaptureDirectories /Library/Logs/CoreCapture
+Nov 15 14:12:13 numberOfDirArrayEntriesMax: 50, numberOfDirArrayEntries 0
+Nov 15 14:12:13 cleanCaptureDirectories /Library/Logs/CrashReporter/CoreCapture
+Nov 15 14:12:13 numberOfDirArrayEntriesMax: 50, numberOfDirArrayEntries 0
+Nov 15 14:12:13 cleanCaptureDirectories /Library/Logs/CoreCapture
+Nov 15 14:12:13 numberOfDirArrayEntriesMax: 50, numberOfDirArrayEntries 0
+Nov 15 14:12:13 cleanCaptureDirectories /Library/Logs/CrashReporter/CoreCapture
+Nov 15 14:12:13 numberOfDirArrayEntriesMax: 50, numberOfDirArrayEntries 0
+Nov 15 14:12:13 cleanCaptureDirectories /Library/Logs/CoreCapture
+Nov 15 14:12:13 numberOfDirArrayEntriesMax: 50, numberOfDirArrayEntries 0
+Nov 15 14:12:13 cleanCaptureDirectories /Library/Logs/CrashReporter/CoreCapture
+Nov 15 14:12:13 numberOfDirArrayEntriesMax: 50, numberOfDirArrayEntries 0
+Nov 15 14:12:13 cleanCaptureDirectories /Library/Logs/CoreCapture
+Nov 15 14:12:13 numberOfDirArrayEntriesMax: 50, numberOfDirArrayEntries 0
+Nov 15 14:12:13 cleanCaptureDirectories /Library/Logs/CrashReporter/CoreCapture
+Nov 15 14:12:13 numberOfDirArrayEntriesMax: 50, numberOfDirArrayEntries 0
+Nov 15 14:12:13 cleanCaptureDirectories /Library/Logs/CoreCapture
+Nov 15 14:12:13 numberOfDirArrayEntriesMax: 50, numberOfDirArrayEntries 0
+Nov 15 14:12:13 cleanCaptureDirectories /Library/Logs/CrashReporter/CoreCapture
+Nov 15 14:12:13 numberOfDirArrayEntriesMax: 50, numberOfDirArrayEntries 0
+Nov 15 14:12:13 cleanCaptureDirectories /Library/Logs/CoreCapture
+Nov 15 14:12:13 numberOfDirArrayEntriesMax: 50, numberOfDirArrayEntries 0
+Nov 15 14:12:13 pruneDirectoryNDaysRead cap 7
+Nov 15 14:12:13 CCDaemon::shutdown is fired
+Nov 15 14:12:13 cleanCaptureDirectories /Library/Logs/CrashReporter/CoreCapture
+Nov 15 14:12:13 numberOfDirArrayEntriesMax: 50, numberOfDirArrayEntries 0
+Nov 15 14:12:13 cleanCaptureDirectories /Library/Logs/CoreCapture
+Nov 15 14:12:13 numberOfDirArrayEntriesMax: 50, numberOfDirArrayEntries 0
+Nov 15 14:12:13 cleanCaptureDirectories /Library/Logs/CrashReporter/CoreCapture
+Nov 15 14:12:13 numberOfDirArrayEntriesMax: 50, numberOfDirArrayEntries 0
+Nov 15 14:12:13 cleanCaptureDirectories /Library/Logs/CoreCapture
+Nov 15 14:12:13 numberOfDirArrayEntriesMax: 50, numberOfDirArrayEntries 0
+Nov 15 14:12:13 cleanCaptureDirectories /Library/Logs/CrashReporter/CoreCapture
+Nov 15 14:12:13 numberOfDirArrayEntriesMax: 50, numberOfDirArrayEntries 0
+Nov 15 14:12:13 cleanCaptureDirectories /Library/Logs/CoreCapture
+Nov 15 14:12:13 numberOfDirArrayEntriesMax: 50, numberOfDirArrayEntries 0
+Nov 15 14:12:13 cleanCaptureDirectories /Library/Logs/CrashReporter/CoreCapture
+Nov 15 14:12:13 numberOfDirArrayEntriesMax: 50, numberOfDirArrayEntries 0
+Nov 15 14:12:13 cleanCaptureDirectories /Library/Logs/CoreCapture
+Nov 15 14:12:13 numberOfDirArrayEntriesMax: 50, numberOfDirArrayEntries 0
+Nov 15 14:12:13 cleanCaptureDirectories /Library/Logs/CrashReporter/CoreCapture
+Nov 15 14:12:13 numberOfDirArrayEntriesMax: 50, numberOfDirArrayEntries 0
+Nov 15 14:12:13 cleanCaptureDirectories /Library/Logs/CoreCapture
+Nov 15 14:12:13 numberOfDirArrayEntriesMax: 50, numberOfDirArrayEntries 0
+Nov 15 14:12:13 cleanCaptureDirectories /Library/Logs/CrashReporter/CoreCapture
+Nov 15 14:12:13 numberOfDirArrayEntriesMax: 50, numberOfDirArrayEntries 0
+Nov 15 14:12:13 cleanCaptureDirectories /Library/Logs/CoreCapture
+Nov 15 14:12:13 numberOfDirArrayEntriesMax: 50, numberOfDirArrayEntries 0
+Nov 15 14:12:13 CCProfileMonitor::freeResources Entered
+Nov 15 14:12:13 CCProfileMonitor::freeResources done
+Nov 15 14:12:13 CCLogTap::profileRemoved, Owner: com.apple.iokit.IO80211Family, Name: OneStats
+Nov 15 14:12:13 CCIOReporterFormatter::refreshSubscriptionsFromStreamRegistry clearing out any previous subscriptions
+Nov 15 14:12:13 CCIOReporterFormatter::addRegistryChildToChannelDictionary  no CCIOReportRkey found in CCIOReporterLogStream
+Nov 15 14:12:13 CCIOReporterFormatter::refreshSubscriptionsFromStreamRegistry channelStreamArray empty
+Nov 15 14:12:13 CCLogTap::profileRemoved, Owner: com.apple.driver.AppleBCMWLANCoreV3.0, Name: DatapathEvents
+Nov 15 14:12:13 CCDataTap::profileRemoved, Owner: com.apple.driver.AppleBCMWLANCoreV3.0, Name: StateSnapshots
+Nov 15 14:12:13 CCLogTap::profileRemoved, Owner: com.apple.driver.AppleBCMWLANCoreV3.0, Name: DriverLogs
+Nov 15 14:12:13 CCLogTap::profileRemoved, Owner: com.apple.iokit.IO80211Family, Name: ControlPath
+Nov 15 14:12:13 CCLogTap::profileRemoved, Owner: com.apple.driver.AppleBCMWLANCoreV3.0, Name: FirmwareBusLogs
+Nov 21 16:26:44 CCProfileMonitor::profileCallback Entered token:1
+Nov 21 16:26:44 CCProfileMonitor::setStreamEventHandler 
+Nov 21 16:26:44 CCProfileMonitor::setStreamEventHandler Woken up by notifyd.
+Nov 21 16:26:44 CCProfileMonitor::setStreamEventHandler Woken up by notifyd.
+Nov 21 16:26:44 CCProfileMonitor::setStreamEventHandler Woken up by notifyd.
+Nov 21 16:26:44 CCProfileMonitor::setStreamEventHandler Woken up by notifyd.
+Nov 21 16:26:44 CCProfileMonitor::setStreamEventHandler Registered for notification callback.
+Nov 21 16:26:47 CCProfileMonitor::setStreamEventHandler Woken up by notifyd.
+Nov 21 16:26:47 CCProfileMonitor::setStreamEventHandler Woken up by notifyd.
+Nov 21 16:26:47 CCProfileMonitor::setStreamEventHandler Woken up by notifyd.
+Nov 21 16:26:47 CCProfileMonitor::setStreamEventHandler Woken up by notifyd.
+Nov 21 16:27:28 CCProfileMonitor::setStreamEventHandler Woken up by notifyd.
+Nov 21 16:27:28 CCProfileMonitor::setStreamEventHandler Woken up by notifyd.
+Nov 21 16:27:28 CCProfileMonitor::setStreamEventHandler Woken up by notifyd.
+Nov 21 16:27:28 CCProfileMonitor::setStreamEventHandler Woken up by notifyd.
+Nov 21 16:27:33 CCProfileMonitor::setStreamEventHandler Woken up by notifyd.
+Nov 21 16:27:33 CCProfileMonitor::setStreamEventHandler Woken up by notifyd.
+Nov 21 16:27:33 CCProfileMonitor::setStreamEventHandler Woken up by notifyd.
+Nov 21 16:27:33 CCProfileMonitor::setStreamEventHandler Woken up by notifyd.
+Nov 21 18:27:41 CCProfileMonitor::setStreamEventHandler Woken up by notifyd.
+Nov 21 18:27:41 CCProfileMonitor::setStreamEventHandler Woken up by notifyd.
+Nov 21 18:27:41 CCProfileMonitor::setStreamEventHandler Woken up by notifyd.
+Nov 21 18:27:41 CCProfileMonitor::setStreamEventHandler Woken up by notifyd.
+Nov 21 18:27:43 cleanCaptureDirectories /Library/Logs/CrashReporter/CoreCapture
+Nov 21 18:27:43 numberOfDirArrayEntriesMax: 50, numberOfDirArrayEntries 0
+Nov 21 18:27:43 cleanCaptureDirectories /Library/Logs/CoreCapture
+Nov 21 18:27:43 numberOfDirArrayEntriesMax: 50, numberOfDirArrayEntries 0
+Nov 21 18:27:43 cleanCaptureDirectories /Library/Logs/CrashReporter/CoreCapture
+Nov 21 18:27:43 numberOfDirArrayEntriesMax: 50, numberOfDirArrayEntries 0
+Nov 21 18:27:43 cleanCaptureDirectories /Library/Logs/CoreCapture
+Nov 21 18:27:43 numberOfDirArrayEntriesMax: 50, numberOfDirArrayEntries 0
+Nov 21 18:27:43 cleanCaptureDirectories /Library/Logs/CrashReporter/CoreCapture
+Nov 21 18:27:43 numberOfDirArrayEntriesMax: 50, numberOfDirArrayEntries 0
+Nov 21 18:27:43 cleanCaptureDirectories /Library/Logs/CoreCapture
+Nov 21 18:27:43 numberOfDirArrayEntriesMax: 50, numberOfDirArrayEntries 0
+Nov 21 18:27:43 cleanCaptureDirectories /Library/Logs/CrashReporter/CoreCapture
+Nov 21 18:27:43 numberOfDirArrayEntriesMax: 50, numberOfDirArrayEntries 0
+Nov 21 18:27:43 cleanCaptureDirectories /Library/Logs/CoreCapture
+Nov 21 18:27:43 numberOfDirArrayEntriesMax: 50, numberOfDirArrayEntries 0
+Nov 21 18:27:43 cleanCaptureDirectories /Library/Logs/CrashReporter/CoreCapture
+Nov 21 18:27:43 numberOfDirArrayEntriesMax: 50, numberOfDirArrayEntries 0
+Nov 21 18:27:43 cleanCaptureDirectories /Library/Logs/CoreCapture
+Nov 21 18:27:43 numberOfDirArrayEntriesMax: 50, numberOfDirArrayEntries 0
+Nov 21 18:27:43 cleanCaptureDirectories /Library/Logs/CrashReporter/CoreCapture
+Nov 21 18:27:43 numberOfDirArrayEntriesMax: 50, numberOfDirArrayEntries 0
+Nov 21 18:27:43 cleanCaptureDirectories /Library/Logs/CoreCapture
+Nov 21 18:27:43 numberOfDirArrayEntriesMax: 50, numberOfDirArrayEntries 0
+Nov 21 18:27:43 cleanCaptureDirectories /Library/Logs/CrashReporter/CoreCapture
+Nov 21 18:27:43 numberOfDirArrayEntriesMax: 50, numberOfDirArrayEntries 0
+Nov 21 18:27:43 cleanCaptureDirectories /Library/Logs/CoreCapture
+Nov 21 18:27:43 numberOfDirArrayEntriesMax: 50, numberOfDirArrayEntries 0
+Nov 21 18:27:43 cleanCaptureDirectories /Library/Logs/CrashReporter/CoreCapture
+Nov 21 18:27:43 numberOfDirArrayEntriesMax: 50, numberOfDirArrayEntries 0
+Nov 21 18:27:43 cleanCaptureDirectories /Library/Logs/CoreCapture
+Nov 21 18:27:43 numberOfDirArrayEntriesMax: 50, numberOfDirArrayEntries 0
+Nov 21 18:30:30 cleanCaptureDirectories /Library/Logs/CrashReporter/CoreCapture
+Nov 21 18:30:36 numberOfDirArrayEntriesMax: 50, numberOfDirArrayEntries 0
+Nov 21 18:30:36 cleanCaptureDirectories /Library/Logs/CoreCapture
+Nov 21 18:30:36 numberOfDirArrayEntriesMax: 50, numberOfDirArrayEntries 0
+Nov 21 18:30:36 cleanCaptureDirectories /Library/Logs/CrashReporter/CoreCapture
+Nov 21 18:30:36 numberOfDirArrayEntriesMax: 50, numberOfDirArrayEntries 0
+Nov 21 18:30:42 cleanCaptureDirectories /Library/Logs/CoreCapture
+Nov 21 18:30:42 numberOfDirArrayEntriesMax: 50, numberOfDirArrayEntries 0
+Nov 21 18:30:42 cleanCaptureDirectories /Library/Logs/CrashReporter/CoreCapture
+Nov 21 18:30:43 numberOfDirArrayEntriesMax: 50, numberOfDirArrayEntries 0
+Nov 21 18:30:43 cleanCaptureDirectories /Library/Logs/CoreCapture
+Nov 21 18:30:43 numberOfDirArrayEntriesMax: 50, numberOfDirArrayEntries 0
+Nov 21 18:30:43 cleanCaptureDirectories /Library/Logs/CrashReporter/CoreCapture
+Nov 21 18:30:43 numberOfDirArrayEntriesMax: 50, numberOfDirArrayEntries 0
+Nov 21 18:30:43 cleanCaptureDirectories /Library/Logs/CoreCapture
+Nov 21 18:30:43 numberOfDirArrayEntriesMax: 50, numberOfDirArrayEntries 0
+Nov 21 18:30:43 cleanCaptureDirectories /Library/Logs/CrashReporter/CoreCapture
+Nov 21 18:30:44 numberOfDirArrayEntriesMax: 50, numberOfDirArrayEntries 0
+Nov 21 18:30:44 cleanCaptureDirectories /Library/Logs/CoreCapture
+Nov 21 18:30:44 numberOfDirArrayEntriesMax: 50, numberOfDirArrayEntries 0
+Nov 21 18:30:44 cleanCaptureDirectories /Library/Logs/CrashReporter/CoreCapture
+Nov 21 18:30:44 numberOfDirArrayEntriesMax: 50, numberOfDirArrayEntries 0
+Nov 21 18:30:44 cleanCaptureDirectories /Library/Logs/CoreCapture
+Nov 21 18:30:44 numberOfDirArrayEntriesMax: 50, numberOfDirArrayEntries 0
+Nov 21 18:30:44 cleanCaptureDirectories /Library/Logs/CrashReporter/CoreCapture
+Nov 21 18:30:44 numberOfDirArrayEntriesMax: 50, numberOfDirArrayEntries 0
+Nov 21 18:30:44 cleanCaptureDirectories /Library/Logs/CoreCapture
+Nov 21 18:30:44 numberOfDirArrayEntriesMax: 50, numberOfDirArrayEntries 0
+Nov 21 18:30:44 cleanCaptureDirectories /Library/Logs/CrashReporter/CoreCapture
+Nov 21 18:30:44 numberOfDirArrayEntriesMax: 50, numberOfDirArrayEntries 0
+Nov 21 18:30:44 cleanCaptureDirectories /Library/Logs/CoreCapture
+Nov 21 18:30:44 numberOfDirArrayEntriesMax: 50, numberOfDirArrayEntries 0
+Nov 21 18:30:44 pruneDirectoryNDaysRead cap 7
+Nov 21 18:30:44 CCDaemon::shutdown is fired
+Nov 21 18:30:44 cleanCaptureDirectories /Library/Logs/CrashReporter/CoreCapture
+Nov 21 18:30:44 numberOfDirArrayEntriesMax: 50, numberOfDirArrayEntries 0
+Nov 21 18:30:44 cleanCaptureDirectories /Library/Logs/CoreCapture
+Nov 21 18:30:44 numberOfDirArrayEntriesMax: 50, numberOfDirArrayEntries 0
+Nov 21 18:30:44 cleanCaptureDirectories /Library/Logs/CrashReporter/CoreCapture
+Nov 21 18:30:44 numberOfDirArrayEntriesMax: 50, numberOfDirArrayEntries 0
+Nov 21 18:30:44 cleanCaptureDirectories /Library/Logs/CoreCapture
+Nov 21 18:30:44 numberOfDirArrayEntriesMax: 50, numberOfDirArrayEntries 0
+Nov 21 18:30:44 cleanCaptureDirectories /Library/Logs/CrashReporter/CoreCapture
+Nov 21 18:30:44 numberOfDirArrayEntriesMax: 50, numberOfDirArrayEntries 0
+Nov 21 18:30:44 cleanCaptureDirectories /Library/Logs/CoreCapture
+Nov 21 18:30:44 numberOfDirArrayEntriesMax: 50, numberOfDirArrayEntries 0
+Nov 21 18:30:44 cleanCaptureDirectories /Library/Logs/CrashReporter/CoreCapture
+Nov 21 18:30:44 numberOfDirArrayEntriesMax: 50, numberOfDirArrayEntries 0
+Nov 21 18:30:44 cleanCaptureDirectories /Library/Logs/CoreCapture
+Nov 21 18:30:44 numberOfDirArrayEntriesMax: 50, numberOfDirArrayEntries 0
+Nov 21 18:30:44 cleanCaptureDirectories /Library/Logs/CrashReporter/CoreCapture
+Nov 21 18:30:44 numberOfDirArrayEntriesMax: 50, numberOfDirArrayEntries 0
+Nov 21 18:30:44 cleanCaptureDirectories /Library/Logs/CoreCapture
+Nov 21 18:30:44 numberOfDirArrayEntriesMax: 50, numberOfDirArrayEntries 0
+Nov 21 18:30:44 cleanCaptureDirectories /Library/Logs/CrashReporter/CoreCapture
+Nov 21 18:30:44 numberOfDirArrayEntriesMax: 50, numberOfDirArrayEntries 0
+Nov 21 18:30:44 cleanCaptureDirectories /Library/Logs/CoreCapture
+Nov 21 18:30:44 numberOfDirArrayEntriesMax: 50, numberOfDirArrayEntries 0
+Nov 21 18:30:44 cleanCaptureDirectories /Library/Logs/CrashReporter/CoreCapture
+Nov 21 18:30:44 numberOfDirArrayEntriesMax: 50, numberOfDirArrayEntries 0
+Nov 21 18:30:44 cleanCaptureDirectories /Library/Logs/CoreCapture
+Nov 21 18:30:44 numberOfDirArrayEntriesMax: 50, numberOfDirArrayEntries 0
+Nov 21 18:30:44 cleanCaptureDirectories /Library/Logs/CrashReporter/CoreCapture
+Nov 21 18:30:44 numberOfDirArrayEntriesMax: 50, numberOfDirArrayEntries 0
+Nov 21 18:30:44 cleanCaptureDirectories /Library/Logs/CoreCapture
+Nov 21 18:30:44 numberOfDirArrayEntriesMax: 50, numberOfDirArrayEntries 0
+Nov 21 18:30:44 CCProfileMonitor::freeResources Entered
+Nov 21 18:30:44 CCProfileMonitor::freeResources done
+Nov 21 18:30:44 CCLogTap::profileRemoved, Owner: com.apple.iokit.IO80211Family, Name: OneStats
+Nov 21 18:31:10 CCIOReporterFormatter::refreshSubscriptionsFromStreamRegistry clearing out any previous subscriptions
+Nov 21 18:31:11 CCIOReporterFormatter::addRegistryChildToChannelDictionary streams 28
+Nov 21 18:32:00 CCLogTap::profileRemoved, Owner: com.apple.driver.AppleBCMWLANCoreV3.0, Name: DatapathEvents
+Nov 21 18:32:01 CCLogTap::profileRemoved, Owner: com.apple.iokit.IO80211Family, Name: ControlPath
+Nov 21 18:32:01 CCLogTap::profileRemoved, Owner: com.apple.iokit.IO80211Family, Name: IO80211AWDLPeerManager
+Nov 21 18:32:01 CCLogTap::profileRemoved, Owner: com.apple.driver.AppleBCMWLANCoreV3.0, Name: FirmwareBusLogs
+Nov 21 18:32:01 CCDataTap::profileRemoved, Owner: com.apple.driver.AppleBCMWLANCoreV3.0, Name: StateSnapshots
+Nov 21 18:32:01 CCLogTap::profileRemoved, Owner: com.apple.driver.AppleBCMWLANCoreV3.0, Name: DriverLogs
+Nov 21 18:32:02 CCDataTap::profileRemoved, Owner: com.apple.iokit.IO80211Family, Name: AssociationEventHistory
+Nov 28 11:53:33 CCProfileMonitor::profileCallback Entered token:1
+Nov 28 11:53:33 CCProfileMonitor::setStreamEventHandler 
+Nov 28 11:53:33 CCProfileMonitor::setStreamEventHandler Registered for notification callback.
+Nov 28 11:53:33 CCProfileMonitor::setStreamEventHandler Woken up by notifyd.
+Nov 28 11:53:33 CCProfileMonitor::setStreamEventHandler Woken up by notifyd.
+Nov 28 11:53:33 CCProfileMonitor::setStreamEventHandler Woken up by notifyd.
+Nov 28 11:53:33 CCProfileMonitor::setStreamEventHandler Woken up by notifyd.
+Nov 28 11:54:33 cleanCaptureDirectories /Library/Logs/CrashReporter/CoreCapture
+Nov 28 11:54:33 numberOfDirArrayEntriesMax: 50, numberOfDirArrayEntries 0
+Nov 28 11:54:33 cleanCaptureDirectories /Library/Logs/CoreCapture
+Nov 28 11:54:33 numberOfDirArrayEntriesMax: 50, numberOfDirArrayEntries 0
+Nov 28 11:54:33 cleanCaptureDirectories /Library/Logs/CrashReporter/CoreCapture
+Nov 28 11:54:33 numberOfDirArrayEntriesMax: 50, numberOfDirArrayEntries 0
+Nov 28 11:54:33 cleanCaptureDirectories /Library/Logs/CoreCapture
+Nov 28 11:54:33 numberOfDirArrayEntriesMax: 50, numberOfDirArrayEntries 0
+Nov 28 11:54:33 cleanCaptureDirectories /Library/Logs/CrashReporter/CoreCapture
+Nov 28 11:54:33 numberOfDirArrayEntriesMax: 50, numberOfDirArrayEntries 0
+Nov 28 11:54:33 cleanCaptureDirectories /Library/Logs/CoreCapture
+Nov 28 11:54:33 numberOfDirArrayEntriesMax: 50, numberOfDirArrayEntries 0
+Nov 28 11:54:33 cleanCaptureDirectories /Library/Logs/CrashReporter/CoreCapture
+Nov 28 11:54:33 numberOfDirArrayEntriesMax: 50, numberOfDirArrayEntries 0
+Nov 28 11:54:33 cleanCaptureDirectories /Library/Logs/CoreCapture
+Nov 28 11:54:33 numberOfDirArrayEntriesMax: 50, numberOfDirArrayEntries 0
+Nov 28 11:54:33 cleanCaptureDirectories /Library/Logs/CrashReporter/CoreCapture
+Nov 28 11:54:33 numberOfDirArrayEntriesMax: 50, numberOfDirArrayEntries 0
+Nov 28 11:54:33 cleanCaptureDirectories /Library/Logs/CoreCapture
+Nov 28 11:54:33 numberOfDirArrayEntriesMax: 50, numberOfDirArrayEntries 0
+Nov 28 11:54:33 cleanCaptureDirectories /Library/Logs/CrashReporter/CoreCapture
+Nov 28 11:54:33 numberOfDirArrayEntriesMax: 50, numberOfDirArrayEntries 0
+Nov 28 11:54:33 cleanCaptureDirectories /Library/Logs/CoreCapture
+Nov 28 11:54:33 numberOfDirArrayEntriesMax: 50, numberOfDirArrayEntries 0
+Nov 28 11:54:33 cleanCaptureDirectories /Library/Logs/CrashReporter/CoreCapture
+Nov 28 11:54:33 numberOfDirArrayEntriesMax: 50, numberOfDirArrayEntries 0
+Nov 28 11:54:33 cleanCaptureDirectories /Library/Logs/CoreCapture
+Nov 28 11:54:33 numberOfDirArrayEntriesMax: 50, numberOfDirArrayEntries 0
+Nov 28 11:54:33 cleanCaptureDirectories /Library/Logs/CrashReporter/CoreCapture
+Nov 28 11:54:33 numberOfDirArrayEntriesMax: 50, numberOfDirArrayEntries 0
+Nov 28 11:54:33 cleanCaptureDirectories /Library/Logs/CoreCapture
+Nov 28 11:54:33 numberOfDirArrayEntriesMax: 50, numberOfDirArrayEntries 0
+Nov 28 11:55:33 cleanCaptureDirectories /Library/Logs/CrashReporter/CoreCapture
+Nov 28 11:55:33 numberOfDirArrayEntriesMax: 50, numberOfDirArrayEntries 0
+Nov 28 11:55:33 cleanCaptureDirectories /Library/Logs/CoreCapture
+Nov 28 11:55:33 numberOfDirArrayEntriesMax: 50, numberOfDirArrayEntries 0
+Nov 28 11:55:33 cleanCaptureDirectories /Library/Logs/CrashReporter/CoreCapture
+Nov 28 11:55:33 numberOfDirArrayEntriesMax: 50, numberOfDirArrayEntries 0
+Nov 28 11:55:33 cleanCaptureDirectories /Library/Logs/CoreCapture
+Nov 28 11:55:33 numberOfDirArrayEntriesMax: 50, numberOfDirArrayEntries 0
+Nov 28 11:55:33 cleanCaptureDirectories /Library/Logs/CrashReporter/CoreCapture
+Nov 28 11:55:33 numberOfDirArrayEntriesMax: 50, numberOfDirArrayEntries 0
+Nov 28 11:55:33 cleanCaptureDirectories /Library/Logs/CoreCapture
+Nov 28 11:55:33 numberOfDirArrayEntriesMax: 50, numberOfDirArrayEntries 0
+Nov 28 11:55:33 cleanCaptureDirectories /Library/Logs/CrashReporter/CoreCapture
+Nov 28 11:55:33 numberOfDirArrayEntriesMax: 50, numberOfDirArrayEntries 0
+Nov 28 11:55:33 cleanCaptureDirectories /Library/Logs/CoreCapture
+Nov 28 11:55:33 numberOfDirArrayEntriesMax: 50, numberOfDirArrayEntries 0
+Nov 28 11:55:33 cleanCaptureDirectories /Library/Logs/CrashReporter/CoreCapture
+Nov 28 11:55:33 numberOfDirArrayEntriesMax: 50, numberOfDirArrayEntries 0
+Nov 28 11:55:33 cleanCaptureDirectories /Library/Logs/CoreCapture
+Nov 28 11:55:33 numberOfDirArrayEntriesMax: 50, numberOfDirArrayEntries 0
+Nov 28 11:55:33 cleanCaptureDirectories /Library/Logs/CrashReporter/CoreCapture
+Nov 28 11:55:33 numberOfDirArrayEntriesMax: 50, numberOfDirArrayEntries 0
+Nov 28 11:55:33 cleanCaptureDirectories /Library/Logs/CoreCapture
+Nov 28 11:55:33 numberOfDirArrayEntriesMax: 50, numberOfDirArrayEntries 0
+Nov 28 11:55:33 cleanCaptureDirectories /Library/Logs/CrashReporter/CoreCapture
+Nov 28 11:55:33 numberOfDirArrayEntriesMax: 50, numberOfDirArrayEntries 0
+Nov 28 11:55:33 cleanCaptureDirectories /Library/Logs/CoreCapture
+Nov 28 11:55:33 numberOfDirArrayEntriesMax: 50, numberOfDirArrayEntries 0
+Nov 28 11:55:33 cleanCaptureDirectories /Library/Logs/CrashReporter/CoreCapture
+Nov 28 11:55:33 numberOfDirArrayEntriesMax: 50, numberOfDirArrayEntries 0
+Nov 28 11:55:33 cleanCaptureDirectories /Library/Logs/CoreCapture
+Nov 28 11:55:33 numberOfDirArrayEntriesMax: 50, numberOfDirArrayEntries 0
+Nov 28 11:55:33 pruneDirectoryNDaysRead cap 7
+Nov 28 11:55:33 CCDaemon::shutdown is fired
+Nov 28 11:55:33 cleanCaptureDirectories /Library/Logs/CrashReporter/CoreCapture
+Nov 28 11:55:33 numberOfDirArrayEntriesMax: 50, numberOfDirArrayEntries 0
+Nov 28 11:55:33 cleanCaptureDirectories /Library/Logs/CoreCapture
+Nov 28 11:55:33 numberOfDirArrayEntriesMax: 50, numberOfDirArrayEntries 0
+Nov 28 11:55:33 cleanCaptureDirectories /Library/Logs/CrashReporter/CoreCapture
+Nov 28 11:55:33 numberOfDirArrayEntriesMax: 50, numberOfDirArrayEntries 0
+Nov 28 11:55:33 cleanCaptureDirectories /Library/Logs/CoreCapture
+Nov 28 11:55:33 numberOfDirArrayEntriesMax: 50, numberOfDirArrayEntries 0
+Nov 28 11:55:33 cleanCaptureDirectories /Library/Logs/CrashReporter/CoreCapture
+Nov 28 11:55:33 numberOfDirArrayEntriesMax: 50, numberOfDirArrayEntries 0
+Nov 28 11:55:33 cleanCaptureDirectories /Library/Logs/CoreCapture
+Nov 28 11:55:33 numberOfDirArrayEntriesMax: 50, numberOfDirArrayEntries 0
+Nov 28 11:55:33 cleanCaptureDirectories /Library/Logs/CrashReporter/CoreCapture
+Nov 28 11:55:33 numberOfDirArrayEntriesMax: 50, numberOfDirArrayEntries 0
+Nov 28 11:55:33 cleanCaptureDirectories /Library/Logs/CoreCapture
+Nov 28 11:55:33 numberOfDirArrayEntriesMax: 50, numberOfDirArrayEntries 0
+Nov 28 11:55:33 cleanCaptureDirectories /Library/Logs/CrashReporter/CoreCapture
+Nov 28 11:55:33 numberOfDirArrayEntriesMax: 50, numberOfDirArrayEntries 0
+Nov 28 11:55:33 cleanCaptureDirectories /Library/Logs/CoreCapture
+Nov 28 11:55:33 numberOfDirArrayEntriesMax: 50, numberOfDirArrayEntries 0
+Nov 28 11:55:33 cleanCaptureDirectories /Library/Logs/CrashReporter/CoreCapture
+Nov 28 11:55:33 numberOfDirArrayEntriesMax: 50, numberOfDirArrayEntries 0
+Nov 28 11:55:33 cleanCaptureDirectories /Library/Logs/CoreCapture
+Nov 28 11:55:33 numberOfDirArrayEntriesMax: 50, numberOfDirArrayEntries 0
+Nov 28 11:55:33 cleanCaptureDirectories /Library/Logs/CrashReporter/CoreCapture
+Nov 28 11:55:33 numberOfDirArrayEntriesMax: 50, numberOfDirArrayEntries 0
+Nov 28 11:55:33 cleanCaptureDirectories /Library/Logs/CoreCapture
+Nov 28 11:55:33 numberOfDirArrayEntriesMax: 50, numberOfDirArrayEntries 0
+Nov 28 11:55:33 cleanCaptureDirectories /Library/Logs/CrashReporter/CoreCapture
+Nov 28 11:55:33 numberOfDirArrayEntriesMax: 50, numberOfDirArrayEntries 0
+Nov 28 11:55:33 cleanCaptureDirectories /Library/Logs/CoreCapture
+Nov 28 11:55:33 numberOfDirArrayEntriesMax: 50, numberOfDirArrayEntries 0
+Nov 28 11:55:33 CCProfileMonitor::freeResources Entered
+Nov 28 11:55:33 CCProfileMonitor::freeResources done
+Nov 28 11:55:33 CCLogTap::profileRemoved, Owner: com.apple.iokit.IO80211Family, Name: OneStats
+Nov 28 11:55:33 CCIOReporterFormatter::refreshSubscriptionsFromStreamRegistry clearing out any previous subscriptions
+Nov 28 11:55:33 CCIOReporterFormatter::addRegistryChildToChannelDictionary streams 28
+Nov 28 11:55:33 CCDataTap::profileRemoved, Owner: com.apple.iokit.IO80211Family, Name: AssociationEventHistory
+Nov 28 11:55:33 CCDataTap::profileRemoved, Owner: com.apple.driver.AppleBCMWLANCoreV3.0, Name: StateSnapshots
+Nov 28 11:55:33 CCLogTap::profileRemoved, Owner: com.apple.driver.AppleBCMWLANCoreV3.0, Name: DatapathEvents
+Nov 28 11:55:33 CCLogTap::profileRemoved, Owner: com.apple.driver.AppleBCMWLANCoreV3.0, Name: FirmwareBusLogs
+Nov 28 11:55:33 CCLogTap::profileRemoved, Owner: com.apple.iokit.IO80211Family, Name: IO80211AWDLPeerManager
+Nov 28 11:55:33 CCLogTap::profileRemoved, Owner: com.apple.driver.AppleBCMWLANCoreV3.0, Name: DriverLogs
+Nov 28 11:55:33 CCLogTap::profileRemoved, Owner: com.apple.iokit.IO80211Family, Name: ControlPath
+Nov 28 11:58:32 CCProfileMonitor::profileCallback Entered token:1
+Nov 28 11:58:32 CCProfileMonitor::setStreamEventHandler 
+Nov 28 11:58:32 CCProfileMonitor::setStreamEventHandler Woken up by notifyd.
+Nov 28 11:58:32 CCProfileMonitor::setStreamEventHandler Woken up by notifyd.
+Nov 28 11:58:32 CCProfileMonitor::setStreamEventHandler Woken up by notifyd.
+Nov 28 11:58:32 CCProfileMonitor::setStreamEventHandler Woken up by notifyd.
+Nov 28 11:58:32 CCProfileMonitor::setStreamEventHandler Registered for notification callback.
+Nov 28 11:58:45 CCProfileMonitor::setStreamEventHandler Woken up by notifyd.
+Nov 28 11:58:45 CCProfileMonitor::setStreamEventHandler Woken up by notifyd.
+Nov 28 11:58:45 CCProfileMonitor::setStreamEventHandler Woken up by notifyd.
+Nov 28 11:58:45 CCProfileMonitor::setStreamEventHandler Woken up by notifyd.
+Nov 28 11:59:32 cleanCaptureDirectories /Library/Logs/CrashReporter/CoreCapture
+Nov 28 11:59:32 numberOfDirArrayEntriesMax: 50, numberOfDirArrayEntries 0
+Nov 28 11:59:32 cleanCaptureDirectories /Library/Logs/CoreCapture
+Nov 28 11:59:32 numberOfDirArrayEntriesMax: 50, numberOfDirArrayEntries 0
+Nov 28 11:59:32 cleanCaptureDirectories /Library/Logs/CrashReporter/CoreCapture
+Nov 28 11:59:32 numberOfDirArrayEntriesMax: 50, numberOfDirArrayEntries 0
+Nov 28 11:59:32 cleanCaptureDirectories /Library/Logs/CoreCapture
+Nov 28 11:59:32 numberOfDirArrayEntriesMax: 50, numberOfDirArrayEntries 0
+Nov 28 11:59:32 cleanCaptureDirectories /Library/Logs/CrashReporter/CoreCapture
+Nov 28 11:59:32 numberOfDirArrayEntriesMax: 50, numberOfDirArrayEntries 0
+Nov 28 11:59:32 cleanCaptureDirectories /Library/Logs/CoreCapture
+Nov 28 11:59:32 numberOfDirArrayEntriesMax: 50, numberOfDirArrayEntries 0
+Nov 28 11:59:32 cleanCaptureDirectories /Library/Logs/CrashReporter/CoreCapture
+Nov 28 11:59:32 numberOfDirArrayEntriesMax: 50, numberOfDirArrayEntries 0
+Nov 28 11:59:32 cleanCaptureDirectories /Library/Logs/CoreCapture
+Nov 28 11:59:32 numberOfDirArrayEntriesMax: 50, numberOfDirArrayEntries 0
+Nov 28 11:59:32 cleanCaptureDirectories /Library/Logs/CrashReporter/CoreCapture
+Nov 28 11:59:32 numberOfDirArrayEntriesMax: 50, numberOfDirArrayEntries 0
+Nov 28 11:59:32 cleanCaptureDirectories /Library/Logs/CoreCapture
+Nov 28 11:59:32 numberOfDirArrayEntriesMax: 50, numberOfDirArrayEntries 0
+Nov 28 11:59:32 cleanCaptureDirectories /Library/Logs/CrashReporter/CoreCapture
+Nov 28 11:59:32 numberOfDirArrayEntriesMax: 50, numberOfDirArrayEntries 0
+Nov 28 11:59:32 cleanCaptureDirectories /Library/Logs/CoreCapture
+Nov 28 11:59:32 numberOfDirArrayEntriesMax: 50, numberOfDirArrayEntries 0
+Nov 28 11:59:32 cleanCaptureDirectories /Library/Logs/CrashReporter/CoreCapture
+Nov 28 11:59:32 numberOfDirArrayEntriesMax: 50, numberOfDirArrayEntries 0
+Nov 28 11:59:32 cleanCaptureDirectories /Library/Logs/CoreCapture
+Nov 28 11:59:32 numberOfDirArrayEntriesMax: 50, numberOfDirArrayEntries 0
+Nov 28 11:59:32 cleanCaptureDirectories /Library/Logs/CrashReporter/CoreCapture
+Nov 28 11:59:32 numberOfDirArrayEntriesMax: 50, numberOfDirArrayEntries 0
+Nov 28 11:59:32 cleanCaptureDirectories /Library/Logs/CoreCapture
+Nov 28 11:59:32 numberOfDirArrayEntriesMax: 50, numberOfDirArrayEntries 0
+Nov 28 12:00:32 cleanCaptureDirectories /Library/Logs/CrashReporter/CoreCapture
+Nov 28 12:00:32 numberOfDirArrayEntriesMax: 50, numberOfDirArrayEntries 0
+Nov 28 12:00:32 cleanCaptureDirectories /Library/Logs/CoreCapture
+Nov 28 12:00:32 numberOfDirArrayEntriesMax: 50, numberOfDirArrayEntries 0
+Nov 28 12:00:32 cleanCaptureDirectories /Library/Logs/CrashReporter/CoreCapture
+Nov 28 12:00:32 numberOfDirArrayEntriesMax: 50, numberOfDirArrayEntries 0
+Nov 28 12:00:32 cleanCaptureDirectories /Library/Logs/CoreCapture
+Nov 28 12:00:32 numberOfDirArrayEntriesMax: 50, numberOfDirArrayEntries 0
+Nov 28 12:00:32 cleanCaptureDirectories /Library/Logs/CrashReporter/CoreCapture
+Nov 28 12:00:32 numberOfDirArrayEntriesMax: 50, numberOfDirArrayEntries 0
+Nov 28 12:00:32 cleanCaptureDirectories /Library/Logs/CoreCapture
+Nov 28 12:00:32 numberOfDirArrayEntriesMax: 50, numberOfDirArrayEntries 0
+Nov 28 12:00:32 cleanCaptureDirectories /Library/Logs/CrashReporter/CoreCapture
+Nov 28 12:00:32 numberOfDirArrayEntriesMax: 50, numberOfDirArrayEntries 0
+Nov 28 12:00:32 cleanCaptureDirectories /Library/Logs/CoreCapture
+Nov 28 12:00:32 numberOfDirArrayEntriesMax: 50, numberOfDirArrayEntries 0
+Nov 28 12:00:32 cleanCaptureDirectories /Library/Logs/CrashReporter/CoreCapture
+Nov 28 12:00:32 numberOfDirArrayEntriesMax: 50, numberOfDirArrayEntries 0
+Nov 28 12:00:32 cleanCaptureDirectories /Library/Logs/CoreCapture
+Nov 28 12:00:32 numberOfDirArrayEntriesMax: 50, numberOfDirArrayEntries 0
+Nov 28 12:00:32 cleanCaptureDirectories /Library/Logs/CrashReporter/CoreCapture
+Nov 28 12:00:32 numberOfDirArrayEntriesMax: 50, numberOfDirArrayEntries 0
+Nov 28 12:00:32 cleanCaptureDirectories /Library/Logs/CoreCapture
+Nov 28 12:00:32 numberOfDirArrayEntriesMax: 50, numberOfDirArrayEntries 0
+Nov 28 12:00:32 cleanCaptureDirectories /Library/Logs/CrashReporter/CoreCapture
+Nov 28 12:00:32 numberOfDirArrayEntriesMax: 50, numberOfDirArrayEntries 0
+Nov 28 12:00:32 cleanCaptureDirectories /Library/Logs/CoreCapture
+Nov 28 12:00:32 numberOfDirArrayEntriesMax: 50, numberOfDirArrayEntries 0
+Nov 28 12:00:32 cleanCaptureDirectories /Library/Logs/CrashReporter/CoreCapture
+Nov 28 12:00:32 numberOfDirArrayEntriesMax: 50, numberOfDirArrayEntries 0
+Nov 28 12:00:32 cleanCaptureDirectories /Library/Logs/CoreCapture
+Nov 28 12:00:32 numberOfDirArrayEntriesMax: 50, numberOfDirArrayEntries 0
+Nov 28 12:00:32 pruneDirectoryNDaysRead cap 7
+Nov 28 12:00:32 CCDaemon::shutdown is fired
+Nov 28 12:00:32 cleanCaptureDirectories /Library/Logs/CrashReporter/CoreCapture
+Nov 28 12:00:32 numberOfDirArrayEntriesMax: 50, numberOfDirArrayEntries 0
+Nov 28 12:00:32 cleanCaptureDirectories /Library/Logs/CoreCapture
+Nov 28 12:00:32 numberOfDirArrayEntriesMax: 50, numberOfDirArrayEntries 0
+Nov 28 12:00:32 cleanCaptureDirectories /Library/Logs/CrashReporter/CoreCapture
+Nov 28 12:00:32 numberOfDirArrayEntriesMax: 50, numberOfDirArrayEntries 0
+Nov 28 12:00:32 cleanCaptureDirectories /Library/Logs/CoreCapture
+Nov 28 12:00:32 numberOfDirArrayEntriesMax: 50, numberOfDirArrayEntries 0
+Nov 28 12:00:32 cleanCaptureDirectories /Library/Logs/CrashReporter/CoreCapture
+Nov 28 12:00:32 numberOfDirArrayEntriesMax: 50, numberOfDirArrayEntries 0
+Nov 28 12:00:32 cleanCaptureDirectories /Library/Logs/CoreCapture
+Nov 28 12:00:32 numberOfDirArrayEntriesMax: 50, numberOfDirArrayEntries 0
+Nov 28 12:00:32 cleanCaptureDirectories /Library/Logs/CrashReporter/CoreCapture
+Nov 28 12:00:32 numberOfDirArrayEntriesMax: 50, numberOfDirArrayEntries 0
+Nov 28 12:00:32 cleanCaptureDirectories /Library/Logs/CoreCapture
+Nov 28 12:00:32 numberOfDirArrayEntriesMax: 50, numberOfDirArrayEntries 0
+Nov 28 12:00:32 cleanCaptureDirectories /Library/Logs/CrashReporter/CoreCapture
+Nov 28 12:00:32 numberOfDirArrayEntriesMax: 50, numberOfDirArrayEntries 0
+Nov 28 12:00:32 cleanCaptureDirectories /Library/Logs/CoreCapture
+Nov 28 12:00:32 numberOfDirArrayEntriesMax: 50, numberOfDirArrayEntries 0
+Nov 28 12:00:32 cleanCaptureDirectories /Library/Logs/CrashReporter/CoreCapture
+Nov 28 12:00:32 numberOfDirArrayEntriesMax: 50, numberOfDirArrayEntries 0
+Nov 28 12:00:32 cleanCaptureDirectories /Library/Logs/CoreCapture
+Nov 28 12:00:32 numberOfDirArrayEntriesMax: 50, numberOfDirArrayEntries 0
+Nov 28 12:00:32 cleanCaptureDirectories /Library/Logs/CrashReporter/CoreCapture
+Nov 28 12:00:32 numberOfDirArrayEntriesMax: 50, numberOfDirArrayEntries 0
+Nov 28 12:00:32 cleanCaptureDirectories /Library/Logs/CoreCapture
+Nov 28 12:00:32 numberOfDirArrayEntriesMax: 50, numberOfDirArrayEntries 0
+Nov 28 12:00:32 cleanCaptureDirectories /Library/Logs/CrashReporter/CoreCapture
+Nov 28 12:00:32 numberOfDirArrayEntriesMax: 50, numberOfDirArrayEntries 0
+Nov 28 12:00:32 cleanCaptureDirectories /Library/Logs/CoreCapture
+Nov 28 12:00:32 numberOfDirArrayEntriesMax: 50, numberOfDirArrayEntries 0
+Nov 28 12:00:32 CCProfileMonitor::freeResources Entered
+Nov 28 12:00:32 CCProfileMonitor::freeResources done
+Nov 28 12:00:32 CCLogTap::profileRemoved, Owner: com.apple.iokit.IO80211Family, Name: OneStats
+Nov 28 12:00:32 CCIOReporterFormatter::refreshSubscriptionsFromStreamRegistry clearing out any previous subscriptions
+Nov 28 12:00:32 CCIOReporterFormatter::addRegistryChildToChannelDictionary streams 28
+Nov 28 12:00:32 CCLogTap::profileRemoved, Owner: com.apple.driver.AppleBCMWLANCoreV3.0, Name: DatapathEvents
+Nov 28 12:00:32 CCLogTap::profileRemoved, Owner: com.apple.iokit.IO80211Family, Name: ControlPath
+Nov 28 12:00:32 CCLogTap::profileRemoved, Owner: com.apple.iokit.IO80211Family, Name: IO80211AWDLPeerManager
+Nov 28 12:00:32 CCDataTap::profileRemoved, Owner: com.apple.driver.AppleBCMWLANCoreV3.0, Name: StateSnapshots
+Nov 28 12:00:32 CCLogTap::profileRemoved, Owner: com.apple.driver.AppleBCMWLANCoreV3.0, Name: FirmwareBusLogs
+Nov 28 12:00:32 CCLogTap::profileRemoved, Owner: com.apple.driver.AppleBCMWLANCoreV3.0, Name: DriverLogs
+Nov 28 12:00:32 CCDataTap::profileRemoved, Owner: com.apple.iokit.IO80211Family, Name: AssociationEventHistory
+Nov 28 12:01:09 CCProfileMonitor::profileCallback Entered token:1
+Nov 28 12:01:09 CCProfileMonitor::setStreamEventHandler 
+Nov 28 12:01:09 CCProfileMonitor::setStreamEventHandler Registered for notification callback.
+Nov 28 12:01:09 CCProfileMonitor::setStreamEventHandler Woken up by notifyd.
+Nov 28 12:01:09 CCProfileMonitor::setStreamEventHandler Woken up by notifyd.
+Nov 28 12:01:09 CCProfileMonitor::setStreamEventHandler Woken up by notifyd.
+Nov 28 12:01:09 CCProfileMonitor::setStreamEventHandler Woken up by notifyd.
+Nov 28 12:02:09 cleanCaptureDirectories /Library/Logs/CrashReporter/CoreCapture
+Nov 28 12:02:09 numberOfDirArrayEntriesMax: 50, numberOfDirArrayEntries 0
+Nov 28 12:02:09 cleanCaptureDirectories /Library/Logs/CoreCapture
+Nov 28 12:02:09 numberOfDirArrayEntriesMax: 50, numberOfDirArrayEntries 0
+Nov 28 12:02:09 cleanCaptureDirectories /Library/Logs/CrashReporter/CoreCapture
+Nov 28 12:02:09 numberOfDirArrayEntriesMax: 50, numberOfDirArrayEntries 0
+Nov 28 12:02:09 cleanCaptureDirectories /Library/Logs/CoreCapture
+Nov 28 12:02:09 numberOfDirArrayEntriesMax: 50, numberOfDirArrayEntries 0
+Nov 28 12:02:09 cleanCaptureDirectories /Library/Logs/CrashReporter/CoreCapture
+Nov 28 12:02:09 numberOfDirArrayEntriesMax: 50, numberOfDirArrayEntries 0
+Nov 28 12:02:09 cleanCaptureDirectories /Library/Logs/CoreCapture
+Nov 28 12:02:09 numberOfDirArrayEntriesMax: 50, numberOfDirArrayEntries 0
+Nov 28 12:02:09 cleanCaptureDirectories /Library/Logs/CrashReporter/CoreCapture
+Nov 28 12:02:09 numberOfDirArrayEntriesMax: 50, numberOfDirArrayEntries 0
+Nov 28 12:02:09 cleanCaptureDirectories /Library/Logs/CoreCapture
+Nov 28 12:02:09 numberOfDirArrayEntriesMax: 50, numberOfDirArrayEntries 0
+Nov 28 12:02:09 cleanCaptureDirectories /Library/Logs/CrashReporter/CoreCapture
+Nov 28 12:02:09 numberOfDirArrayEntriesMax: 50, numberOfDirArrayEntries 0
+Nov 28 12:02:09 cleanCaptureDirectories /Library/Logs/CoreCapture
+Nov 28 12:02:09 numberOfDirArrayEntriesMax: 50, numberOfDirArrayEntries 0
+Nov 28 12:02:09 cleanCaptureDirectories /Library/Logs/CrashReporter/CoreCapture
+Nov 28 12:02:09 numberOfDirArrayEntriesMax: 50, numberOfDirArrayEntries 0
+Nov 28 12:02:09 cleanCaptureDirectories /Library/Logs/CoreCapture
+Nov 28 12:02:09 numberOfDirArrayEntriesMax: 50, numberOfDirArrayEntries 0
+Nov 28 12:02:09 cleanCaptureDirectories /Library/Logs/CrashReporter/CoreCapture
+Nov 28 12:02:09 numberOfDirArrayEntriesMax: 50, numberOfDirArrayEntries 0
+Nov 28 12:02:09 cleanCaptureDirectories /Library/Logs/CoreCapture
+Nov 28 12:02:09 numberOfDirArrayEntriesMax: 50, numberOfDirArrayEntries 0
+Nov 28 12:02:09 cleanCaptureDirectories /Library/Logs/CrashReporter/CoreCapture
+Nov 28 12:02:09 numberOfDirArrayEntriesMax: 50, numberOfDirArrayEntries 0
+Nov 28 12:02:09 cleanCaptureDirectories /Library/Logs/CoreCapture
+Nov 28 12:02:09 numberOfDirArrayEntriesMax: 50, numberOfDirArrayEntries 0
+Nov 28 12:03:09 cleanCaptureDirectories /Library/Logs/CrashReporter/CoreCapture
+Nov 28 12:03:09 numberOfDirArrayEntriesMax: 50, numberOfDirArrayEntries 0
+Nov 28 12:03:09 cleanCaptureDirectories /Library/Logs/CoreCapture
+Nov 28 12:03:09 numberOfDirArrayEntriesMax: 50, numberOfDirArrayEntries 0
+Nov 28 12:03:09 cleanCaptureDirectories /Library/Logs/CrashReporter/CoreCapture
+Nov 28 12:03:09 numberOfDirArrayEntriesMax: 50, numberOfDirArrayEntries 0
+Nov 28 12:03:09 cleanCaptureDirectories /Library/Logs/CoreCapture
+Nov 28 12:03:09 numberOfDirArrayEntriesMax: 50, numberOfDirArrayEntries 0
+Nov 28 12:03:09 cleanCaptureDirectories /Library/Logs/CrashReporter/CoreCapture
+Nov 28 12:03:09 numberOfDirArrayEntriesMax: 50, numberOfDirArrayEntries 0
+Nov 28 12:03:09 cleanCaptureDirectories /Library/Logs/CoreCapture
+Nov 28 12:03:09 numberOfDirArrayEntriesMax: 50, numberOfDirArrayEntries 0
+Nov 28 12:03:09 cleanCaptureDirectories /Library/Logs/CrashReporter/CoreCapture
+Nov 28 12:03:09 numberOfDirArrayEntriesMax: 50, numberOfDirArrayEntries 0
+Nov 28 12:03:09 cleanCaptureDirectories /Library/Logs/CoreCapture
+Nov 28 12:03:09 numberOfDirArrayEntriesMax: 50, numberOfDirArrayEntries 0
+Nov 28 12:03:09 cleanCaptureDirectories /Library/Logs/CrashReporter/CoreCapture
+Nov 28 12:03:09 numberOfDirArrayEntriesMax: 50, numberOfDirArrayEntries 0
+Nov 28 12:03:09 cleanCaptureDirectories /Library/Logs/CoreCapture
+Nov 28 12:03:09 numberOfDirArrayEntriesMax: 50, numberOfDirArrayEntries 0
+Nov 28 12:03:09 cleanCaptureDirectories /Library/Logs/CrashReporter/CoreCapture
+Nov 28 12:03:09 numberOfDirArrayEntriesMax: 50, numberOfDirArrayEntries 0
+Nov 28 12:03:09 cleanCaptureDirectories /Library/Logs/CoreCapture
+Nov 28 12:03:09 numberOfDirArrayEntriesMax: 50, numberOfDirArrayEntries 0
+Nov 28 12:03:09 cleanCaptureDirectories /Library/Logs/CrashReporter/CoreCapture
+Nov 28 12:03:09 numberOfDirArrayEntriesMax: 50, numberOfDirArrayEntries 0
+Nov 28 12:03:09 cleanCaptureDirectories /Library/Logs/CoreCapture
+Nov 28 12:03:09 numberOfDirArrayEntriesMax: 50, numberOfDirArrayEntries 0
+Nov 28 12:03:09 cleanCaptureDirectories /Library/Logs/CrashReporter/CoreCapture
+Nov 28 12:03:09 numberOfDirArrayEntriesMax: 50, numberOfDirArrayEntries 0
+Nov 28 12:03:09 cleanCaptureDirectories /Library/Logs/CoreCapture
+Nov 28 12:03:09 numberOfDirArrayEntriesMax: 50, numberOfDirArrayEntries 0
+Nov 28 12:03:09 pruneDirectoryNDaysRead cap 7
+Nov 28 12:03:09 CCDaemon::shutdown is fired
+Nov 28 12:03:09 cleanCaptureDirectories /Library/Logs/CrashReporter/CoreCapture
+Nov 28 12:03:09 numberOfDirArrayEntriesMax: 50, numberOfDirArrayEntries 0
+Nov 28 12:03:09 cleanCaptureDirectories /Library/Logs/CoreCapture
+Nov 28 12:03:09 numberOfDirArrayEntriesMax: 50, numberOfDirArrayEntries 0
+Nov 28 12:03:09 cleanCaptureDirectories /Library/Logs/CrashReporter/CoreCapture
+Nov 28 12:03:09 numberOfDirArrayEntriesMax: 50, numberOfDirArrayEntries 0
+Nov 28 12:03:09 cleanCaptureDirectories /Library/Logs/CoreCapture
+Nov 28 12:03:09 numberOfDirArrayEntriesMax: 50, numberOfDirArrayEntries 0
+Nov 28 12:03:09 cleanCaptureDirectories /Library/Logs/CrashReporter/CoreCapture
+Nov 28 12:03:09 numberOfDirArrayEntriesMax: 50, numberOfDirArrayEntries 0
+Nov 28 12:03:09 cleanCaptureDirectories /Library/Logs/CoreCapture
+Nov 28 12:03:09 numberOfDirArrayEntriesMax: 50, numberOfDirArrayEntries 0
+Nov 28 12:03:09 cleanCaptureDirectories /Library/Logs/CrashReporter/CoreCapture
+Nov 28 12:03:09 numberOfDirArrayEntriesMax: 50, numberOfDirArrayEntries 0
+Nov 28 12:03:09 cleanCaptureDirectories /Library/Logs/CoreCapture
+Nov 28 12:03:09 numberOfDirArrayEntriesMax: 50, numberOfDirArrayEntries 0
+Nov 28 12:03:09 cleanCaptureDirectories /Library/Logs/CrashReporter/CoreCapture
+Nov 28 12:03:09 numberOfDirArrayEntriesMax: 50, numberOfDirArrayEntries 0
+Nov 28 12:03:09 cleanCaptureDirectories /Library/Logs/CoreCapture
+Nov 28 12:03:09 numberOfDirArrayEntriesMax: 50, numberOfDirArrayEntries 0
+Nov 28 12:03:09 cleanCaptureDirectories /Library/Logs/CrashReporter/CoreCapture
+Nov 28 12:03:09 numberOfDirArrayEntriesMax: 50, numberOfDirArrayEntries 0
+Nov 28 12:03:09 cleanCaptureDirectories /Library/Logs/CoreCapture
+Nov 28 12:03:09 numberOfDirArrayEntriesMax: 50, numberOfDirArrayEntries 0
+Nov 28 12:03:09 cleanCaptureDirectories /Library/Logs/CrashReporter/CoreCapture
+Nov 28 12:03:09 numberOfDirArrayEntriesMax: 50, numberOfDirArrayEntries 0
+Nov 28 12:03:09 cleanCaptureDirectories /Library/Logs/CoreCapture
+Nov 28 12:03:09 numberOfDirArrayEntriesMax: 50, numberOfDirArrayEntries 0
+Nov 28 12:03:09 cleanCaptureDirectories /Library/Logs/CrashReporter/CoreCapture
+Nov 28 12:03:09 numberOfDirArrayEntriesMax: 50, numberOfDirArrayEntries 0
+Nov 28 12:03:09 cleanCaptureDirectories /Library/Logs/CoreCapture
+Nov 28 12:03:09 numberOfDirArrayEntriesMax: 50, numberOfDirArrayEntries 0
+Nov 28 12:03:09 CCProfileMonitor::freeResources Entered
+Nov 28 12:03:09 CCProfileMonitor::freeResources done
+Nov 28 12:03:09 CCDataTap::profileRemoved, Owner: com.apple.driver.AppleBCMWLANCoreV3.0, Name: StateSnapshots
+Nov 28 12:03:09 CCLogTap::profileRemoved, Owner: com.apple.iokit.IO80211Family, Name: OneStats
+Nov 28 12:03:09 CCIOReporterFormatter::refreshSubscriptionsFromStreamRegistry clearing out any previous subscriptions
+Nov 28 12:03:09 CCIOReporterFormatter::addRegistryChildToChannelDictionary streams 28
+Nov 28 12:03:09 CCLogTap::profileRemoved, Owner: com.apple.iokit.IO80211Family, Name: ControlPath
+Nov 28 12:03:09 CCLogTap::profileRemoved, Owner: com.apple.iokit.IO80211Family, Name: IO80211AWDLPeerManager
+Nov 28 12:03:09 CCLogTap::profileRemoved, Owner: com.apple.driver.AppleBCMWLANCoreV3.0, Name: FirmwareBusLogs
+Nov 28 12:03:09 CCDataTap::profileRemoved, Owner: com.apple.iokit.IO80211Family, Name: AssociationEventHistory
+Nov 28 12:03:09 CCLogTap::profileRemoved, Owner: com.apple.driver.AppleBCMWLANCoreV3.0, Name: DatapathEvents
+Nov 28 12:03:09 CCLogTap::profileRemoved, Owner: com.apple.driver.AppleBCMWLANCoreV3.0, Name: DriverLogs
+Nov 28 12:11:04 CCProfileMonitor::profileCallback Entered token:1
+Nov 28 12:11:04 CCProfileMonitor::setStreamEventHandler 
+Nov 28 12:11:04 CCProfileMonitor::setStreamEventHandler Registered for notification callback.
+Nov 28 12:11:04 Received a connection event
+Nov 28 12:11:04 CCXPCService::handleIncomingMessage: incoming, incomingConnection, XPC_TYPE_CONNECTION, 0, XPC_TYPE_ERROR, 0, XPC_TYPE_DICTIONARY, 1
+Nov 28 12:11:04 Entitlement exists, and check is successfull 
+Nov 28 12:11:04 CCConfig is <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CCConfig</key>
+	<dict>
+		<key>CCCaptureDirectory</key>
+		<dict>
+			<key>WiFi</key>
+			<dict>
+				<key>CaptureReason</key>
+				<string>WiFiDebug~PRE[1EFED]</string>
+			</dict>
+		</dict>
+	</dict>
+</dict>
+</plist>
+
+Nov 28 12:11:04 CCXPCService::handleIncomingMessage keycount : 1
+Nov 28 12:11:04 CCXPCService::handleIncomingMessage Key is CCConfig
+Nov 28 12:11:04 CCConfigure::captureDictionaryCFDictionaryApplier dirName: (null)
+Nov 28 12:11:04 CCConfigure::captureDirectoryCFDictionaryApplier capture
+Nov 28 12:11:04 CCConfigure::capture Reason: WiFiDebug~PRE[1EFED]
+Nov 28 12:11:04 CCLogTap::capture, Owner: com.apple.driver.AppleBCMWLANCoreV3.0, Name: DatapathEvents
+Nov 28 12:11:04 CCConfigure::capture Reason: WiFiDebug~PRE[1EFED]
+Nov 28 12:11:04 CCLogTap::capture, Owner: com.apple.iokit.IO80211Family, Name: ControlPath
+Nov 28 12:11:04 CCConfigure::capture Reason: WiFiDebug~PRE[1EFED]
+Nov 28 12:11:04 CCLogTap::capture, Owner: com.apple.iokit.IO80211Family, Name: OneStats
+Nov 28 12:11:04 CCConfigure::capture Reason: WiFiDebug~PRE[1EFED]
+Nov 28 12:11:04 CCLogTap::capture, Owner: com.apple.iokit.IO80211Family, Name: IO80211AWDLPeerManager
+Nov 28 12:11:04 CCConfigure::capture Reason: WiFiDebug~PRE[1EFED]
+Nov 28 12:11:04 CCLogTap::capture, Owner: com.apple.driver.AppleBCMWLANCoreV3.0, Name: DriverLogs
+Nov 28 12:11:04 CCConfigure::capture Reason: WiFiDebug~PRE[1EFED]
+Nov 28 12:11:04 CCDataTap::capture, Owner: com.apple.driver.AppleBCMWLANCoreV3.0, Name: StateSnapshots
+Nov 28 12:11:04 CCConfigure::capture Reason: WiFiDebug~PRE[1EFED]
+Nov 28 12:11:04 CCLogTap::capture, Owner: com.apple.driver.AppleBCMWLANCoreV3.0, Name: FirmwareBusLogs
+Nov 28 12:11:04 CCConfigure::capture Reason: WiFiDebug~PRE[1EFED]
+Nov 28 12:11:04 CCDataTap::capture, Owner: com.apple.iokit.IO80211Family, Name: AssociationEventHistory
+Nov 28 12:11:07 Received a connection event
+Nov 28 12:11:07 CCXPCService::handleIncomingMessage: incoming, incomingConnection, XPC_TYPE_CONNECTION, 0, XPC_TYPE_ERROR, 0, XPC_TYPE_DICTIONARY, 1
+Nov 28 12:11:07 Entitlement exists, and check is successfull 
+Nov 28 12:11:07 CCConfig is <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CCConfig</key>
+	<dict>
+		<key>CCCaptureDirectory</key>
+		<dict>
+			<key>WiFi</key>
+			<dict>
+				<key>CaptureReason</key>
+				<string>WiFiDebug~POST[1EFED]</string>
+			</dict>
+		</dict>
+	</dict>
+</dict>
+</plist>
+
+Nov 28 12:11:07 CCXPCService::handleIncomingMessage keycount : 1
+Nov 28 12:11:07 CCXPCService::handleIncomingMessage Key is CCConfig
+Nov 28 12:11:07 CCConfigure::captureDictionaryCFDictionaryApplier dirName: (null)
+Nov 28 12:11:07 CCConfigure::captureDirectoryCFDictionaryApplier capture
+Nov 28 12:11:07 CCConfigure::capture Reason: WiFiDebug~POST[1EFED]
+Nov 28 12:11:07 CCLogTap::capture, Owner: com.apple.driver.AppleBCMWLANCoreV3.0, Name: DatapathEvents
+Nov 28 12:11:07 CCConfigure::capture Reason: WiFiDebug~POST[1EFED]
+Nov 28 12:11:07 CCLogTap::capture, Owner: com.apple.iokit.IO80211Family, Name: ControlPath
+Nov 28 12:11:07 CCConfigure::capture Reason: WiFiDebug~POST[1EFED]
+Nov 28 12:11:07 CCLogTap::capture, Owner: com.apple.iokit.IO80211Family, Name: OneStats
+Nov 28 12:11:07 CCConfigure::capture Reason: WiFiDebug~POST[1EFED]
+Nov 28 12:11:07 CCLogTap::capture, Owner: com.apple.iokit.IO80211Family, Name: IO80211AWDLPeerManager
+Nov 28 12:11:07 CCConfigure::capture Reason: WiFiDebug~POST[1EFED]
+Nov 28 12:11:07 CCLogTap::capture, Owner: com.apple.driver.AppleBCMWLANCoreV3.0, Name: DriverLogs
+Nov 28 12:11:07 CCConfigure::capture Reason: WiFiDebug~POST[1EFED]
+Nov 28 12:11:07 CCDataTap::capture, Owner: com.apple.driver.AppleBCMWLANCoreV3.0, Name: StateSnapshots
+Nov 28 12:11:07 CCConfigure::capture Reason: WiFiDebug~POST[1EFED]
+Nov 28 12:11:07 CCLogTap::capture, Owner: com.apple.driver.AppleBCMWLANCoreV3.0, Name: FirmwareBusLogs
+Nov 28 12:11:07 CCConfigure::capture Reason: WiFiDebug~POST[1EFED]
+Nov 28 12:11:07 CCDataTap::capture, Owner: com.apple.iokit.IO80211Family, Name: AssociationEventHistory

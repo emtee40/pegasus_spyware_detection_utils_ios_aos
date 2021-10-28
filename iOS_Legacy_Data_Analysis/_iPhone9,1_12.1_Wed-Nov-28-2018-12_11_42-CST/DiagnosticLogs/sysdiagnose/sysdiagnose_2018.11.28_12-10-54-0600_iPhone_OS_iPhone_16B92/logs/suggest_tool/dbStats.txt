@@ -1,0 +1,47 @@
+Schema version: 60
+
+Entities:
+
+     Orphans: 0
+       Total: 0
+
+Full Text Search:
+   Locale: en
+  Details: 0
+     Rows: 0
+
+Serialized Contacts:
+   0	Lowest EntityID
+   0	Highest EntityID
+
+   Limit: 3500
+   Total: 0
+
+Snippets:
+   0	Snippets with titles
+   0	Snippets with content
+
+   Total: 0
+   Journals: 0
+
+
+Batches deferred until powered: 0
+
+Enqueued items: 0
+
+Dissected items: 0
+
+Tombstones: 0
+
+Recipient filter counts: 0 / 0
+
+Reimport Requests:
+          Total: 0
+      Unqueried: 0
+     Unexecuted: 0
+         Oldest: 
+    Oldest Open: 
+    Total Items: 0
+   Unseen Items: 0
+
+Training Store Statistics:

@@ -1,0 +1,434 @@
+User: mobile (501)
+
+Suggestions Directory: /var/mobile/Library/Suggestions
+Size: 736
+Owner: 501
+Group: 501
+Permissions: 755
+Created:             2018-11-15 21:52:32 +0000
+Added:               2018-11-15 21:52:32 +0000
+Attributes Modified: 2018-11-28 17:35:15 +0000
+Content Modified:    2018-11-28 17:35:15 +0000
+Directory?     YES
+Executable?    YES
+Readable?      YES
+Regular File?  NO
+Symbolic Link? NO
+Writable?      YES
+
+/entities.db-wal
+Size: 552112
+Owner: 501
+Group: 501
+Permissions: 600
+Created:             2018-11-15 21:52:32 +0000
+Added:               2018-11-15 21:52:32 +0000
+Attributes Modified: 2018-11-28 17:47:33 +0000
+Content Modified:    2018-11-28 17:47:33 +0000
+Directory?     NO
+Executable?    NO
+Readable?      YES
+Regular File?  YES
+Symbolic Link? NO
+Writable?      YES
+
+/entities.db-shm
+Size: 32768
+Owner: 501
+Group: 501
+Permissions: 600
+Created:             2018-11-15 21:52:32 +0000
+Added:               2018-11-15 21:52:32 +0000
+Attributes Modified: 2018-11-28 17:35:14 +0000
+Content Modified:    2018-11-28 17:35:14 +0000
+Directory?     NO
+Executable?    NO
+Readable?      YES
+Regular File?  YES
+Symbolic Link? NO
+Writable?      YES
+
+/snippets.db
+Size: 28672
+Owner: 501
+Group: 501
+Permissions: 600
+Created:             2018-11-15 21:52:32 +0000
+Added:               2018-11-15 21:52:32 +0000
+Attributes Modified: 2018-11-28 18:11:03 +0000
+Content Modified:    1970-01-01 00:11:21 +0000
+Directory?     NO
+Executable?    NO
+Readable?      YES
+Regular File?  YES
+Symbolic Link? NO
+Writable?      YES
+
+/query_predictions.db.journal
+Size: 96
+Owner: 501
+Group: 501
+Permissions: 755
+Created:             2018-11-15 21:52:33 +0000
+Added:               2018-11-15 21:52:33 +0000
+Attributes Modified: 2018-11-27 22:32:16 +0000
+Content Modified:    2018-11-27 22:32:16 +0000
+Directory?     YES
+Executable?    YES
+Readable?      YES
+Regular File?  NO
+Symbolic Link? NO
+Writable?      YES
+
+/query_predictions.db.journal/J-                   0.6C9D72FD-BCA8-47E5-AE3F-D126DB05AD3B.dbJournal
+Size: 0
+Owner: 501
+Group: 501
+Permissions: 600
+Created:             2018-11-27 22:32:16 +0000
+Added:               2018-11-27 22:32:16 +0000
+Attributes Modified: 2018-11-27 22:32:17 +0000
+Content Modified:    2018-11-27 22:32:17 +0000
+Directory?     NO
+Executable?    NO
+Readable?      YES
+Regular File?  YES
+Symbolic Link? NO
+Writable?      YES
+
+/harvestqueueold
+Size: 64
+Owner: 501
+Group: 501
+Permissions: 755
+Created:             2018-11-15 21:52:33 +0000
+Added:               2018-11-15 21:52:33 +0000
+Attributes Modified: 2018-11-15 21:52:33 +0000
+Content Modified:    2018-11-15 21:52:33 +0000
+Directory?     YES
+Executable?    YES
+Readable?      YES
+Regular File?  NO
+Symbolic Link? NO
+Writable?      YES
+
+/query_predictions.db
+Size: 8192
+Owner: 501
+Group: 501
+Permissions: 600
+Created:             2018-11-15 21:52:33 +0000
+Added:               2018-11-15 21:52:33 +0000
+Attributes Modified: 2018-11-26 22:07:43 +0000
+Content Modified:    2018-11-15 21:52:33 +0000
+Directory?     NO
+Executable?    NO
+Readable?      YES
+Regular File?  YES
+Symbolic Link? NO
+Writable?      YES
+
+/significant-pseudo-contacts.bf.bf2-head
+Size: 49204
+Owner: 501
+Group: 501
+Permissions: 600
+Created:             2018-11-15 21:52:33 +0000
+Added:               2018-11-15 21:52:33 +0000
+Attributes Modified: 2018-11-28 18:11:03 +0000
+Content Modified:    2018-11-28 18:11:03 +0000
+Directory?     NO
+Executable?    NO
+Readable?      YES
+Regular File?  YES
+Symbolic Link? NO
+Writable?      YES
+
+/training.db-wal
+Size: 280192
+Owner: 501
+Group: 501
+Permissions: 600
+Created:             2018-11-15 21:52:33 +0000
+Added:               2018-11-15 21:52:33 +0000
+Attributes Modified: 2018-11-28 17:39:01 +0000
+Content Modified:    2018-11-28 17:39:01 +0000
+Directory?     NO
+Executable?    NO
+Readable?      YES
+Regular File?  YES
+Symbolic Link? NO
+Writable?      YES
+
+/training.db
+Size: 8192
+Owner: 501
+Group: 501
+Permissions: 600
+Created:             2018-11-15 21:52:33 +0000
+Added:               2018-11-15 21:52:33 +0000
+Attributes Modified: 2018-11-28 18:11:03 +0000
+Content Modified:    2018-11-15 21:52:33 +0000
+Directory?     NO
+Executable?    NO
+Readable?      YES
+Regular File?  YES
+Symbolic Link? NO
+Writable?      YES
+
+/training.db-shm
+Size: 32768
+Owner: 501
+Group: 501
+Permissions: 600
+Created:             2018-11-15 21:52:33 +0000
+Added:               2018-11-15 21:52:33 +0000
+Attributes Modified: 2018-11-28 17:39:01 +0000
+Content Modified:    2018-11-28 17:39:01 +0000
+Directory?     NO
+Executable?    NO
+Readable?      YES
+Regular File?  YES
+Symbolic Link? NO
+Writable?      YES
+
+/entities.db
+Size: 8192
+Owner: 501
+Group: 501
+Permissions: 600
+Created:             2018-11-15 21:52:32 +0000
+Added:               2018-11-15 21:52:32 +0000
+Attributes Modified: 2018-11-28 18:11:03 +0000
+Content Modified:    2018-11-15 21:52:32 +0000
+Directory?     NO
+Executable?    NO
+Readable?      YES
+Regular File?  YES
+Symbolic Link? NO
+Writable?      YES
+
+/snippets.db-wal
+Size: 8272
+Owner: 501
+Group: 501
+Permissions: 600
+Created:             2018-11-15 21:52:32 +0000
+Added:               2018-11-15 21:52:32 +0000
+Attributes Modified: 2018-11-28 17:35:15 +0000
+Content Modified:    2018-11-28 17:35:15 +0000
+Directory?     NO
+Executable?    NO
+Readable?      YES
+Regular File?  YES
+Symbolic Link? NO
+Writable?      YES
+
+/journals
+Size: 96
+Owner: 501
+Group: 501
+Permissions: 755
+Created:             2018-11-15 21:52:32 +0000
+Added:               2018-11-15 21:52:32 +0000
+Attributes Modified: 2018-11-15 21:52:32 +0000
+Content Modified:    2018-11-15 21:52:32 +0000
+Directory?     YES
+Executable?    YES
+Readable?      YES
+Regular File?  NO
+Symbolic Link? NO
+Writable?      YES
+
+/journals/snippets
+Size: 64
+Owner: 501
+Group: 501
+Permissions: 755
+Created:             2018-11-15 21:52:32 +0000
+Added:               2018-11-15 21:52:32 +0000
+Attributes Modified: 2018-11-15 21:52:32 +0000
+Content Modified:    2018-11-15 21:52:32 +0000
+Directory?     YES
+Executable?    YES
+Readable?      YES
+Regular File?  NO
+Symbolic Link? NO
+Writable?      YES
+
+/harvestqueue
+Size: 64
+Owner: 501
+Group: 501
+Permissions: 755
+Created:             2018-11-15 21:52:33 +0000
+Added:               2018-11-15 21:52:33 +0000
+Attributes Modified: 2018-11-15 21:52:33 +0000
+Content Modified:    2018-11-15 21:52:33 +0000
+Directory?     YES
+Executable?    YES
+Readable?      YES
+Regular File?  NO
+Symbolic Link? NO
+Writable?      YES
+
+/snippets.db-shm
+Size: 32768
+Owner: 501
+Group: 501
+Permissions: 600
+Created:             2018-11-15 21:52:32 +0000
+Added:               2018-11-15 21:52:32 +0000
+Attributes Modified: 2018-11-28 17:35:14 +0000
+Content Modified:    2018-11-28 17:35:14 +0000
+Directory?     NO
+Executable?    NO
+Readable?      YES
+Regular File?  YES
+Symbolic Link? NO
+Writable?      YES
+
+/query_predictions.db-shm
+Size: 32768
+Owner: 501
+Group: 501
+Permissions: 600
+Created:             2018-11-15 21:52:33 +0000
+Added:               2018-11-15 21:52:33 +0000
+Attributes Modified: 2018-11-26 22:07:43 +0000
+Content Modified:    2018-11-26 22:07:43 +0000
+Directory?     NO
+Executable?    NO
+Readable?      YES
+Regular File?  YES
+Symbolic Link? NO
+Writable?      YES
+
+/phone-to-name.kvcache
+Size: 0
+Owner: 501
+Group: 0
+Permissions: 600
+Created:             2018-11-28 17:35:15 +0000
+Added:               2018-11-28 17:35:15 +0000
+Attributes Modified: 2018-11-28 17:35:15 +0000
+Content Modified:    2018-11-28 17:35:15 +0000
+Directory?     NO
+Executable?    NO
+Readable?      YES
+Regular File?  YES
+Symbolic Link? NO
+Writable?      YES
+
+/query_predictions.db-wal
+Size: 24752
+Owner: 501
+Group: 501
+Permissions: 600
+Created:             2018-11-15 21:52:33 +0000
+Added:               2018-11-15 21:52:33 +0000
+Attributes Modified: 2018-11-15 21:52:33 +0000
+Content Modified:    2018-11-15 21:52:33 +0000
+Directory?     NO
+Executable?    NO
+Readable?      YES
+Regular File?  YES
+Symbolic Link? NO
+Writable?      YES
+
+/significant-pseudo-contacts.bf.bf2-tail
+Size: 49204
+Owner: 501
+Group: 501
+Permissions: 600
+Created:             2018-11-15 21:52:33 +0000
+Added:               2018-11-15 21:52:33 +0000
+Attributes Modified: 2018-11-28 18:11:03 +0000
+Content Modified:    2018-11-28 18:11:03 +0000
+Directory?     NO
+Executable?    NO
+Readable?      YES
+Regular File?  YES
+Symbolic Link? NO
+Writable?      YES
+
+/email-to-name.kvcache
+Size: 0
+Owner: 501
+Group: 0
+Permissions: 600
+Created:             2018-11-26 17:03:26 +0000
+Added:               2018-11-26 17:03:26 +0000
+Attributes Modified: 2018-11-26 17:03:26 +0000
+Content Modified:    2018-11-26 17:03:26 +0000
+Directory?     NO
+Executable?    NO
+Readable?      YES
+Regular File?  YES
+Symbolic Link? NO
+Writable?      YES
+
+/pending
+Size: 160
+Owner: 501
+Group: 501
+Permissions: 755
+Created:             2018-11-15 21:52:33 +0000
+Added:               2018-11-15 21:52:33 +0000
+Attributes Modified: 2018-11-15 21:52:33 +0000
+Content Modified:    2018-11-15 21:52:33 +0000
+Directory?     YES
+Executable?    YES
+Readable?      YES
+Regular File?  NO
+Symbolic Link? NO
+Writable?      YES
+
+/pending/queue.db-wal
+Size: 20632
+Owner: 501
+Group: 501
+Permissions: 600
+Created:             2018-11-15 21:52:33 +0000
+Added:               2018-11-15 21:52:33 +0000
+Attributes Modified: 2018-11-28 18:11:03 +0000
+Content Modified:    2018-11-28 18:11:03 +0000
+Directory?     NO
+Executable?    NO
+Readable?      YES
+Regular File?  YES
+Symbolic Link? NO
+Writable?      YES
+
+/pending/queue.db-shm
+Size: 32768
+Owner: 501
+Group: 501
+Permissions: 600
+Created:             2018-11-15 21:52:33 +0000
+Added:               2018-11-15 21:52:33 +0000
+Attributes Modified: 2018-11-28 17:39:02 +0000
+Content Modified:    2018-11-28 17:39:02 +0000
+Directory?     NO
+Executable?    NO
+Readable?      YES
+Regular File?  YES
+Symbolic Link? NO
+Writable?      YES
+
+/pending/queue.db
+Size: 20480
+Owner: 501
+Group: 501
+Permissions: 600
+Created:             2018-11-15 21:52:33 +0000
+Added:               2018-11-15 21:52:33 +0000
+Attributes Modified: 2018-11-28 18:11:03 +0000
+Content Modified:    2018-11-15 21:52:33 +0000
+Directory?     NO
+Executable?    NO
+Readable?      YES
+Regular File?  YES
+Symbolic Link? NO
+Writable?      YES
+

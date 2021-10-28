@@ -1,0 +1,134 @@
+
+Entity Store:
+
+
+[1m**** Integrity check[0m
+Integrity check of entities.db
+ok
+Integrity check of snippets.db
+ok
+
+Entities Schema: 60
+
+CREATE TABLE entity (id INTEGER PRIMARY KEY AUTOINCREMENT,entityKey TEXT NOT NULL,entityType INTEGER NOT NULL,author TEXT,content TEXT,contentRangeOfInterest TEXT,title TEXT COLLATE NOCASE,timeRangeStart REAL,timeRangeEnd REAL,floatingRange INTEGER,timeRangeStartUTCOffsetSeconds INTEGER,timeRangeEndUTCOffsetSeconds INTEGER,creationTimestamp REAL,updateTimestamp REAL,indexTimestamp REAL,lastSeenTimestamp REAL,tags TEXT,structuredData BLOB,quality REAL,locations BLOB,masterEntityId INTEGER DEFAULT -1,groupId INTEGER DEFAULT -1,state INTEGER DEFAULT 0,contentHash TEXT,downloadState INTEGER DEFAULT 0, contentHashBlob BLOB, pendingGeocode BOOLEAN DEFAULT false, harvestedOnBuild TEXT)
+CREATE VIRTUAL TABLE entity_fts USING fts4(tokenize=ab_cf_tokenizer language="en" collator="en@collation=search", entityId INTEGER, messagingTerms TEXT COLLATE NOCASE, ftsTerms TEXT COLLATE NOCASE)
+CREATE TABLE 'entity_fts_content'(docid INTEGER PRIMARY KEY, 'c0entityId', 'c1messagingTerms', 'c2ftsTerms')
+CREATE TABLE 'entity_fts_segments'(blockid INTEGER PRIMARY KEY, block BLOB)
+CREATE TABLE 'entity_fts_segdir'(level INTEGER,idx INTEGER,start_block INTEGER,leaves_end_block INTEGER,end_block INTEGER,root BLOB,PRIMARY KEY(level, idx))
+CREATE TABLE 'entity_fts_docsize'(docid INTEGER PRIMARY KEY, size BLOB)
+CREATE TABLE 'entity_fts_stat'(id INTEGER PRIMARY KEY, value BLOB)
+CREATE TABLE entityTags (tag TEXT,entityKey TEXT,entityType INTEGER,parentKey TEXT,duplicateKeyHash TEXT NOT NULL, duplicateKeyHashBlob BLOB)
+CREATE TABLE confirmedFieldValues (entityId INTEGER PRIMARY KEY,fieldValues BLOB,maybeChanged BOOLEAN)
+CREATE TABLE entityParentage (id INTEGER PRIMARY KEY AUTOINCREMENT,parentKey TEXT,childId INTEGER NOT NULL,duplicateKeyHash TEXT NOT NULL,extractionType INTEGER,sourceKey TEXT, duplicateKeyHashBlob BLOB,UNIQUE(parentKey, childId))
+CREATE TABLE serializedContacts (id INTEGER PRIMARY KEY AUTOINCREMENT,entityId INTEGER,data BLOB)
+CREATE TABLE identityPerson (    identityPersonId INTEGER PRIMARY KEY AUTOINCREMENT,    middlename VARCHAR(256),    surname VARCHAR(256),    fullname TEXT,    nameSketches TEXT NOT NULL,    phones TEXT NOT NULL,    email TEXT NOT NULL,    recordId INTEGER NOT NULL,    curated BOOLEAN NOT NULL, imAddresses TEXT NOT NULL DEFAULT "", isSent BOOLEAN DEFAULT false)
+CREATE TABLE identityLink (    recordId1 INTEGER NOT NULL,    recordId2 INTEGER NOT NULL,    type INT NOT NULL,    strength REAL NOT NULL,    PRIMARY KEY (recordId1, recordId2, type))
+CREATE TABLE entityReferences (id INTEGER PRIMARY KEY AUTOINCREMENT,bundleIdentifier TEXT,uniqueIdentifier TEXT,entityId INTEGER,domainIdentifier TEXT)
+CREATE TABLE cnContactsToSgContacts (id INTEGER PRIMARY KEY AUTOINCREMENT,cnContactIdentifier TEXT,maxEntityId INTEGER,entityId INTEGER)
+CREATE TABLE cnContactsToSgContactsCacheJobs (id INTEGER PRIMARY KEY AUTOINCREMENT,batch TEXT)
+CREATE TABLE harvestQueueTombstones (bundleIdentifier TEXT,uniqueIdentifier TEXT,domainIdentifier TEXT)
+CREATE TABLE identityPhones (    recordId INTEGER NOT NULL,    phone TEXT NOT NULL)
+CREATE TABLE statsCounters (key TEXT NOT NULL,value REAL NOT NULL)
+CREATE TABLE serializedContactCacheJobs (id INTEGER PRIMARY KEY AUTOINCREMENT)
+CREATE TABLE metadata (key TEXT NOT NULL, value)
+CREATE TABLE messageTracer (domain TEXT NOT NULL,key TEXT NOT NULL,value INTEGER NOT NULL)
+CREATE TABLE identityBlobAnalysisJobs (id INTEGER PRIMARY KEY AUTOINCREMENT,mergeBlob BLOB)
+CREATE TABLE identityInterdictNext (a TEXT NOT NULL, b TEXT NOT NULL)
+CREATE TABLE emailMetadata (id INTEGER PRIMARY KEY AUTOINCREMENT,key TEXT NOT NULL,type INTEGER NOT NULL,sourceKey TEXT,author TEXT,creationTimestamp REAL,updateTimestamp REAL,indexTimestamp REAL,lastSeenTimestamp REAL,tags TEXT,state INTEGER DEFAULT 0,downloadState INTEGER DEFAULT 0,harvestedOnBuild TEXT)
+CREATE TABLE emailTags (key TEXT NOT NULL,type INTEGER NOT NULL,tag TEXT NOT NULL)
+CREATE TABLE reimportRequests (id INTEGER PRIMARY KEY AUTOINCREMENT,plugin TEXT NOT NULL,creationTimestamp REAL,queryTimestamp REAL,personHandle TEXT,startDateTimestamp REAL,endDateTimestamp REAL,executionTimestamp REAL)
+CREATE TABLE reimportItems (id INTEGER PRIMARY KEY AUTOINCREMENT,reimportRequestId INTEGER NOT NULL,bundleId TEXT NOT NULL,uniqueId TEXT NOT NULL,seenByReceiverTimestamp REAL)
+CREATE UNIQUE INDEX entityIdIdx on entity(id)
+CREATE INDEX entityMasterEntityIdIdx on entity(masterEntityId)
+CREATE INDEX entityStateIdx on entity(state)
+CREATE INDEX ix_entityTags_tag ON entityTags(tag)
+CREATE INDEX ix_entityTags_dupKey ON entityTags(entityKey, entityType, parentKey)
+CREATE INDEX entityParentageChildIdx on entityParentage(childId)
+CREATE UNIQUE INDEX serializedContactsEntityIdIdx ON serializedContacts(entityId)
+CREATE INDEX ix_identityPerson_surname ON identityPerson(surname)
+CREATE INDEX ix_identityPerson_middlename ON identityPerson(middlename)
+CREATE INDEX ix_identityPerson_email_nameless ON identityPerson(email)
+CREATE UNIQUE INDEX ix_identityPerson_recordId ON identityPerson(recordId)
+CREATE INDEX ix_identityLink_recordId2 ON identityLink(recordId2)
+CREATE UNIQUE INDEX entityReferencesUniqueIdx ON entityReferences(bundleIdentifier, uniqueIdentifier)
+CREATE INDEX entityReferencesDomainIdx ON entityReferences(bundleIdentifier, domainIdentifier)
+CREATE INDEX entityReferencesEntityIdIdx ON entityReferences(entityId)
+CREATE INDEX entityDownloadStateIdx on entity(downloadState)
+CREATE INDEX groupIdIdx on entity(groupId)
+CREATE INDEX cnContactsToSgContactsEntityIdx ON cnContactsToSgContacts(entityId)
+CREATE UNIQUE INDEX cnContactsToSgContactsUniqueJoin ON cnContactsToSgContacts(cnContactIdentifier, entityId)
+CREATE INDEX ix_identityPhones_recordId ON identityPhones(recordId)
+CREATE INDEX ix_identityPhones_phone ON identityPhones(phone)
+CREATE UNIQUE INDEX ix_statsCounters_key ON statsCounters(key)
+CREATE INDEX entityDupKeyIdx ON entity(entityKey, entityType)
+CREATE INDEX entityTypeIdx ON entity(entityType)
+CREATE UNIQUE INDEX ix_identityPhones_unique ON identityPhones(recordId, phone)
+CREATE INDEX entityParentageParentKeyChildIdIdx on entityParentage(parentKey, childId)
+CREATE UNIQUE INDEX ix_harvestQueueTombstones_unique ON harvestQueueTombstones(bundleIdentifier, uniqueIdentifier, domainIdentifier)
+CREATE UNIQUE INDEX entityContentHashBlobIdx ON entity(contentHashBlob)
+CREATE UNIQUE INDEX entityParentageDuplicateKeyHashBlobIdx on entityParentage(duplicateKeyHashBlob, extractionType)
+CREATE INDEX ix_entityTags_dupKeyHashBlob ON entityTags(duplicateKeyHashBlob)
+CREATE UNIQUE INDEX metadataKeyIndex ON metadata(key)
+CREATE UNIQUE INDEX messageTracerIdx ON messageTracer(domain, key)
+CREATE INDEX ix_entityTags_parentKey ON entityTags(parentKey)
+CREATE INDEX entityPendingGeocodeIdx ON entity(pendingGeocode) WHERE pendingGeocode=1
+CREATE UNIQUE INDEX ix_emailMetadata_key ON emailMetadata(key)
+CREATE INDEX ix_emailMetadata_state ON emailMetadata(state)
+CREATE INDEX ix_emailMetadata_downloadState ON emailMetadata(downloadState)
+CREATE INDEX ix_emailTags_tag ON emailTags(tag)
+CREATE INDEX ix_emailTags_key ON emailTags(key)
+CREATE INDEX reimportRequestsQueryIdx ON reimportRequests(queryTimestamp)
+CREATE INDEX reimportRequestsExecutionIdx ON reimportRequests(executionTimestamp)
+CREATE INDEX reimportItemsRequestIdx ON reimportItems(reimportRequestId)
+CREATE INDEX reimportItemsSeenByReceiverIdx ON reimportItems(seenByReceiverTimestamp)
+CREATE INDEX reimportItemsBundleUniqueIdx ON reimportItems(bundleId, uniqueId)
+CREATE TABLE integrityCheck (inconsequential STRING)
+CREATE TABLE identityInterdict (a TEXT NOT NULL, b TEXT NOT NULL)
+
+
+Snippets Schema: 60
+
+CREATE TABLE snippets (id INTEGER PRIMARY KEY AUTOINCREMENT,entityId INTEGER,title TEXT,content TEXT,contentRangeOfInterest TEXT)
+CREATE TABLE emailSnippets (id INTEGER PRIMARY KEY AUTOINCREMENT,emailId INTEGER,title TEXT,content TEXT)
+CREATE UNIQUE INDEX entityIdIdx ON snippets(entityId)
+CREATE UNIQUE INDEX ix_emailSnippets_emailId ON emailSnippets(emailId)
+CREATE TABLE integrityCheck (inconsequential STRING)
+
+Harvest queue:
+
+ok
+
+Harvest queue schema: 0
+
+
+Pending queue:
+
+ok
+
+Pending queue schema: 3
+
+CREATE TABLE integrityCheck (inconsequential STRING)
+CREATE TABLE item (  id INTEGER PRIMARY KEY, sourceKey TEXT, messageId TEXT,  inProgress INT, fails INT, fileId INT,  metadataOffset INT, metadataLen INT, metadataChecksum INT,  htmlOffset INT, htmlLen INT, htmlChecksum INT, insertTime INT, textOffset INT, textLen INT, textChecksum INT)
+CREATE INDEX emailIdIdx ON item (sourceKey, messageId)
+CREATE TABLE file (id INTEGER PRIMARY KEY, refcount INT)
+
+Training database:
+
+ok
+
+Training db schema: 18
+
+CREATE TABLE integrityCheck (inconsequential STRING)
+CREATE TABLE sessionsDomainIds ( id integer PRIMARY KEY AUTOINCREMENT NOT NULL, sessionId integer NOT NULL, domainIdentifier char(128) NOT NULL, bundleIdentifier char(128), FOREIGN KEY (sessionId) REFERENCES sessions (id) ON DELETE CASCADE )
+CREATE TABLE sessionsItemIds ( id integer PRIMARY KEY AUTOINCREMENT NOT NULL, sessionId integer NOT NULL, itemIdentifier char(128) NOT NULL, bundleIdentifier char(128), FOREIGN KEY (sessionId) REFERENCES sessions (id) ON DELETE CASCADE )
+CREATE TABLE receivedPlans ( planId char(128) PRIMARY KEY NOT NULL, modificationTimestamp real NOT NULL, serializedPlan blob NOT NULL )
+CREATE TABLE sessionsDescriptors ( id integer PRIMARY KEY AUTOINCREMENT NOT NULL, name char(128) NOT NULL, version char(128) NOT NULL, locale char(5) NOT NULL )
+CREATE TABLE sessions ( id integer PRIMARY KEY AUTOINCREMENT NOT NULL, creationTimestamp real NOT NULL, sessionDescriptorId integer NOT NULL, label integer NOT NULL, covariatesLength integer NOT NULL, covariatesIndices blob, covariatesValues blob, isAppleInternal integer(1) NOT NULL DEFAULT 0, source blob, FOREIGN KEY (sessionDescriptorId) REFERENCES sessionsDescriptors (id) ON DELETE CASCADE )
+CREATE TABLE trainingLog ( id integer PRIMARY KEY AUTOINCREMENT NOT NULL, creationTimestamp real NOT NULL, planId char(128) NOT NULL, sessionDescriptorId integer NOT NULL, serverIteration integer NOT NULL, FOREIGN KEY (sessionDescriptorId) REFERENCES sessionsDescriptors (id) ON DELETE CASCADE )
+CREATE UNIQUE INDEX ix_sessionsDescriptors_name_version_locale ON sessionsDescriptors (name, version, locale)
+CREATE INDEX ix_sessions_sessionDescriptorId ON sessions (sessionDescriptorId ASC)
+CREATE INDEX ix_trainingLog_planId_creationTimestamp ON trainingLog (planId, creationTimestamp)
+CREATE INDEX ix_sessionsItemIds_bundleId_itemId ON sessionsItemIds (bundleIdentifier, itemIdentifier)
+CREATE INDEX ix_sessionsItemIds_sessionId ON sessionsItemIds (sessionId)
+CREATE INDEX ix_sessionsDomainIds_bundleId_domainId ON sessionsDomainIds (bundleIdentifier, domainIdentifier)
+CREATE INDEX ix_sessionsDomainIds_sessionId ON sessionsDomainIds (sessionId)

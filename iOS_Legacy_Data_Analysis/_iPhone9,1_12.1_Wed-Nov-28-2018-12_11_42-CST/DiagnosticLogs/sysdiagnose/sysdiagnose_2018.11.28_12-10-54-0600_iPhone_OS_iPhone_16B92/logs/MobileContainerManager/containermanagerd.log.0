@@ -1,0 +1,80 @@
+Thu Nov 15 13:52:04 2018 [65] <notice> (0x1b7503b40) main: containermanagerd performing first boot initialization
+Thu Nov 15 13:52:04 2018 [65] <notice> (0x1b7503b40) -[MCMMigrationStatus _migrateFromManyMarkerFilesToOne]: Migrating from many marker files down to one
+Thu Nov 15 13:52:05 2018 [65] <notice> (0x1b7503b40) -[MCMMigrationStatus isBuildUpgrade]: Did not find last build info; we must be upgrading from pre-9.3.1 or this is an erase install.
+Thu Nov 15 13:52:05 2018 [65] <notice> (0x1b7503b40) -[MCMClientConnection _regenerateAllSystemContainerPaths]: Rolling system container directory UUIDs on disk
+Thu Nov 15 13:52:05 2018 [65] <notice> (0x1b7503b40) -[MCMMigrationStatus writeCurrentBuildInfoToDisk]: Saved last build version of 15G77
+Thu Nov 15 13:52:05 2018 [65] <notice> (0x1b7503b40) main: containermanagerd first boot cleanup complete
+Thu Nov 15 13:52:06 2018 [65] <notice> (0x16b713000) -[MCMContainerMigrator performDataMigratorMigrationWithError:]: Performing Data Migration on 15G77
+Thu Nov 15 13:52:06 2018 [65] <notice> (0x16b713000) -[MCMFileManager standardizeAllSystemContainerACLsAtURL:error:]: Potential containers requiring ACL migration: (
+    "EA6E7CB7-6C09-4A0A-867C-7BF8EF028E71/ -- file:///private/var/containers/Data/System/",
+    "DB9A726C-67C8-4D56-A205-9931C2996836/ -- file:///private/var/containers/Data/System/",
+    "DE7A028D-9CBC-4D03-A215-804CE2CC7A0D/ -- file:///private/var/containers/Data/System/",
+    "FE8048EC-F4F9-4B26-8611-9003240889C9/ -- file:///private/var/containers/Data/System/"
+)
+Thu Nov 15 13:52:06 2018 [65] <notice> (0x16b713000) -[MCMFileManager standardizeAllSystemContainerACLsAtURL:error:]: Potential containers requiring ACL migration: (
+    "systemgroup.com.apple.icloud.findmydevice.managed/ -- file:///private/var/containers/Shared/SystemGroup/",
+    "systemgroup.com.apple.configurationprofiles/ -- file:///private/var/containers/Shared/SystemGroup/",
+    "9CAA95E9-3A0F-4AF9-A38C-2902802EAEBF/ -- file:///private/var/containers/Shared/SystemGroup/",
+    "E16A76C3-2B50-4F35-9516-E191C0C00B68/ -- file:///private/var/containers/Shared/SystemGroup/",
+    "35513E16-23C4-4F3B-B2A5-D2F9DB5B4B8F/ -- file:///private/var/containers/Shared/SystemGroup/",
+    "8191595B-B9A5-4413-97E0-9A82883FA525/ -- file:///private/var/containers/Shared/SystemGroup/",
+    "0D391917-2820-48DB-B862-E9F85577B578/ -- file:///private/var/containers/Shared/SystemGroup/",
+    "systemgroup.com.apple.installcoordinationd/ -- file:///private/var/containers/Shared/SystemGroup/",
+    "systemgroup.com.apple.pisco.suinfo/ -- file:///private/var/containers/Shared/SystemGroup/",
+    "D00F6090-C60E-4325-A96B-95DB6E185452/ -- file:///private/var/containers/Shared/SystemGroup/"
+)
+Thu Nov 15 13:52:06 2018 [65] <notice> (0x16b713000) -[MCMMigrationStatus setMigrationCompleteForType:]: Migration completed on 15G77 for ACLMigration
+Thu Nov 15 13:52:06 2018 [65] <notice> (0x16b713000) -[MCMContainerMigrator _performBundleContainerOwnershipMigrationWithError:]: Changing ownership of bundle container content.
+Thu Nov 15 13:52:06 2018 [65] <notice> (0x16b713000) -[MCMMigrationStatus setMigrationCompleteForType:]: Migration completed on 15G77 for BundleMigration
+Thu Nov 15 13:52:06 2018 [65] <notice> (0x16b713000) -[MCMCodeSigningMapping _onQueue_migrateAppGroupIdsFromDataContainersToFile]: Performing group ID migration
+Thu Nov 15 13:52:06 2018 [65] <notice> (0x16b713000) -[MCMMigrationStatus setMigrationCompleteForType:]: Migration completed on 15G77 for GroupIdMigration
+Thu Nov 15 13:52:06 2018 [65] <notice> (0x16b713000) -[MCMCodeSigningMapping _onQueue_migrateCachedCodeSigningInfoFromBundleContainersToMapping]: Performing code signing migration
+Thu Nov 15 13:52:06 2018 [65] <notice> (0x16b713000) -[MCMMigrationStatus setMigrationCompleteForType:]: Migration completed on 15G77 for CodeSigningMigration
+Thu Nov 15 13:53:24 2018 [65] <notice> (0x16b687000) -[MCMContainerMigrator performPerUserDataMigrationForClientConnection:withError:]: Container data migration requested for current mobile user
+Thu Nov 15 13:53:24 2018 [65] <notice> (0x16b687000) -[MCMContainerMigrator performPerUserDataMigrationForClientConnection:withError:]: Performing Per User Subdirectory Migration for 501 on 15G77
+Thu Nov 15 13:53:24 2018 [65] <notice> (0x16b687000) -[MCMMigrationStatus setMigrationCompleteForType:]: Migration completed on 15G77 for SubdirectoryMigration
+Thu Nov 15 13:53:56 2018 [65] <err> (0x1b7503b40) server_get_process_containers: Invalid data container class for com.apple.watchlistd: 0
+Thu Nov 15 13:53:56 2018 [65] <notice> (0x1b7503b40) server_get_process_containers: SB Type: 0, falling back to class: 2
+Wed Dec 31 16:07:16 1969 [64] <notice> (0x1b433bb40) main: containermanagerd performing first boot initialization
+Wed Dec 31 16:07:16 1969 [64] <notice> (0x1b433bb40) -[MCMMigrationStatus isBuildUpgrade]: Current build version (15G77 / (null)) equal to last version recorded (15G77 / (null)); skipping upgrade
+Wed Dec 31 16:07:17 1969 [64] <notice> (0x1b433bb40) main: containermanagerd first boot cleanup complete
+Thu Jan  1 08:53:08 1970 [64] <notice> (0x1b45c7b40) main: containermanagerd performing first boot initialization
+Thu Jan  1 08:53:08 1970 [64] <notice> (0x1b45c7b40) -[MCMMigrationStatus isBuildUpgrade]: Current build version (15G77 / (null)) equal to last version recorded (15G77 / (null)); skipping upgrade
+Thu Jan  1 08:53:08 1970 [64] <notice> (0x1b45c7b40) main: containermanagerd first boot cleanup complete
+Mon Nov 26 15:55:46 2018 [64] <notice> (0x1b47e3b40) main: containermanagerd performing first boot initialization
+Mon Nov 26 15:55:46 2018 [64] <notice> (0x1b47e3b40) -[MCMMigrationStatus isBuildUpgrade]: Current build version (15G77 / (null)) equal to last version recorded (15G77 / (null)); skipping upgrade
+Mon Nov 26 15:55:46 2018 [64] <notice> (0x1b47e3b40) main: containermanagerd first boot cleanup complete
+Mon Nov 26 15:59:49 2018 [64] <err> (0x1b47e3b40) server_get_process_containers: Invalid data container class for com.apple.watchlistd: 0
+Mon Nov 26 15:59:49 2018 [64] <notice> (0x1b47e3b40) server_get_process_containers: SB Type: 0, falling back to class: 2
+Mon Nov 26 16:04:23 2018 [64] <notice> (0x1b5a03b40) main: containermanagerd performing first boot initialization
+Mon Nov 26 16:04:23 2018 [64] <notice> (0x1b5a03b40) -[MCMMigrationStatus isBuildUpgrade]: Current build version (15G77 / (null)) equal to last version recorded (15G77 / (null)); skipping upgrade
+Mon Nov 26 16:04:23 2018 [64] <notice> (0x1b5a03b40) main: containermanagerd first boot cleanup complete
+Mon Nov 26 16:08:25 2018 [64] <err> (0x1b5a03b40) server_get_process_containers: Invalid data container class for com.apple.watchlistd: 0
+Mon Nov 26 16:08:25 2018 [64] <notice> (0x1b5a03b40) server_get_process_containers: SB Type: 0, falling back to class: 2
+Wed Nov 28 11:34:55 2018 [60] <notice> (0x1009b6b80) main: containermanagerd performing first boot initialization
+Wed Nov 28 11:34:55 2018 [60] <notice> (0x1009b6b80) -[MCMMigrationStatus isBuildUpgrade]: Detected upgrade from 15G77 ((null)) to 16B92 ((null))
+Wed Nov 28 11:34:55 2018 [60] <notice> (0x1009b6b80) -[MCMClientConnection _regenerateAllSystemContainerPaths]: Rolling system container directory UUIDs on disk
+Wed Nov 28 11:34:55 2018 [60] <notice> (0x1009b6b80) -[MCMMigrationStatus writeCurrentBuildInfoToDisk]: Saved last build version of 16B92
+Wed Nov 28 11:34:56 2018 [60] <notice> (0x1009b6b80) main: containermanagerd first boot cleanup complete
+Wed Nov 28 11:34:56 2018 [60] <notice> (0x16f8ef000) -[MCMCodeSigningMapping processCallerRegisteredEntitlements:forIdentifier:]: com.apple.AppleCredentialManagerDaemon has changed entitlements. Re-registering.
+Wed Nov 28 11:34:56 2018 [60] <notice> (0x16fa07000) -[MCMCodeSigningMapping processCallerRegisteredEntitlements:forIdentifier:]: com.apple.nsurlsessiond has changed entitlements. Re-registering.
+Wed Nov 28 11:34:56 2018 [60] <notice> (0x16f97b000) -[MCMCodeSigningMapping processCallerRegisteredEntitlements:forIdentifier:]: com.apple.awdd has changed entitlements. Re-registering.
+Wed Nov 28 11:34:56 2018 [60] <notice> (0x16fa93000) -[MCMCodeSigningMapping processCallerRegisteredEntitlements:forIdentifier:]: com.apple.dmd has changed entitlements. Re-registering.
+Wed Nov 28 11:34:56 2018 [60] <notice> (0x16fcc3000) -[MCMCodeSigningMapping processCallerRegisteredEntitlements:forIdentifier:]: com.apple.routined has changed entitlements. Re-registering.
+Wed Nov 28 11:34:56 2018 [60] <notice> (0x16f7d7000) -[MCMCodeSigningMapping processCallerRegisteredEntitlements:forIdentifier:]: com.apple.timed has changed entitlements. Re-registering.
+Wed Nov 28 11:34:56 2018 [60] <notice> (0x16fbab000) -[MCMCodeSigningMapping processCallerRegisteredEntitlements:forIdentifier:]: com.apple.locationd has changed entitlements. Re-registering.
+Wed Nov 28 11:34:56 2018 [60] <notice> (0x16fc37000) -[MCMCodeSigningMapping processCallerRegisteredEntitlements:forIdentifier:]: com.apple.lsd has changed entitlements. Re-registering.
+Wed Nov 28 11:34:56 2018 [60] <notice> (0x16fb1f000) -[MCMCodeSigningMapping processCallerRegisteredEntitlements:forIdentifier:]: com.apple.coreduetd has changed entitlements. Re-registering.
+Wed Nov 28 11:34:56 2018 [60] <notice> (0x16f97b000) -[MCMCodeSigningMapping processCallerRegisteredEntitlements:forIdentifier:]: com.apple.migrationpluginwrapper has changed entitlements. Re-registering.
+Wed Nov 28 11:34:56 2018 [60] <notice> (0x16f97b000) -[MCMContainerMigrator performDataMigratorMigrationWithError:]: Performing Data Migration on 16B92
+Wed Nov 28 11:34:57 2018 [60] <notice> (0x16fd4f000) -[MCMCodeSigningMapping processCallerRegisteredEntitlements:forIdentifier:]: com.apple.UserEventAgent has changed entitlements. Re-registering.
+Wed Nov 28 11:34:58 2018 [60] <notice> (0x16fd4f000) -[MCMCodeSigningMapping processCallerRegisteredEntitlements:forIdentifier:]: com.apple.nanoregistryd has changed entitlements. Re-registering.
+Wed Nov 28 11:38:55 2018 [60] <notice> (0x16f8ef000) -[MCMContainerMigrator performPerUserDataMigrationForClientConnection:withError:]: Container data migration requested by com.apple.migrationpluginwrapper for current mobile user: 501
+Wed Nov 28 11:38:55 2018 [60] <notice> (0x16f8ef000) -[MCMContainerMigrator performPerUserDataMigrationForClientConnection:withError:]: Performing User Data Protection Migration for 501 on 16B92
+Wed Nov 28 11:38:55 2018 [60] <notice> (0x16f8ef000) -[MCMContainerMigrator performPerUserDataMigrationForClientConnection:withError:]: Completed User Data Protection Migration for 501 on 16B92 : Success: Y
+Wed Nov 28 11:39:15 2018 [60] <notice> (0x16f7d7000) -[MCMCodeSigningMapping processCallerRegisteredEntitlements:forIdentifier:]: com.apple.cfprefsd has changed entitlements. Re-registering.
+Wed Nov 28 11:58:07 2018 [60] <notice> (0x16f8ef000) -[MCMCodeSigningMapping processCallerRegisteredEntitlements:forIdentifier:]: com.apple.CacheDeleteAppContainerCaches has changed entitlements. Re-registering.
+Wed Nov 28 11:58:31 2018 [60] <err> (0x1009b6b80) server_get_process_containers: Invalid data container class for com.apple.VoiceMemos.appremoval: 0
+Wed Nov 28 11:58:31 2018 [60] <notice> (0x1009b6b80) server_get_process_containers: SB Type: 0, falling back to class: 2
+Wed Nov 28 11:58:31 2018 [60] <notice> (0x16f863000) -[MCMGroupManager _removeGroupContainersIfNeededforUser:groupContainerClass:identifiers:referenceCounts:]: Last reference to group container group.com.apple.VoiceMemos.shared for 501 is going away; removing it.
+Wed Nov 28 11:58:31 2018 [60] <err> (0x16f7d7000) -[MCMClientConnection userManagedAssetsPathForUser:identifier:isRelative:createIfNecessary:existed:withError:]: 2102: Failed to create app data container for user managed assets path for com.apple.VoiceMemos: Error Domain=MCMErrorDomain Code=21 "Cache: Data/Application: Container Not Found with ID: com.apple.VoiceMemos" UserInfo={SourceFileLine=155, NSLocalizedDescription=Cache: Data/Application: Container Not Found with ID: com.apple.VoiceMemos, FunctionName=-[MCMContainerCache containerForUser:contentClass:identifier:transient:error:]} (Error Domain=MCMErrorDomain Code=21 "Cache: Data/Application: Container Not Found with ID: com.apple.VoiceMemos" UserInfo={SourceFileLine=155, NSLocalizedDescription=Cache: Data/Application: Container Not Found with ID: com.apple.VoiceMemos, FunctionName=-[MCMContainerCache containerForUser:contentClass:identifier:transient:error:]})
